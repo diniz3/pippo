@@ -186,27 +186,28 @@ async function convertExFatToPegasus(exFatData) {
 }
 
 // EXECUÇÃO DO SCRIPT NO AMBIENTE AUTOMAÇÃO
+// EXECUÇÃO DO SCRIPT NO AMBIENTE AUTOMAÇÃO
 async function autoUpdate() {
   try {
-    // A URL oficial do catálogo do Pippo de onde descarrega o exFAT.json
+    // COLE O LINK QUE VOCÊ COPIOU AQUI DENTRO DAS ASPAS:
     const URL_ORIGINAL = "https://pippo26442999.github.io/link-lock-pippo/exFAT.json"; 
     
-    console.log("A descarregar o catálogo original do Pippo...");
+    console.log("Baixando o catálogo original do Pippo...");
     const response = await fetch(URL_ORIGINAL);
     
     if (!response.ok) {
-      throw new Error(`Erro ao descarregar arquivo: ${response.statusText}`);
+      throw new Error(`Erro ao baixar arquivo: ${response.statusText}`);
     }
     
     const exFatData = await response.json();
-    console.log("Catálogo obtido com sucesso. A iniciar conversão...");
+    console.log("Catálogo obtido com sucesso. Iniciando conversão...");
 
     globalThis.crypto = crypto; 
     const resultado = await convertExFatToPegasus(exFatData);
 
-    // Guarda o ficheiro final que o PS5 vai ler
+    // Salva o arquivo final que o seu PS5 vai ler
     fs.writeFileSync('lista_ps5.json', JSON.stringify(resultado.catalog, null, 2));
-    console.log("Sucesso! O ficheiro lista_ps5.json foi gerado.");
+    console.log("Sucesso! O arquivo lista_ps5.json foi gerado.");
   } catch (error) {
     console.error("Falha Crítica na Automação:", error.message);
     process.exit(1);
