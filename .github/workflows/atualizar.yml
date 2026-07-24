@@ -1,0 +1,30 @@
+name: Atualizar Lista PS5
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Roda automaticamente todos os dias
+  workflow_dispatch: # Permite rodar manualmente a qualquer momento
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permite que a Action crie e atualize a branch gh-pages
+    steps:
+      - name: Baixar código do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Executar o Script de Conversão
+        run: node converter.js
+
+      - name: Dar deploy no GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: gh-pages
