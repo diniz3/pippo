@@ -20,7 +20,7 @@ jobs:
           node-version: 20
 
       - name: Executar o Script de Conversão
-        run: node converter.js
+        run: node .github/converter.js
 
       - name: Dar deploy no GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
