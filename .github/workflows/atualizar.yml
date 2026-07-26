@@ -2,14 +2,14 @@ name: Atualizar Lista PS5
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Roda automaticamente todos os dias
-  workflow_dispatch: # Permite rodar manualmente a qualquer momento
+    - cron: '0 0 * * *' # Roda todos os dias à meia-noite
+  workflow_dispatch: # Permite rodar manualmente no botão
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Permite que a Action crie e atualize a branch gh-pages
+      contents: write
     steps:
       - name: Baixar código do repositório
         uses: actions/checkout@v4
@@ -22,7 +22,7 @@ jobs:
       - name: Executar o Script de Conversão
         run: node .github/converter.js
 
-      - name: Dar deploy no GitHub Pages
+      - name: Publicar no GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
