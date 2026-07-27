@@ -3,6 +3,169 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA21840",
+      "title": "GreedFall The Dying World",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/GreedFall_The_Dying_World.avif",
+      "description": "Builds: DLC\nTags: PPSA21840, v01.004, EUR, 4.xx BackPort\nSize: 51GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: Textures missing fixed.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qLQ36KkN1z19/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/uIQkRTKQHw"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/tbu7dz16exwq"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/r6z3x5c5osqd"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/4tpa4kmro4y2"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/7fl4dhwwzunp"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/fkk21s8xughl"
+        }
+      ],
+      "sizeBytes": 54760833024
+    },
+    {
+      "titleId": "PPSA32802",
+      "title": "Fatal Frame 2 Crimson Butterfly Remake Deluxe Edition",
+      "version": "v01.002.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Fatal_Frame_2_Crimson_Butterfly_Remake_Deluxe_Edition.avif",
+      "description": "Tags: PPSA32802, v01.002.002, JPN, DLCs Merged, 4.xx BackPort\nSize: 31GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0JgG7PRdZmoY/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/nXxo1546Nc"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/lde6d50c0t9u"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/8qu9uaz2i3q6"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/jlz8hpdoc1z9"
+        }
+      ],
+      "sizeBytes": 33285996544
+    },
+    {
+      "titleId": "PPSA20548",
+      "title": "Eriksholm The Stolen Dream",
+      "version": "v01.003.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Eriksholm_The_Stolen_Dream.avif",
+      "description": "Tags: PPSA20548, v01.003.001, EUR, 4.xx BackPort\nSize: 23GB\nCredits: Files: aLBniGe & SiESPta; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/2bJG80MvdGOB/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/mbaInV3jeb"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/pqg1hq1zaplm"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/bv863n7qd9gc"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/d8w90kfgiy5v"
+        }
+      ],
+      "sizeBytes": 24696061952
+    },
+    {
+      "titleId": "PPSA02110",
+      "title": "No Mans Sky",
+      "version": "v06.024",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/No_Mans_Sky.avif",
+      "description": "Tags: PPSA02110, v06.024, USA to EUR Langs, 4.xx BackPort\nSize: 25GB\nCredits: Files: High-Speed007; Backport: DecKerr97 & BestPig",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/1RgzR4wovmbp/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/EPJcUihAJh"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/3h9p6dujefr9"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/dac6gagepyqy"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/fbugr0ewt161"
+        }
+      ],
+      "sizeBytes": 26843545600
+    },
+    {
+      "titleId": "PPSA04734",
+      "title": "MX vs ATV Legends 2025 Ultimate Edition",
+      "version": "v04.024",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MX_vs_ATV_Legends_UE.png",
+      "description": "Tags: PPSA04734, v04.024, USA, DLCs Merged, 4.xx BackPort\nSize: 115GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo\nHow to play: All DLCs until 2025 are unlocked, 2026 DLCs need higher patch (13+).",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/7d5GLlyLLGxR/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/mIezvLvlMa"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/1hi8nww39wsl"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/08js511yaagr"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/z0hf7yxsjxko"
+        }
+      ],
+      "sizeBytes": 123480309760
+    },
+    {
       "titleId": "PPSA21837",
       "title": "Lollipop Chainsaw RePoP",
       "version": "v01.017.001",
@@ -395,7 +558,7 @@
       "version": "v01.015.001",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Spider_Man_Miles_Morales.webp",
-      "description": "Tags: PPSA01417, v01.015.001, EUR, DLCs Merged, 2.xx and beyond\nSize: 88GB\nCredits: Files: DUPLEX; DLC: DUPLEX",
+      "description": "Tags: PPSA01417, v01.015.001, EUR, DLCs Merged, 5.xx and beyond\nSize: 88GB\nCredits: Files: DUPLEX; DLC: DUPLEX",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -15229,5 +15392,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-07-26T15:23:16.287Z"
+  "_generated": "2026-07-27T02:24:21.271Z"
 }
