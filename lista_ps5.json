@@ -3,6 +3,169 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA32393",
+      "title": "Total Chaos",
+      "version": "v01.002.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Total_Chaos.avif",
+      "description": "Tags: PPSA32393, v01.002.002, EUR, 4.xx BackPort\nSize: 13GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/M2BGwQnxP3j4/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/rXIOCyOzMd"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/7kkci6v0nf64"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/15y3numnpnd5"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/kflz9byegp4g"
+        }
+      ],
+      "sizeBytes": 13958643712
+    },
+    {
+      "titleId": "PPSA27765",
+      "title": "Agatha Christie Death on The Nile",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Agatha_Christie_Death_on_The_Nile.avif",
+      "description": "Tags: PPSA27765, v01.000, EUR, 4.xx BackPort\nSize: 24GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/dZxG5qxo6GVj/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/jiozeDV3SI"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/8mf3edpkv89p"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/plh82y9wf120"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/w7n1axdhm29x"
+        }
+      ],
+      "sizeBytes": 25769803776
+    },
+    {
+      "titleId": "PPSA27640",
+      "title": "Beneath",
+      "version": "v01.006",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Beneath.avif",
+      "description": "Tags: PPSA27640, v01.006, EUR, 4.xx BackPort\nSize: 26GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/rk9zKRXly30l/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/46CIidzyYP"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/ac8ilteybwhi"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/pqm0rpfe3ggr"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/3exmhz330743"
+        }
+      ],
+      "sizeBytes": 27917287424
+    },
+    {
+      "titleId": "PPSA04203",
+      "title": "Sid Meiers Civilization VII Founders Edition",
+      "version": "v01.019",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Sid_Meiers_Civilization_VII_FE.png",
+      "description": "Tags: PPSA04203, v01.019, USA, DLCs Merged, 4.xx BackPort\nSize: 23GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/LK0G1yEewG91/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/ag2nbALxCr"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/gr4ta47bif74"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ss1wwsz9cww8"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/4q5xkcruqkwg"
+        }
+      ],
+      "sizeBytes": 24696061952
+    },
+    {
+      "titleId": "PPSA20560",
+      "title": "DOOM The Dark Ages",
+      "version": "v01.011",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/DOOM_The_Dark_Ages.avif",
+      "description": "Builds: DLC\nTags: PPSA20560, v01.011, USA, 4.xx BackPort\nSize: 163GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: DUPLEX\nHow to play: DLC Revelations need higher patch (13+).",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0KezkRe9o3D1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/9HG0Po3w1X"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/r4f6nzdwwm88"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/faucibmzhpge"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/xdjm6s2oh2mu"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/l1fih874evlv"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/r1uu78l264n7"
+        }
+      ],
+      "sizeBytes": 175019917312
+    },
+    {
       "titleId": "PPSA21840",
       "title": "GreedFall The Dying World",
       "version": "v01.004",
@@ -15061,25 +15224,6 @@
       "sizeBytes": 20401094656
     },
     {
-      "titleId": "PPSA20560",
-      "title": "DOOM The Dark Ages: Premium Edition",
-      "version": "v01.009",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/DOOM_The_Dark_Ages_Premium_Edition.png",
-      "description": "Builds: 7.xx BackPort, 4.xx BackPort\nTags: PPSA20560, v01.009, EUR, DLCs Merged, 7.xx BackPort + 4.xx BackPort\nSize: 162GB\nCredits: Files: High-Speed007; Backport: Kira - idlesauce - BestPig",
-      "downloadLinks": [
-        {
-          "name": "7.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/LJlGnljX6315/file"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/N2p3DVwAkGMa/file"
-        }
-      ],
-      "sizeBytes": 173946175488
-    },
-    {
       "titleId": "PPSA08511",
       "title": "Endling Extinction is Forever",
       "version": "v1.000.002",
@@ -15392,5 +15536,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-07-27T02:24:21.271Z"
+  "_generated": "2026-07-28T01:59:14.280Z"
 }
