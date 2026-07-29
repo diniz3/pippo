@@ -3,6 +3,107 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA25319",
+      "title": "MotoGP 25",
+      "version": "v01.013",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MotoGP_25.avif",
+      "description": "Tags: PPSA25319, v01.013, EUR, 4.xx BackPort\nSize: 44GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/gXeGOokJAGAa/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/PwSvqgpmjW"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/e9yzpmm45ct6"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/jf3alwhor0da"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/erx6x0oexvh8"
+        }
+      ],
+      "sizeBytes": 47244640256
+    },
+    {
+      "titleId": "PPSA24884",
+      "title": "Starfield",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Starfield.avif",
+      "description": "Builds: DLC\nTags: PPSA24884, v01.002, USA, 4.xx BackPort\nSize: 217GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: Dont use etaHEN, use only kstuff lite 1.09 from EchoStretch + ShadowMountPlus latest (not Alpha).",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/jJD3VLOqrGa5/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/T6Z4W5zJai"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/tgskv6osmkhk"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/t4kpy2f3bl97"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/x1sh26msjzza"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/k71cy3udtnxw"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/0a52d2369tov"
+        }
+      ],
+      "sizeBytes": 233001975808
+    },
+    {
+      "titleId": "PPSA30568",
+      "title": "Invincible VS",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Invincible_VS.avif",
+      "description": "Tags: PPSA30568, v01.000, USA, 4.xx BackPork\nSize: 18GB\nCredits: Files: High-Speed007; Backport: BestPig & DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/QN9mEZov736d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/mU48whawxt"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/3oo880y46cd3"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/4dy7ocmcfkf3"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/7vtpe4o2rr07"
+        }
+      ],
+      "sizeBytes": 19327352832
+    },
+    {
       "titleId": "PPSA32393",
       "title": "Total Chaos",
       "version": "v01.002.002",
@@ -935,7 +1036,7 @@
       "version": "v01.020",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Avatar_Frontiers_of_Pandora_CE.avif",
-      "description": "Tags: PPSA01575, v01.020, EUR, DLCs Merged, 4.xx BackPort\nSize: 319GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX",
+      "description": "Tags: PPSA01575, v01.020, EUR, DLCs Merged, 4.xx BackPort\nSize: 319GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Need account with offact + np-fake-signin for unlock DLCs.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -15536,5 +15637,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-07-28T01:59:14.280Z"
+  "_generated": "2026-07-29T02:02:17.058Z"
 }
