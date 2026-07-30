@@ -3,6 +3,344 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA29629",
+      "title": "Marvel Cosmic Invasion",
+      "version": "v02.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvel_Cosmic_Invasion.jpg",
+      "description": "Tags: PPSA29629, v02.002, EUR, 4.xx BackPort\nSize: 813MB\nCredits: Files: DLPS Team; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/vgKGxQk8qm8Q/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/3j1rR7M8cP"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/6hjkzjqztaqb"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/pwh2ba81qz51"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/v7puxvr8otmp"
+        }
+      ],
+      "sizeBytes": 852492288
+    },
+    {
+      "titleId": "PPSA07211",
+      "title": "Super Woden GP",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Super_Woden_GP.webp",
+      "description": "Tags: PPSA07211, v01.003, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/QN9mEZr2R36d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/tZslYc9dTA"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/yd8nxgint2ah"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/g3pvp6hpg1c2"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/ufiecix1dq5k"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA08592",
+      "title": "Monster Energy Supercross The Official Videogame 6",
+      "version": "v01.008",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Monster_Energy_Supercross_The_Official_Videogame_6.webp",
+      "description": "Tags: PPSA08592, v01.008, EUR, 4.xx BackPort\nSize: 53GB\nCredits: Files: DUPLEX & Jose Carrion; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/obj3jdDRrGDx/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/3H1DlSQkA0"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/vd28yue8chrj"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/y514agi5aq6d"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/sjnp8lhbo1f7"
+        }
+      ],
+      "sizeBytes": 56908316672
+    },
+    {
+      "titleId": "PPSA12363",
+      "title": "Gamedec Definitive Edition",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Gamedec_Definitive_Edition.png",
+      "description": "Tags: PPSA12363, v01.000, USA, 4.xx BackPort\nSize: 14GB\nCredits: Files: DUPLEX & Jose Carrion; Backport: DecKerr97\nHow to play: Polski is the default language, if you wish change this you can do this on Settings.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/ex5z218Me3Kq/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/c2O5nZYhpt"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/qt9xbxm80dh5"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/850g5lk0pfyo"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/wobm7rdhl30a"
+        }
+      ],
+      "sizeBytes": 15032385536
+    },
+    {
+      "titleId": "PPSA07393",
+      "title": "Gori Cuddly Carnage",
+      "version": "v01.009",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Gori_Cuddly_Carnage.avif",
+      "description": "Builds: Standard 6.xx, 4.xx BackPort, DLC\nTags: PPSA07393, v01.009, USA, Standard (6.xx) + 4.xx BackPort\nSize: 24GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "Standard 6.xx - AkiraBox",
+          "url": "https://akirabox.com/1RgzR46gVmbp/file"
+        },
+        {
+          "name": "Standard 6.xx - VikingFile",
+          "url": "https://vikingfile.com/f/WVYlAiKlMk"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/7d5GLlpn7GxR/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/1AQKGfQ2or"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/ifaw9js2ugdc"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/ip9xhs0c9vn9"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/wrq560f9q0qi"
+        },
+        {
+          "name": "DLC - AkiraBox",
+          "url": "https://akirabox.com/jar3Xaqgrz2d/file"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/2784tylejquy"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/hxx3zov3mrim"
+        }
+      ],
+      "sizeBytes": 25769803776
+    },
+    {
+      "titleId": "PPSA10112",
+      "title": "SILENT HILL The Short Message",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/SILENT_HILL_The_Short_Message.jpg",
+      "description": "Tags: PPSA10112, v01.001, ASIA, 4.xx BackPort\nSize: 18GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/obj3jdDrjGDx/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/v3Zwm9t8me"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/7omtzmiq51ui"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/j2gko5o6uk4m"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/mkvw16iq6z4f"
+        }
+      ],
+      "sizeBytes": 19327352832
+    },
+    {
+      "titleId": "PPSA21085",
+      "title": "Selfloss",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Selfloss.avif",
+      "description": "Tags: PPSA21085, v01.000, EUR, 4.xx BackPort\nSize: 3GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/RMKGJQdo2z1o/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/vAsj5AGuhK"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/ukmzt5a0kozj"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/dkutey68lrkf"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/l6rqoitzkmd7"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA20955",
+      "title": "The Exit 9",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Exit_9.jpg",
+      "description": "Tags: PPSA20955, v01.000, USA, 4.xx BackPort\nSize: 5GB\nCredits: Files: Amiibohound; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/5pVzN4b9pm7w/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/1UJFmmSDqJ"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/smfxvnvm5nfa"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/sope3n00s97o"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/uvw7id0tp8s1"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
+      "titleId": "PPSA28099",
+      "title": "Life is Strange Reunion",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Life_is_Strange_Reunion.jpg",
+      "description": "Builds: DLC\nTags: PPSA28099, v01.003, USA, 4.xx BackPort\nSize: 44GB\nCredits: Files: UNLiMiTED; Backport: DecKerr97; DLC: UNLiMiTED",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/dZxG5q5VPGVj/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/qCl3B1zKg1"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/7ywku81s6c26"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/956wixiao464"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/k6i1dyfpvwb1"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/houoj8czfuye"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/17zbbmynyatj"
+        }
+      ],
+      "sizeBytes": 47244640256
+    },
+    {
+      "titleId": "PPSA16387",
+      "title": "Hitman World of Assassination Deluxe Edition",
+      "version": "v01.038",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Hitman_World_of_Assassination_Deluxe_Edition.avif",
+      "description": "Tags: PPSA16387, v01.038, USA, 4.xx BackPort\nSize: 130GB\nCredits: Files: Andrei Trubnikov; Backport: DecKerr97; DLC: Andrei Trubnikov\nHow to play: All DLCs unlocked included Hitman 1, Hitman 2, Hitman 3. Enjoy.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/dkD3YZ917zLQ/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/2eQ7e6qMAE"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/byp847rxtwm3"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/mksnd2dcnoxz"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/94yj600msy3s"
+        }
+      ],
+      "sizeBytes": 139586437120
+    },
+    {
       "titleId": "PPSA25319",
       "title": "MotoGP 25",
       "version": "v01.013",
@@ -9445,37 +9783,6 @@
       "sizeBytes": 8589934592
     },
     {
-      "titleId": "PPSA07393",
-      "title": "Gori: Cuddly Carnage",
-      "version": "v01.009",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Gori_Cuddly_Carnage.avif",
-      "description": "Builds: DLC\nTags: PPSA07393, v01.009, USA, 6.xx and beyond\nSize: 24GB\nCredits: Files: DUPLEX; DLC: DUPLEX",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/1RgzR46gVmbp/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/WVYlAiKlMk"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/wvd6azpa4w5i"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/jar3Xaqgrz2d/file"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/2784tylejquy"
-        }
-      ],
-      "sizeBytes": 25769803776
-    },
-    {
       "titleId": "PPSA08194",
       "title": "Asterigos Curse of The Stars",
       "version": "v01.004.001",
@@ -10040,37 +10347,6 @@
         }
       ],
       "sizeBytes": 21474836480
-    },
-    {
-      "titleId": "PPSA16388",
-      "title": "Hitman World of Assassination",
-      "version": "v01.017",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Hitman_World_of_Assassination.avif",
-      "description": "Builds: DLC\nTags: PPSA16388, v01.017, USA, 1.xx and beyond\nSize: 114GB\nCredits: Files: High-Speed007; DLC: Pkykzhack\nHow to play: All DLCs unlocked included Hitman 1 – Hitman 2 – Hitman 3. Enjoy.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/ex5z2qP783Kq/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/2wMSBU0w8O"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/t98nrb93vln7"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/2bJG8J97Q3OB/file"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/267lljz8h2v8"
-        }
-      ],
-      "sizeBytes": 122406567936
     },
     {
       "titleId": "PPSA14053",
@@ -12005,37 +12281,6 @@
         }
       ],
       "sizeBytes": 25769803776
-    },
-    {
-      "titleId": "PPSA28101",
-      "title": "Life is Strange: Reunion",
-      "version": "v01.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Life_is_Strange_Reunion.jpg",
-      "description": "Builds: DLC\nTags: PPSA28101, v01.000, EUR, 4.xx BackPork\nSize: 44GB\nCredits: Files: DUPLEX; Backport: BestPig; DLC: DUPLEX",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/k0embV7pnmVb/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/s81qeb4njb"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/m8c42kwbh35s"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/1RgzRNPLVzbp/file"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/xyvaxmpq6orz"
-        }
-      ],
-      "sizeBytes": 47244640256
     },
     {
       "titleId": "PPSA23372",
@@ -15637,5 +15882,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-07-29T02:02:17.058Z"
+  "_generated": "2026-07-30T01:52:33.392Z"
 }
