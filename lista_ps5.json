@@ -3,6 +3,418 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03686",
+      "title": "Art of Rally",
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Art_of_Rally.avif",
+      "description": "Builds: DLC\nTags: PPSA03686, v01.007, USA, 4.xx BackPort\nSize: 4GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/RMKGJQZkXz1o/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/qxHUDCLJew"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/7cwvtl5nnorf"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/4cjk6fqyk21c"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/2tbw1kzt6593"
+        },
+        {
+          "name": "DLC - AkiraBox",
+          "url": "https://akirabox.com/LK0G14dpYz91/file"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/vdaaaj813sca"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/j47sfu7lzy7t"
+        }
+      ],
+      "sizeBytes": 4294967296
+    },
+    {
+      "titleId": "PPSA28061",
+      "title": "Earthion",
+      "version": "v01.006",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Earthion.avif",
+      "description": "Tags: PPSA28061, v01.006, USA, 4.xx BackPort\nSize: 178MB\nCredits: Files: UNLiMiTED; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/k0emb0ovVzVb/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/NXXho74hTF"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/5rvtggswn0qf"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/lctcilx7jhep"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/r3n53caidedg"
+        }
+      ],
+      "sizeBytes": 186646528
+    },
+    {
+      "titleId": "PPSA17313",
+      "title": "Choo Choo Charles",
+      "version": "v02.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Choo_Choo_Charles.avif",
+      "description": "Tags: PPSA17313, v02.000, USA, 4.xx BackPort\nSize: 4GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/gXeGOoYJjGAa/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/eXKFG9rOrp"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/1yjhrzaowvnk"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/sk5pex9gkodu"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/kh92u2bjze0w"
+        }
+      ],
+      "sizeBytes": 4294967296
+    },
+    {
+      "titleId": "PPSA30138",
+      "title": "Fast and Furious Arcade Edition",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Fast_and_Furious_Arcade_Edition.jpg",
+      "description": "Tags: PPSA30138, v01.001, USA, 4.xx BackPort\nSize: 6GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qPez4AMkqGOY/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/ivKLkeX5FW"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/njketkqjf3nl"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/xzx5cknmv4c7"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/1knt4yqy6x3c"
+        }
+      ],
+      "sizeBytes": 6442450944
+    },
+    {
+      "titleId": "PPSA06381",
+      "title": "Crime Boss Rockay City The Complete Collection",
+      "version": "v01.049",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Crime_Boss_Rockay_City_TCC.jpg",
+      "description": "Tags: PPSA06381, v01.049, USA, DLCs Merged, 4.xx BackPort\nSize: 136GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/QN9mEZB4Q36d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/wqD4XiyUym"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/f72990lcu7rh"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/trf12iniz4bg"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/wdl80no9c2tg"
+        }
+      ],
+      "sizeBytes": 146028888064
+    },
+    {
+      "titleId": "PPSA04452",
+      "title": "Warhammer 40000 Space Marine 2 Gold Edition",
+      "version": "v01.012.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Warhammer_40000_Space_Marine_2_GE.webp",
+      "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA04452, v01.012.002, USA, Standard (9.xx) + 4.xx BackPort\nSize: 102GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: kstuff can be paused after 120sec or the game will crash. Game can take sometime for loading depending on your SSD/NVMe.",
+      "downloadLinks": [
+        {
+          "name": "Standard 9.xx - AkiraBox",
+          "url": "https://akirabox.com/rk9zKRbYP30l/file"
+        },
+        {
+          "name": "Standard 9.xx - VikingFile",
+          "url": "https://vikingfile.com/f/uj2QGXkEyK"
+        },
+        {
+          "name": "Standard 9.xx - DataNodes",
+          "url": "https://datanodes.to/e769wylgkwek"
+        },
+        {
+          "name": "Standard 9.xx - FileKeeper",
+          "url": "https://filekeeper.net/dqu550wk40ct"
+        },
+        {
+          "name": "Standard 9.xx - DataVault",
+          "url": "https://datavaults.co/j867ekirgdlu"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/M2BGwQ9vO3j4/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/ET0gdRgC41"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/0xptbstyxb48"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/fzmk8mtygxpo"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/h3t9nxvcjhgg"
+        }
+      ],
+      "sizeBytes": 109521666048
+    },
+    {
+      "titleId": "PPSA09823",
+      "title": "Wreckreation",
+      "version": "v01.900.008",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Wreckreation.avif",
+      "description": "Tags: PPSA09823, v01.900.008, USA, 4.xx BackPort\nSize: 64GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/ex5z212eD3Kq/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/7MLLNmWrlP"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/109jbwockhqw"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ntluebhsbksg"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/dc1r8dk8tc30"
+        }
+      ],
+      "sizeBytes": 68719476736
+    },
+    {
+      "titleId": "PPSA24515",
+      "title": "Alone in The Dark 2 1996",
+      "version": "v01.000.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Alone_in_The_Dark_2_1996.webp",
+      "description": "Tags: PPSA24515, v01.000.003, EUR, 4.xx BackPort\nSize: 1GB\nCredits: Files: DLPS Team; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/RMKGJQ41wz1o/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/vAoCIez7lW"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/3c47d0dn548a"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ilrdhtjnap2y"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/ztibv6ge1u0n"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA02798",
+      "title": "Panda Hero Remastered",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Panda_Hero_Remastered.avif",
+      "description": "Tags: PPSA02798, v01.000, USA, 2.xx and beyond\nSize: 559MB\nCredits: Files: DLPS Team",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/EL73g0JXYz9B/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/H9DrfDJLhP"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/wky9hsgg7ecm"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/36esksn39yf4"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/1m9ypn0sk9ku"
+        }
+      ],
+      "sizeBytes": 586153984
+    },
+    {
+      "titleId": "PPSA03847",
+      "title": "Assetto Corsa Competizione",
+      "version": "v01.042",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Assetto_Corsa_Competizione.webp",
+      "description": "Tags: PPSA03847, v01.042, USA, 3.xx and beyond\nSize: 18GB\nCredits: Files: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/gXeGOo8XXGAa/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/BflvI22CUW"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/7tdt2s5wbcsg"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/92yo4ewy4erq"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/e5sb8ehxrbic"
+        }
+      ],
+      "sizeBytes": 19327352832
+    },
+    {
+      "titleId": "PPSA04020",
+      "title": "Arcadegeddon",
+      "version": "v01.042",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Arcadegeddon.webp",
+      "description": "Tags: PPSA04020, v01.042, USA, 4.xx and beyond\nSize: 16GB\nCredits: Files: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qw1zedxlM3Xy/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/xrLxYiFVSZ"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/svyyvu520w04"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/u7j7gd39gamr"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/vfszyhufeunj"
+        }
+      ],
+      "sizeBytes": 17179869184
+    },
+    {
+      "titleId": "PPSA21159",
+      "title": "Silent Hill f",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Silent_Hill_f.png",
+      "description": "Builds: DLC\nTags: PPSA21159, v01.003, JPN, 4.xx BackPort\nSize: 63GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/9AqGQ4X5nzMn/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/2qhGbrIunB"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/dt7hhcra2oia"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/f5wnqmuebi5p"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/1l255dskx55l"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/9ydlqdfo2ihv"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/fviuezsxl3l8"
+        }
+      ],
+      "sizeBytes": 67645734912
+    },
+    {
       "titleId": "PPSA03603",
       "title": "Marvels Midnight Suns Enhanced Edition",
       "version": "v01.013",
@@ -495,10 +907,10 @@
     },
     {
       "titleId": "PPSA10112",
-      "title": "SILENT HILL The Short Message",
+      "title": "T HILL The Short Message",
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/SILENT_HILL_The_Short_Message.jpg",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/T_HILL_The_Short_Message.jpg",
       "description": "Tags: PPSA10112, v01.001, ASIA, 4.xx BackPort\nSize: 18GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadLinks": [
         {
@@ -1601,37 +2013,6 @@
         }
       ],
       "sizeBytes": 1073741824
-    },
-    {
-      "titleId": "PPSA04452",
-      "title": "Warhammer 40000 Space Marine 2 Gold Edition",
-      "version": "v01.012.002",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Warhammer_40000_Space_Marine_2_GE.webp",
-      "description": "Tags: PPSA04452, v01.012.002, USA, 9.xx and beyond\nSize: 102GB\nCredits: Files: High-Speed007; DLC: High-Speed007\nHow to play: kstuff can be paused after 120sec or the game will crash. Game can take sometime for loading depending on your SSD/NVMe.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/rk9zKRbYP30l/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/uj2QGXkEyK"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/e769wylgkwek"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/dqu550wk40ct"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/j867ekirgdlu"
-        }
-      ],
-      "sizeBytes": 109521666048
     },
     {
       "titleId": "PPSA21704",
@@ -5149,37 +5530,6 @@
         }
       ],
       "sizeBytes": 5368709120
-    },
-    {
-      "titleId": "PPSA06382",
-      "title": "Crime Boss Rockay City",
-      "version": "v01.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Crime_Boss_Rockay_City.avif",
-      "description": "Tags: PPSA06382, v01.000, EUR, 4.xx BackPort\nSize: 115GB\nCredits: Files: DUPLEX & SiESPTA; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/dZxG5qB0ZGVj/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/UkD5G3pz1r"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/g837kdbqx8zm"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/euvw4hatg29e"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/ym8d9hna376l"
-        }
-      ],
-      "sizeBytes": 123480309760
     },
     {
       "titleId": "PPSA26127",
@@ -11369,37 +11719,6 @@
       "sizeBytes": 13958643712
     },
     {
-      "titleId": "PPSA03659",
-      "title": "Art of Rally",
-      "version": "v01.006",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Art_of_Rally.avif",
-      "description": "Builds: DLC\nTags: PPSA03659, v01.006, EUR, 4.xx BackPort\nSize: 3GB\nCredits: Files: DUPLEX & Jose Carrion; Backport: DecKerr97; DLC: DUPLEX & Jose Carrion",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/dkD3YRjgJzLQ/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/g82T7RJ4t8"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/7jfgnfmnd3zh"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/LK0G14dpYz91/file"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/vdaaaj813sca"
-        }
-      ],
-      "sizeBytes": 3221225472
-    },
-    {
       "titleId": "PPSA06217",
       "title": "Miasma Chronicles",
       "version": "v01.007",
@@ -14468,29 +14787,6 @@
       "sizeBytes": 55834574848
     },
     {
-      "titleId": "PPSA09823",
-      "title": "Wreckreation",
-      "version": "v01.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Wreckreation.avif",
-      "description": "Tags: PPSA09823, v01.000, USA, 4.xx BackPork\nSize: 61GB\nCredits: Files: SiESPTA; Backport: BestPig",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/EL73gAg8WG9B/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/nWohgn9tqP"
-        },
-        {
-          "name": "BuzzHeavier",
-          "url": "https://buzzheavier.com/6i5g172jki50"
-        }
-      ],
-      "sizeBytes": 65498251264
-    },
-    {
       "titleId": "PPSA15572",
       "title": "SOUTH PARK: SNOW DAY!",
       "version": "v01.023",
@@ -15837,25 +16133,6 @@
       "sizeBytes": 173946175488
     },
     {
-      "titleId": "PPSA21159",
-      "title": "Silent Hill f",
-      "version": "v01.001",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Silent_Hill_f.png",
-      "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA21159, v01.001, JPN, Standard (9.xx) + 4.xx BackPork\nSize: 64GB\nCredits: Files: SiESPTA; Backport: BestPig",
-      "downloadLinks": [
-        {
-          "name": "Standard 9.xx - AkiraBox",
-          "url": "https://akirabox.com/jJD3VpMk7Ga5/file"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/APVmaBLNw3Xo/file"
-        }
-      ],
-      "sizeBytes": 68719476736
-    },
-    {
       "titleId": "PPSA09016",
       "title": "Fallout 4",
       "version": "v01.002",
@@ -16051,5 +16328,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-07-31T02:11:18.770Z"
+  "_generated": "2026-08-01T02:12:17.087Z"
 }
