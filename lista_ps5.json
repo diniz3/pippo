@@ -3,6 +3,235 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA01969",
+      "title": "Death Stranding Directors Cut",
+      "version": "v01.005",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Death_Stranding_Directors_Cut.jpg",
+      "description": "Tags: PPSA01969, v01.005, USA, DLCs Merged, 4.xx BackPort\nSize: 116GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0PdzyQ1wkzeA/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/URo7hSm60w"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/zbnxlvoun3d4"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/49g7uhd6htp5"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/b54xggn1o4cg"
+        }
+      ],
+      "sizeBytes": 124554051584
+    },
+    {
+      "titleId": "PPSA03098",
+      "title": "Dead Island 2 Ultimate Edition",
+      "version": "v01.000.011",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dead_Island_2.avif",
+      "description": "Tags: PPSA03098, v01.000.011, USA, DLCs Merged, 4.xx BackPort\nSize: 159GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo\nHow to play: All DLCs, included SoLA & Haus Expansions.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/LJlGnWwxvm15/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/BmVVOainXX"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/46atpkxt2nbi"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ozfz88hjc4y6"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/0dl6bx48xwu4"
+        }
+      ],
+      "sizeBytes": 170724950016
+    },
+    {
+      "titleId": "PPSA25859",
+      "title": "EA Sports College Football 26",
+      "version": "v01.020",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/EA_Sports_College_Football_26.avif",
+      "description": "Tags: PPSA25859, v01.020, USA, 4.xx and beyond\nSize: 99GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0rpmvQAoDGRg/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/ece1MtSwD7"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/bb5dy4jd3ra1"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/n1d7qz2watzf"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/2g75dqemin34"
+        }
+      ],
+      "sizeBytes": 106300440576
+    },
+    {
+      "titleId": "PPSA02213",
+      "title": "The King of Fighters XV",
+      "version": "v02.004.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_King_of_Fighters_XV.avif",
+      "description": "Builds: DLC\nTags: PPSA02213, v02.004.002, USA, 4.xx and beyond\nSize: 115GB\nCredits: Files: High-Speed007; DLC: romhunter\nHow to play: MATURE & VICE DLC is not included.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/RMKGJQZ2Lz1o/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/mp6VLnubYX"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/uj1kx6a5jqix"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/2f7gf58se30z"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/y1ut9bbgxo3z"
+        },
+        {
+          "name": "DLC - AkiraBox",
+          "url": "https://akirabox.com/2WVGr8Da03kx/file"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/lyw6uervmdut"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/62jq5f3wmz6y"
+        }
+      ],
+      "sizeBytes": 123480309760
+    },
+    {
+      "titleId": "PPSA04933",
+      "title": "Who Wants To Be A Millionaire New Edition",
+      "version": "v01.008",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Who_Wants_To_Be_A_Millionaire_New_Edition.avif",
+      "description": "Tags: PPSA04933, v01.008, USA, DLCs Merged, 4.xx and beyond\nSize: 2GB\nCredits: Files: High-Speed007; DLC: Pippo & Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/2WVGr8p493kx/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/k2GgEGeuMY"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/w8ph17luueqk"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/663m6gzb8ebk"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/aabjscz9l491"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
+      "titleId": "PPSA05849",
+      "title": "Redout 2 Deluxe Edition",
+      "version": "v01.107",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Redout_2_DE.avif",
+      "description": "Tags: PPSA05849, v01.107, USA, DLCs Merged, 4.xx and beyond\nSize: 44GB\nCredits: Files: High-Speed007; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qw1zedXN43Xy/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/8GzcdRDyEs"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/x5xkia79ugyi"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/yl2m9nfgszew"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/5p4vf34kghqe"
+        }
+      ],
+      "sizeBytes": 47244640256
+    },
+    {
+      "titleId": "PPSA16810",
+      "title": "ARK Survival Ascended",
+      "version": "v01.084.021",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/ARK_Survival_Ascended.avif",
+      "description": "Tags: PPSA16810, v01.084.021, USA, DLCs Merged, 4.xx BackPort\nSize: 386GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/2WVGr8pPB3kx/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/EWAX8EfWTg"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/3m69f3cmuamw"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/kk0hsvtkqd3n"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/jcz1hkoafg3e"
+        }
+      ],
+      "sizeBytes": 414464344064
+    },
+    {
       "titleId": "PPSA03686",
       "title": "Art of Rally",
       "version": "v01.007",
@@ -8920,37 +9149,6 @@
       "sizeBytes": 16106127360
     },
     {
-      "titleId": "PPSA01968",
-      "title": "Death Stranding Directors Cut",
-      "version": "v01.004",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Death_Stranding_Directors_Cut.jpg",
-      "description": "Tags: PPSA01968, v01.004, EUR, 2.xx and beyond\nSize: 119GB\nCredits: Files: SiESPTA\nHow to play: Is recommended to use my Setup with kstuff 1.6.7. (Check the FAQ).",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/obj3jd07rGDx/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/eMb6MyANiR"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/z5wv842jnrn8"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/q8qt9gp28xfq"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/1zbpn8x8imgr"
-        }
-      ],
-      "sizeBytes": 127775277056
-    },
-    {
       "titleId": "PPSA01374",
       "title": "Riders Republic",
       "version": "v01.000",
@@ -10200,37 +10398,6 @@
         }
       ],
       "sizeBytes": 17179869184
-    },
-    {
-      "titleId": "PPSA02213",
-      "title": "The King of Fighters XV",
-      "version": "v02.003.002",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_King_of_Fighters_XV.avif",
-      "description": "Builds: DLC\nTags: PPSA02213, v02.003.002, USA, 4.xx and beyond\nSize: 113GB\nCredits: Files: High-Speed007; DLC: romhunter",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/0KezkRYEn3D1/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/N9TKEAL4I3"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/9sn79ay2r6fa"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/2WVGr8Da03kx/file"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/lyw6uervmdut"
-        }
-      ],
-      "sizeBytes": 121332826112
     },
     {
       "titleId": "PPSA01474",
@@ -14462,52 +14629,6 @@
       "sizeBytes": 184683593728
     },
     {
-      "titleId": "PPSA03098",
-      "title": "Dead Island 2 Ultimate Edition",
-      "version": "v01.000.010",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dead_Island_2.avif",
-      "description": "Tags: PPSA03098, v01.000.010, USA, DLCs Merged, 4.xx BackPork\nSize: 159GB\nCredits: Files: High-Speed007; Backport: BestPig",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/gXeGOrEqJzAa/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/XPYww8tDBL"
-        },
-        {
-          "name": "BuzzHeavier",
-          "url": "https://buzzheavier.com/dlqep7znwi9d"
-        }
-      ],
-      "sizeBytes": 170724950016
-    },
-    {
-      "titleId": "PPSA17101",
-      "title": "ARK Survival Ascended",
-      "version": "v01.073.007",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/ARK_Survival_Ascended.avif",
-      "description": "Tags: PPSA17101, v01.073.007, EUR, 4.xx BackPork\nSize: 236GB\nCredits: Files: High-Speed007; Backport: BestPig",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/LJlGn9exbz15/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/Gd0P94qNPa"
-        },
-        {
-          "name": "BuzzHeavier",
-          "url": "https://buzzheavier.com/kohi95fpyi1s"
-        }
-      ],
-      "sizeBytes": 253403070464
-    },
-    {
       "titleId": "PPSA01556",
       "title": "Resident Evil Village Gold Edition",
       "version": "v01.210",
@@ -16328,5 +16449,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-01T02:12:17.087Z"
+  "_generated": "2026-08-02T02:09:40.127Z"
 }
