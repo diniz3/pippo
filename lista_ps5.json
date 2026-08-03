@@ -3,6 +3,99 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA18571",
+      "title": "Teenage Mutant Ninja Turtles Arcade Wrath of The Mutants",
+      "version": "v01.000.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TMNT_Arcade_Wrath_of_The_Mutants.webp",
+      "description": "Tags: PPSA18571, v01.000.002, USA, 4.xx BackPort\nSize: 8GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/l5YzMZa2WGyO/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/02VgV4O6Bl"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/uthwz5tkj2bw"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/6pqd49vx1f2r"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/i2cnha5mp7sr"
+        }
+      ],
+      "sizeBytes": 8589934592
+    },
+    {
+      "titleId": "PPSA15671",
+      "title": "Everspace 2 Complete Edition",
+      "version": "v01.027",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Everspace_2_CE.jpg",
+      "description": "Tags: PPSA15671, v01.027, USA, 4.xx BackPort\nSize: 78GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/2WVGrdoOq3kx/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/N78ZqbdxiG"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/sfz26t60h2r6"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/v80nz3niy2xv"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/br0uc38g7m3o"
+        }
+      ],
+      "sizeBytes": 83751862272
+    },
+    {
+      "titleId": "PPSA19345",
+      "title": "Funko Fusion Deluxe Edition",
+      "version": "v03.004.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Funko_Fusion_DE.avif",
+      "description": "Tags: PPSA19345, v03.004.001, USA, DLCs Merged, 4.xx BackPort\nSize: 114GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/LJlGn7Y5em15/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/PmHLhg83e4"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/x5ccos5dz1at"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/p484j3p2czbw"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/2bxop570rluv"
+        }
+      ],
+      "sizeBytes": 122406567936
+    },
+    {
       "titleId": "PPSA01969",
       "title": "Death Stranding Directors Cut",
       "version": "v01.005",
@@ -2386,57 +2479,6 @@
         }
       ],
       "sizeBytes": 1073741824
-    },
-    {
-      "titleId": "PPSA15671",
-      "title": "Everspace 2",
-      "version": "v01.020",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Everspace_2.avif",
-      "description": "Builds: 7.xx BackPort, 4.xx BackPort\nTags: PPSA15671, v01.020, USA, 7.xx BackPort + 4.xx BackPort\nSize: 67GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "7.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/QN9mEZknL36d/file"
-        },
-        {
-          "name": "7.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/qJfNwpmV1f"
-        },
-        {
-          "name": "7.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/yi2b163hmz6o"
-        },
-        {
-          "name": "7.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/fq9o5zqecv4d"
-        },
-        {
-          "name": "7.xx BackPort - DataVault",
-          "url": "https://datavaults.co/3017xmchyi92"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/0PdzyQod0zeA/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/iqr2AZoXVv"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/os87qf5ngxu2"
-        },
-        {
-          "name": "4.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/d27arkz4pbzx"
-        },
-        {
-          "name": "4.xx BackPort - DataVault",
-          "url": "https://datavaults.co/5ru8kozqd692"
-        }
-      ],
-      "sizeBytes": 71940702208
     },
     {
       "titleId": "PPSA28002",
@@ -16449,5 +16491,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-02T02:09:40.127Z"
+  "_generated": "2026-08-03T02:11:32.741Z"
 }
