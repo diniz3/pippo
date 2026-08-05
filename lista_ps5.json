@@ -3,12 +3,404 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA18528",
+      "title": "Mighty Morphin Power Rangers Ritas Rewind",
+      "version": "v01.009",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mighty_Morphin_Power_Rangers_Ritas_Rewind.avif",
+      "description": "Tags: PPSA18528, v01.009, USA, 4.xx BackPort\nSize: 736MB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0rpmvprrazRg/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/fSDeEdGGYH"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/dw9ggs5nuvgk"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/7wypltj460rz"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/6jj1ob4zoi18"
+        }
+      ],
+      "sizeBytes": 771751936
+    },
+    {
+      "titleId": "PPSA14632",
+      "title": "LEGO Horizon Adventures",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/LEGO_Horizon_Adventures.avif",
+      "description": "Tags: PPSA14632, v01.004, EUR, 4.xx BackPort\nSize: 27GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0JgG75qq83oY/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/wxNn76Xxjt"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/gsta926ikw1g"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/5msijj4uozz8"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/lwjrpsafdydz"
+        }
+      ],
+      "sizeBytes": 28991029248
+    },
+    {
+      "titleId": "PPSA07923",
+      "title": "Tetris Effect Connected",
+      "version": "v02.000.022",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Tetris_Effect_Connected.avif",
+      "description": "Tags: PPSA07923, v02.000.022, USA, 4.xx BackPort\nSize: 5GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/9AqGQZBx8mMn/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/X8QxDxS7Ck"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/wses5ehtobh6"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/za28nogt474y"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/2utt5k2r9rh2"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
+      "titleId": "PPSA07906",
+      "title": "Still Wakes the Deep The Complete Collection",
+      "version": "v01.600.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Still_Wakes_the_Deep_TCE.avif",
+      "description": "Tags: PPSA07906, v01.600.001, USA, DLCs Merged, 4.xx BackPort\nSize: 20GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo\nHow to play: Sirens Rest DLC is included.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/rk9zKWr4Pz0l/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/rsqkKEsgYC"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/zxcf0t6hqz2i"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/fcm3a37sjfh4"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/66fna7uo0r60"
+        }
+      ],
+      "sizeBytes": 21474836480
+    },
+    {
+      "titleId": "PPSA04987",
+      "title": "Powerwash Simulator Ultimate Satisfaction",
+      "version": "v01.018",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Powerwash_Simulator_Ultimate_Satisfaction.avif",
+      "description": "Tags: PPSA04987, v01.018, USA, DLCs Merged, 4.xx BackPort\nSize: 14GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/APVmabDEj3Xo/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/1J400uWv15"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/61qb41kh91v7"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/go0fdfwepjrr"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/7ki05a3wcdsd"
+        }
+      ],
+      "sizeBytes": 15032385536
+    },
+    {
+      "titleId": "PPSA17217",
+      "title": "Jurassic Park Classic Games Collection",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Jurassic_Park_Classic_Games_Collection.avif",
+      "description": "Tags: PPSA17217, v01.002, USA, 4.xx BackPort\nSize: 2GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/EL73g7RJK39B/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/rnhkhfkwGG"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/7yxlkv9xljuk"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/bchfnlfyzh08"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/d1w8d5on1rqs"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
+      "titleId": "PPSA03555",
+      "title": "WWI Isonzo Ultimate Edition",
+      "version": "v01.051",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/WWI_Isonzo_Ultimate_Edition.avif",
+      "description": "Tags: PPSA03555, v01.051, USA, DLCs Merged, 4.xx BackPort\nSize: 21GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/M2BGwPk9Pmj4/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/8pvtLUg8pY"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/dfdo7bmf0yt6"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/x8w7uzlq6bo8"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/re8jhkjy4ata"
+        }
+      ],
+      "sizeBytes": 22548578304
+    },
+    {
+      "titleId": "PPSA04379",
+      "title": "Construction Simulator Gold Edition",
+      "version": "v01.040",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Construction_Simulator_Gold_Edition.avif",
+      "description": "Tags: PPSA04379, v01.040, USA, DLCs Merged, 4.xx BackPort\nSize: 13GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/Z9dzBPVlqmk1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/NAW4P9FF9Q"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/wysfcnp0z8gz"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/esqv0hybk48b"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/192d70adxkeh"
+        }
+      ],
+      "sizeBytes": 13958643712
+    },
+    {
+      "titleId": "PPSA24662",
+      "title": "F1 25",
+      "version": "v01.018",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/F1_25.avif",
+      "description": "Tags: PPSA24662, v01.018, USA, 4.xx BackPort\nSize: 75GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: etaHEN cause crash, use only kstuff lite 1.09+ with ShadowMountPlus (not Alpha).",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/QN9mEqjoom6d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/4LAPTl7DtM"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/g237n7wu4in5"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ug25lfcag2xo"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/160fyetpz3wy"
+        }
+      ],
+      "sizeBytes": 80530636800
+    },
+    {
+      "titleId": "PPSA04057",
+      "title": "Ghostbusters Spirits Unleashed Ecto Edition",
+      "version": "v01.028",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ghostbusters_Spirits_Unleashed_Ecto_Edition.avif",
+      "description": "Tags: PPSA04057, v01.028, USA, 4.xx BackPort\nSize: 33GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0JgG75jkl3oY/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/qW2dCx7CMX"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/u5szlbrnemlv"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/8afsialbl5du"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/kf655sdaxoll"
+        }
+      ],
+      "sizeBytes": 35433480192
+    },
+    {
+      "titleId": "PPSA01390",
+      "title": "Dragon Age The Veilguard",
+      "version": "v01.006",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dragon_Age_The_Veilguard.avif",
+      "description": "Builds: DLC\nTags: PPSA01390, v01.006, USA, 4.xx BackPort\nSize: 168GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qLQ36q6N7m19/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/ZazR5ouDfp"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/grqeq6cj1hii"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/odyxaoxl5ruf"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/kyg62ilmtsab"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/nw6zwou8slcr"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/yaefc3keyfcl"
+        }
+      ],
+      "sizeBytes": 180388626432
+    },
+    {
+      "titleId": "PPSA01593",
+      "title": "Hogwarts Legacy",
+      "version": "v01.013",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Hogwarts_Legacy.avif",
+      "description": "Builds: DLC\nTags: PPSA01593, v01.013, USA, 4.xx BackPort\nSize: 206GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/E9Qz9XvED3OL/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/YR2IezyqxN"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/dxkwy5swdl5d"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/6wgm3p9utnd2"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/5u11bijed0l1"
+        },
+        {
+          "name": "DLC - AkiraBox",
+          "url": "https://akirabox.com/EL73gANDKG9B/file"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/kwuqnu99l4l3/All_7DLCs_Psykzhack.rar"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/77com3oo5zgc"
+        }
+      ],
+      "sizeBytes": 221190815744
+    },
+    {
       "titleId": "PPSA02213",
       "title": "The King of Fighters XV",
       "version": "v02.004.002",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_King_of_Fighters_XV.avif",
-      "description": "Builds: DLC\nTags: PPSA02213, v02.004.002, USA, 4.xx and beyond\nSize: 115GB\nCredits: Files: High-Speed007; DLC: romhunter\nHow to play: All DLCs, MATURE & VICE DLC also included.",
+      "description": "Builds: DLC\nTags: PPSA02213, v02.004.002, USA, 4.xx and beyond\nSize: 115GB\nCredits: Files: High-Speed007; DLC: romhunter",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -9851,7 +10243,7 @@
       "title": "Asterix and Obelix Slap Them All",
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/_and_Obelix_Slap_Them_All.avif",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Asterix_and_Obelix_Slap_Them_All.avif",
       "description": "Builds: Standard 5.xx, 4.xx BackPort\nTags: PPSA08576, v01.000, USA, Standard (5.xx) + 4.xx BackPort\nSize: 1GB\nCredits: Files: DUPLEX & VanBuuren; Backport: DecKerr97\nHow to play: Need Trophy Unlocker (if use etaHEN - Check the FAQ) or kstuff lite 1.07+ for avoid the loading infinite.",
       "downloadLinks": [
         {
@@ -12885,29 +13277,6 @@
       "sizeBytes": 107374182400
     },
     {
-      "titleId": "PPSA07905",
-      "title": "Still Wakes The Deep",
-      "version": "v01.001",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Still_Wakes_The_Deep.avif",
-      "description": "Tags: PPSA07905, v01.001, EUR, 4.xx BackPort\nSize: 14GB\nCredits: Files: DUPLEX & SiESPta; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/E1x3A89yWmyk/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/SN3xn2GQ88"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/dd401o1aojaj"
-        }
-      ],
-      "sizeBytes": 15032385536
-    },
-    {
       "titleId": "PPSA01619",
       "title": "Mortal Kombat 11 Ultimate",
       "version": "v01.000.004",
@@ -13323,29 +13692,6 @@
         }
       ],
       "sizeBytes": 328564998144
-    },
-    {
-      "titleId": "PPSA14632",
-      "title": "LEGO Horizon Adventures",
-      "version": "v01.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/LEGO_Horizon_Adventures.avif",
-      "description": "Tags: PPSA14632, v01.000, EUR, 4.xx BackPork\nSize: 27GB\nCredits: Files: High-Speed007; Backport: BestPig",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/E9Qz9k7qKmOL/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/tgvjJdAghU"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/gzqlci6zbav7"
-        }
-      ],
-      "sizeBytes": 28991029248
     },
     {
       "titleId": "PPSA15508",
@@ -14747,37 +15093,6 @@
         }
       ],
       "sizeBytes": 96636764160
-    },
-    {
-      "titleId": "PPSA01593",
-      "title": "Hogwarts Legacy",
-      "version": "v01.010",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Hogwarts_Legacy.avif",
-      "description": "Builds: DLC\nTags: PPSA01593, v01.010, Pro Features, USA to EUR Languages, 4.xx BackPork\nSize: 204GB\nCredits: Files: SiESPTA; Backport: BestPig; DLC: Pkykzhack",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/9QWmpoNbrGEB/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/v7b10uw1sM"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/vkvjx32z0dsv/PPSA01593.exfat"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/EL73gANDKG9B/file"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/kwuqnu99l4l3/All_7DLCs_Psykzhack.rar"
-        }
-      ],
-      "sizeBytes": 219043332096
     },
     {
       "titleId": "PPSA04609",
@@ -16701,5 +17016,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-04T01:57:11.655Z"
+  "_generated": "2026-08-05T01:56:44.044Z"
 }
