@@ -3,6 +3,457 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA17219",
+      "title": "Disney Illusion Island Starring Mickey and Friends",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Disney_Illusion_Island_Starring_Mickey_and_Friends.avif",
+      "description": "Builds: 7.xx BackPort, 4.xx BackPort\nTags: PPSA17219, v01.001, USA, 7.xx BackPort + 4.xx BackPort\nSize: 10GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "7.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/dZxG5qQw9GVj/file"
+        },
+        {
+          "name": "7.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/dFMBWVqrey"
+        },
+        {
+          "name": "7.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/fsl8vu7qtmv1"
+        },
+        {
+          "name": "7.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/rqyghesyn689"
+        },
+        {
+          "name": "7.xx BackPort - DataVault",
+          "url": "https://datavaults.co/ljkcmw2glm8h"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/0JgG75qxK3oY/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/FJYG1vYHPH"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/q94helpqda6k"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/87wmicsh7iqq"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/uarkiiji2rst"
+        }
+      ],
+      "sizeBytes": 10737418240
+    },
+    {
+      "titleId": "PPSA07382",
+      "title": "Flintlock The Siege of Dawn",
+      "version": "v01.002.400",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Flintlock_The_Siege_of_Dawn.jpg",
+      "description": "Builds: Standard 8.xx, 4.xx BackPort\nTags: PPSA07382, v01.002.400, USA, Standard (8.xx) + 4.xx BackPort\nSize: 24GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "Standard 8.xx - AkiraBox",
+          "url": "https://akirabox.com/0JgG7PrlemoY/file"
+        },
+        {
+          "name": "Standard 8.xx - VikingFile",
+          "url": "https://vikingfile.com/f/gsTQX4ADmm"
+        },
+        {
+          "name": "Standard 8.xx - DataNodes",
+          "url": "https://datanodes.to/ms4ynozk0377"
+        },
+        {
+          "name": "Standard 8.xx - FileKeeper",
+          "url": "https://filekeeper.net/zp4sfsmf28ep"
+        },
+        {
+          "name": "Standard 8.xx - DataVault",
+          "url": "https://datavaults.co/5k0e6e99ny8w"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/jar3XlrQ232d/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/ICG9O0Fkk1"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/lxgqrdq6oz88"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/kiw0i4uya16a"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/xbxz4to3tfwy"
+        }
+      ],
+      "sizeBytes": 25769803776
+    },
+    {
+      "titleId": "PPSA25009",
+      "title": "Blue Prince",
+      "version": "v02.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Blue_Prince.avif",
+      "description": "Tags: PPSA25009, v02.001, EUR, 4.xx BackPort\nSize: 3GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/9QWmpAYwA3EB/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/oLc9OrndzQ"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/bb6htkrh5wbp"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/fafbqc5biqgf"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/q88lfqkx1k46"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA19644",
+      "title": "Farming Simulator 25",
+      "version": "v01.310",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Farming_Simulator_25.avif",
+      "description": "Tags: PPSA19644, v01.310, EUR, 4.xx BackPort\nSize: 43GB\nCredits: Files: MettMowgli & DLPS Team; Backport: DecKerr97\nHow to play: 40% FOV is recommended for playing or maybe can be laggy sometimes, this can be applied on Settings.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/EL73g7bQj39B/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/8vzd8T3H0v"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/4i3qxnwoxhkc"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/6jvo9r37r1z6"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/7vm1fvrtxypd"
+        }
+      ],
+      "sizeBytes": 46170898432
+    },
+    {
+      "titleId": "PPSA16306",
+      "title": "WWE 2K24 Forty Years of WrestleMania Edition",
+      "version": "v01.025",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/WWE_2K24_Forty_Years_of_WrestleMania_Edition.avif",
+      "description": "Tags: PPSA16306, v01.025, USA to EUR Langs, DLCs Merged, 4.xx BackPort\nSize: 85GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: romhunter",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/EL73g7bPY39B/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/m7EkawWnZV"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/9j31qvwfcwmt"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/f81lghoz311c"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/yi79rwf2j30s"
+        }
+      ],
+      "sizeBytes": 91268055040
+    },
+    {
+      "titleId": "PPSA08427",
+      "title": "Killing Floor 3",
+      "version": "v02.011",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Killing_Floor_3.avif",
+      "description": "Tags: PPSA08427, v02.011, USA, 4.xx BackPort\nSize: 44GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0Kezk7kgRzD1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/TpA0bQ7O0v"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/ps720k09rmeu"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/mozhk4m3bwo3"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/2fmlkh7l558r"
+        }
+      ],
+      "sizeBytes": 47244640256
+    },
+    {
+      "titleId": "PPSA24179",
+      "title": "Predator Hunting Grounds",
+      "version": "v01.017",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Predator_Hunting_Grounds.avif",
+      "description": "Tags: PPSA24179, v01.017, USA, 4.xx BackPort\nSize: 48GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/jar3XlrgO32d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/OKOzDdtAax"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/6zvdps3gpgyc"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/fse9g4uvx2h6"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/l884fzq3fo83"
+        }
+      ],
+      "sizeBytes": 51539607552
+    },
+    {
+      "titleId": "PPSA15246",
+      "title": "Teardown",
+      "version": "v01.070.100",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Teardown.avif",
+      "description": "Tags: PPSA15246, v01.070.100, USA, 4.xx BackPort\nSize: 3GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/E1x3AWk7XGyk/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/E0fEzOZqM6"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/4h71s80s1tcn"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/m66ijkv7hwbm"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/i3gocu2fezod"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA17163",
+      "title": "Jets N Guns 2",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Jets_N_Guns_2.avif",
+      "description": "Tags: PPSA17163, v01.002, USA, 4.xx BackPort\nSize: 743MB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/vgKGxXOj6G8Q/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/7tmV1RMxVi"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/zru0j48r0xpq"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/x20ktgyaj2zn"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/vtegr4thstqz"
+        }
+      ],
+      "sizeBytes": 779091968
+    },
+    {
+      "titleId": "PPSA18172",
+      "title": "One Last Breath",
+      "version": "v02.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/One_Last_Breath.webp",
+      "description": "Tags: PPSA18172, v02.000, USA, 4.xx BackPort\nSize: 9GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/E9Qz9XWwK3OL/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/XflRHlw9g0"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/63ne8m5fpk9x"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/x0oto4ym9t4y"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/flqk84qfdgqx"
+        }
+      ],
+      "sizeBytes": 9663676416
+    },
+    {
+      "titleId": "PPSA16160",
+      "title": "Monster Jam Showdown",
+      "version": "v01.012",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Monster_Jam_Showdown.avif",
+      "description": "Tags: PPSA16160, v01.012, USA, 4.xx BackPort\nSize: 25GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/9QWmpAYRX3EB/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/m0xAVxiHNk"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/939sfedf9e1p"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/f4m8nnqw7qsf"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/3bjp10chpm01"
+        }
+      ],
+      "sizeBytes": 26843545600
+    },
+    {
+      "titleId": "PPSA29343",
+      "title": "Beast of Reincarnation Deluxe Edition",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Beast_of_Reincarnation_Deluxe_Edition.avif",
+      "description": "Tags: PPSA29343, v01.000, DLCs Merged, USA, 4.xx BackPort\nSize: 63GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pippo\nHow to play: Pre-Order Contents are included.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/Y2xm0oj0nGRO/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/bTZBtIjzKW"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/dwnh9kufabmx"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/0zyhhf52rxgh"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/nm3s5mfi6tyg"
+        }
+      ],
+      "sizeBytes": 67645734912
+    },
+    {
+      "titleId": "PPSA10595",
+      "title": "TEKKEN 8",
+      "version": "v03.000.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TEKKEN_8.png",
+      "description": "Builds: DLC\nTags: PPSA10595, v03.000.001, USA to EUR Langs, 4.xx BackPort\nSize: 180GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/jar3Xlrbg32d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/wRYx6HQlVi"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/40sllt1z0sx7"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/emwomycdmzbb"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/78faw4pdlwbm"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/u8kktgjd1sry"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/njil33lz1cmy"
+        }
+      ],
+      "sizeBytes": 193273528320
+    },
+    {
       "titleId": "PPSA18528",
       "title": "Mighty Morphin Power Rangers Ritas Rewind",
       "version": "v01.009",
@@ -4734,57 +5185,6 @@
       "sizeBytes": 170724950016
     },
     {
-      "titleId": "PPSA16306",
-      "title": "WWE 2K24 Forty Years of WrestleMania Edition",
-      "version": "v01.023",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/WWE_2K24_Forty_Years_of_WrestleMania_Edition.avif",
-      "description": "Builds: Standard 8.xx, 4.xx BackPort\nTags: PPSA16306, v01.023, USA to EUR Languages, DLCs Merged, Standard (8.xx) + 4.xx BackPort\nSize: 84GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: romhunter",
-      "downloadLinks": [
-        {
-          "name": "Standard 8.xx - AkiraBox",
-          "url": "https://akirabox.com/qw1zedPjv3Xy/file"
-        },
-        {
-          "name": "Standard 8.xx - VikingFile",
-          "url": "https://vikingfile.com/f/x6EhauDJY2"
-        },
-        {
-          "name": "Standard 8.xx - DataNodes",
-          "url": "https://datanodes.to/n6kxkvobp2rj"
-        },
-        {
-          "name": "Standard 8.xx - FileKeeper",
-          "url": "https://filekeeper.net/m72fma8h3spv"
-        },
-        {
-          "name": "Standard 8.xx - DataVault",
-          "url": "https://datavaults.co/1tm3k9j0q0tg"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/vgKGxQ8wqm8Q/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/M6Cy3xutaY"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/u51yy0bdr98h"
-        },
-        {
-          "name": "4.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/a2bcyv0nk0g6"
-        },
-        {
-          "name": "4.xx BackPort - DataVault",
-          "url": "https://datavaults.co/cka3wad458by"
-        }
-      ],
-      "sizeBytes": 90194313216
-    },
-    {
       "titleId": "PPSA26358",
       "title": "Lost Soul Aside",
       "version": "v01.012",
@@ -6157,37 +6557,6 @@
         }
       ],
       "sizeBytes": 8589934592
-    },
-    {
-      "titleId": "PPSA17219",
-      "title": "Disney Illusion Island Starring Mickey and Friends",
-      "version": "v01.001",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Disney_Illusion_Island_Starring_Mickey_and_Friends.avif",
-      "description": "Tags: PPSA17219, v01.001, USA, 7.xx BackPort\nSize: 10GB\nCredits: Files: SiESPTA",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/dZxG5qQw9GVj/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/dFMBWVqrey"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/fsl8vu7qtmv1"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/rqyghesyn689"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/ljkcmw2glm8h"
-        }
-      ],
-      "sizeBytes": 10737418240
     },
     {
       "titleId": "PPSA03977",
@@ -9169,37 +9538,6 @@
         }
       ],
       "sizeBytes": 3221225472
-    },
-    {
-      "titleId": "PPSA07382",
-      "title": "Flintlock The Siege of Dawn",
-      "version": "v01.002.400",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Flintlock_The_Siege_of_Dawn.jpg",
-      "description": "Tags: PPSA07382, v01.002.400, USA, 8.xx and beyond\nSize: 24GB\nCredits: Files: High-Speed007",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/0JgG7PrlemoY/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/gsTQX4ADmm"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/ms4ynozk0377"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/zp4sfsmf28ep"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/5k0e6e99ny8w"
-        }
-      ],
-      "sizeBytes": 25769803776
     },
     {
       "titleId": "PPSA06433",
@@ -15176,41 +15514,6 @@
       "sizeBytes": 93415538688
     },
     {
-      "titleId": "PPSA10595",
-      "title": "TEKKEN 8",
-      "version": "v02.006.001",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TEKKEN_8.png",
-      "description": "Builds: Standard 7.xx, 4.xx BackPort, DLC\nTags: PPSA10595, v02.006.001, USA to EUR Languages, Standard (7.xx) + 4.xx BackPork\nSize: 172GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pkykzhack",
-      "downloadLinks": [
-        {
-          "name": "Standard 7.xx - AkiraBox",
-          "url": "https://akirabox.com/rk9zKDwN5G0l/file"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/LJlGn98Qjz15/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/QPwBld7Ww2"
-        },
-        {
-          "name": "4.xx BackPort - BuzzHeavier",
-          "url": "https://buzzheavier.com/rwh6xe9fod1v"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/N2p3DQJDRzMa/file"
-        },
-        {
-          "name": "DLC - VikingFile",
-          "url": "https://vikingfile.com/f/Wkt9O0JDK4"
-        }
-      ],
-      "sizeBytes": 184683593728
-    },
-    {
       "titleId": "PPSA01556",
       "title": "Resident Evil Village Gold Edition",
       "version": "v01.210",
@@ -15321,41 +15624,6 @@
         }
       ],
       "sizeBytes": 6442450944
-    },
-    {
-      "titleId": "PPSA08427",
-      "title": "Killing Floor 3",
-      "version": "v02.006.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Killing_Floor_3.avif",
-      "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA08427, v02.006.000, EUR, Standard (9.xx) + 4.xx BackPork\nSize: 33GB\nCredits: Files: DUPLEX & SiESPTA; Backport: BestPig",
-      "downloadLinks": [
-        {
-          "name": "Standard 9.xx - AkiraBox",
-          "url": "https://akirabox.com/k0embVWrnmVb/file"
-        },
-        {
-          "name": "Standard 9.xx - VikingFile",
-          "url": "https://vikingfile.com/f/lMiDDniK9m"
-        },
-        {
-          "name": "Standard 9.xx - BuzzHeavier",
-          "url": "https://buzzheavier.com/mtoxig937w84"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/jJD3VPgAlGa5/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/GcNB4uHtVQ"
-        },
-        {
-          "name": "4.xx BackPort - BuzzHeavier",
-          "url": "https://buzzheavier.com/va4x6b8ohcz8"
-        }
-      ],
-      "sizeBytes": 35433480192
     },
     {
       "titleId": "PPSA20435",
@@ -17016,5 +17284,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-05T01:56:44.044Z"
+  "_generated": "2026-08-06T02:00:11.434Z"
 }
