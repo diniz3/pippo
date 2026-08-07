@@ -3,6 +3,355 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA14708",
+      "title": "Commandos Origins",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Commandos_Origins.jpg",
+      "description": "Tags: PPSA14708, v01.004, EUR, 4.xx BackPort\nSize: 28GB\nCredits: Files: DLPS Team; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/M2BGwPwVXmj4/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/aS6cB1MmcX"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/4ur8u6rbvbmb"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/2wntretgbs7m"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/72lyujakshxr"
+        }
+      ],
+      "sizeBytes": 30064771072
+    },
+    {
+      "titleId": "PPSA06438",
+      "title": "Lets Build A Zoo Ultimate Edition",
+      "version": "v01.001.140",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Lets_Build_A_Zoo.webp",
+      "description": "Tags: PPSA06438, v01.001.140, EUR, DLCs Merged, 4.xx BackPort\nSize: 912MB\nCredits: Files: DLPS Team; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/N2p3DPJ0R3Ma/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/mJzPoTExmw"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/70ozxvkgb0l2"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/03h4y8a24jmp"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/d65lbpvjki73"
+        }
+      ],
+      "sizeBytes": 956301312
+    },
+    {
+      "titleId": "PPSA26354",
+      "title": "TRIANGLE STRATEGY",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TRIANGLE_STRATEGY.avif",
+      "description": "Tags: PPSA26354, v01.001, ASIA, 4.xx BackPort\nSize: 13GB\nCredits: Files: DLPS Team; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/jar3Xlqb232d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/u936CcVf0s"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/2tzbzhaodcmr"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/833hy2k88hna"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/7ta4nsd9pjhz"
+        }
+      ],
+      "sizeBytes": 13958643712
+    },
+    {
+      "titleId": "PPSA08587",
+      "title": "Dragon Ball Xenoverse 2",
+      "version": "v01.004.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dragon_Ball_Xenoverse_2.avif",
+      "description": "Tags: PPSA08587, v01.004.002, USA to EUR Langs, 4.xx BackPort\nSize: 25GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/1RgzR96083bp/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/zdVFlbpY6b"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/o0qzcg87cpmk"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/r31vr2t0ussa"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/tzywt085eh0m"
+        }
+      ],
+      "sizeBytes": 26843545600
+    },
+    {
+      "titleId": "PPSA03859",
+      "title": "MechWarrior 5 Mercenaries",
+      "version": "v01.0019",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MechWarrior_5_Mercenaries.avif",
+      "description": "Tags: PPSA03859, v01.0019, USA, 4.xx BackPort\nSize: 79GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/QN9mEqYaZm6d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/WQPBTHr0HL"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/t89wbw5c5zsu"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/vpc6ycv51ghc"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/sycv1rkmwbbq"
+        }
+      ],
+      "sizeBytes": 84825604096
+    },
+    {
+      "titleId": "PPSA10906",
+      "title": "Atelier Marie Remake The Alchemist of Salburg",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Atelier Marie Remake The Alchemist of Salburg.avif",
+      "description": "Tags: PPSA10906, v01.000, ASIA, DLCs Merged, 4.xx BackPort\nSize: 17GB\nCredits: Files: DLPS Team; Backport: DecKerr97; DLC: Pippo\nHow to play: Only BGM Packs are unlocked.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/7d5GLZE1K3xR/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/RRWJ7HWzp9"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/kgp3y2ynz03z"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/mq99ca0k2o3c"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/0z3vnj5t63hw"
+        }
+      ],
+      "sizeBytes": 18253611008
+    },
+    {
+      "titleId": "PPSA07421",
+      "title": "Fate Samurai Remnant",
+      "version": "v01.302",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/FateSamurai_Remnant.jpg",
+      "description": "Tags: PPSA07421, v01.302, USA, 4.xx BackPort\nSize: 47GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/M2BGwPwgbmj4/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/6r2VPhZTqC"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/tdyfy2elw8vd"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/vym9z8w94htg"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/gwr6wphde445"
+        }
+      ],
+      "sizeBytes": 50465865728
+    },
+    {
+      "titleId": "PPSA13711",
+      "title": "Dolphin Spirit Ocean Mission",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dolphin_Spirit_Ocean_Mission.avif",
+      "description": "Tags: PPSA13711, v01.000, USA, 4.xx BackPort\nSize: 899MB\nCredits: Files: DLPS Team; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/Pbe3PaJ5KzlX/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/SeDWaEOJGk"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/pbgkh2d1grsw"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/trcumaxuasft"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/rtj7yc7501el"
+        }
+      ],
+      "sizeBytes": 942669824
+    },
+    {
+      "titleId": "PPSA17245",
+      "title": "Teenage Mutant Ninja Turtles Mutants Unleashed Deluxe Edition",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TMNT_Mutants_Unleashed_Deluxe_Edition.avif",
+      "description": "Tags: PPSA17245, v01.004, USA, DLCs Merged, 4.xx BackPort\nSize: 25GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/vgKGxXO08G8Q/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/VIxobn1R1v"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/cxchugg4n2jk"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/llua26df0a7p"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/w3zdipjiasxr"
+        }
+      ],
+      "sizeBytes": 26843545600
+    },
+    {
+      "titleId": "PPSA14427",
+      "title": "Crymachina Deluxe Edition",
+      "version": "v01.008",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Crymachina_Deluxe_Edition.avif",
+      "description": "Builds: DLC\nTags: PPSA14427, v01.008, USA, 4.xx BackPort\nSize: 8GB\nCredits: Files: DLPS Team; Backport: DecKerr97; DLC: Scene\nHow to play: Game Modified for make the DLCs JPN work on USA.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/QN9mEqbMQm6d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/uYZelc4Rvk"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/1cus5a7szod8"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/9bwwiufn3e6y"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/94fz7giqv6ef"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/wwo51k4wn30g"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/xqur0msl5nq1"
+        }
+      ],
+      "sizeBytes": 8589934592
+    },
+    {
+      "titleId": "PPSA17181",
+      "title": "LUTO",
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/LUTO.jpg",
+      "description": "Tags: PPSA17181, v01.007, EUR, 4.xx BackPort\nSize: 22GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/EL73g7bJ839B/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/izPOYVssbh"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/n4i9olsbnpls"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/pvy28sl2ww7p/"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/mmc45n6wtvku"
+        }
+      ],
+      "sizeBytes": 23622320128
+    },
+    {
       "titleId": "PPSA17219",
       "title": "Disney Illusion Island Starring Mickey and Friends",
       "version": "v01.001",
@@ -103,37 +452,6 @@
         }
       ],
       "sizeBytes": 25769803776
-    },
-    {
-      "titleId": "PPSA25009",
-      "title": "Blue Prince",
-      "version": "v02.001",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Blue_Prince.avif",
-      "description": "Tags: PPSA25009, v02.001, EUR, 4.xx BackPort\nSize: 3GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/9QWmpAYwA3EB/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/oLc9OrndzQ"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/bb6htkrh5wbp"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/fafbqc5biqgf"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/q88lfqkx1k46"
-        }
-      ],
-      "sizeBytes": 3221225472
     },
     {
       "titleId": "PPSA19644",
@@ -4223,37 +4541,6 @@
         }
       ],
       "sizeBytes": 5368709120
-    },
-    {
-      "titleId": "PPSA17245",
-      "title": "Teenage Mutant Ninja Turtles Mutants Unleashed",
-      "version": "v01.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TMNT_Mutants_Unleashed.avif",
-      "description": "Tags: PPSA17245, v01.000, USA, 4.xx BackPork\nSize: 15GB\nCredits: Files: High-Speed007; Backport: BestPig",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/0JgG7PkA8moY/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/tpTqT4qBHH"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/kzzmx2h1d9rd"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/eoa1olv4qghu"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/2kzqkix8u4zv"
-        }
-      ],
-      "sizeBytes": 16106127360
     },
     {
       "titleId": "PPSA29714",
@@ -17284,5 +17571,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-06T02:00:11.434Z"
+  "_generated": "2026-08-07T02:22:27.620Z"
 }
