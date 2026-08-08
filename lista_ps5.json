@@ -3,6 +3,64 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA26786",
+      "title": "Indiana Jones and The Great Circle",
+      "version": "v01.011",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Indiana_Jones_and_The_Great_Circle.avif",
+      "description": "Tags: PPSA26786, v01.011, USA, DLCs Merged, 4.xx BackPort\nSize: 230GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/E9Qz9X1qW3OL/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/JC1OV0ayvw"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/n1zmifaqwqvw"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/wfsoi91lnnfg"
+        }
+      ],
+      "sizeBytes": 246960619520
+    },
+    {
+      "titleId": "PPSA16033",
+      "title": "The Alters",
+      "version": "v01.000.013",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Alters.avif",
+      "description": "Tags: PPSA16033, v01.000.013, EUR, 4.xx BackPort\nSize: 114GB\nCredits: Files: DLPS Team; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/dkD3YwV67GLQ/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/qkhiFTtF5v"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/ukcv3uvi9gll"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/jw6dw12fakwl"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/fazjulewx7jm"
+        }
+      ],
+      "sizeBytes": 122406567936
+    },
+    {
       "titleId": "PPSA14708",
       "title": "Commandos Origins",
       "version": "v01.004",
@@ -7493,45 +7551,6 @@
         }
       ],
       "sizeBytes": 13958643712
-    },
-    {
-      "titleId": "PPSA26786",
-      "title": "Indiana Jones and The Great Circle Premium Edition",
-      "version": "v01.009",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Indiana_Jones_and_The_Great_Circle_Premium_Edition.png",
-      "description": "Builds: DLC\nTags: PPSA26786, v01.009, USA, 4.xx BackPork\nSize: 230GB\nCredits: Files: DUPLEX & SiESPTA; Backport: BestPig; DLC: DUPLEX",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/vgKGxQvpRm8Q/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/dT47c5EeM1"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/k9smtk601hhi"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/qx93zk82n83m"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/r037zi7ueamn"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/e38uhlud45w4"
-        },
-        {
-          "name": "DLC - FileKeeper",
-          "url": "https://filekeeper.net/amp15ho3mp6r"
-        }
-      ],
-      "sizeBytes": 246960619520
     },
     {
       "titleId": "PPSA04263",
@@ -17571,5 +17590,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-07T02:22:27.620Z"
+  "_generated": "2026-08-08T01:08:20.055Z"
 }
