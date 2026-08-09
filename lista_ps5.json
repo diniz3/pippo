@@ -3,6 +3,406 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA06693",
+      "title": "Remnant 2 Ultimate Edition",
+      "version": "v01.039",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Remnant_2_UE.jpg",
+      "description": "Tags: PPSA06693, v01.039, USA, DLCs Merged, 4.xx BackPort\nSize: 177GB\nCredits: Files: High-Speed007; Backport: DecKerr97\nHow to play: Survival Pack with all Expansions (The Awakened King, The Forgotten Kingdom and The Dark Horizon) are included.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0JgG75BxZ3oY/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/MFIdkqmJxE"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/xlh876p4kvrq"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/oeyfsiq8k7i6"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/a1vb2dkd8hcr"
+        }
+      ],
+      "sizeBytes": 190052302848
+    },
+    {
+      "titleId": "PPSA22520",
+      "title": "Animal Well",
+      "version": "v01.000.011",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Animal_Well.avif",
+      "description": "Tags: PPSA22520, v01.000.011, JPN, 4.xx BackPort\nSize: 214MB\nCredits: Files: DLPS Team; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/ex5z25ZMD3Kq/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/43eZLaAaei"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/8qybxaww5f53"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/gjpncrvj6jvt"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/nc0l0xojv5vj"
+        }
+      ],
+      "sizeBytes": 224395264
+    },
+    {
+      "titleId": "PPSA04132",
+      "title": "Samurai Maiden Deluxe Edition",
+      "version": "v01.060",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Samurai_Maiden_Deluxe_Edition.avif",
+      "description": "Tags: PPSA04132, v01.060, JPN, DLCs Merged, 4.xx BackPort\nSize: 10GB\nCredits: Files: DLPS Team; Backport: DecKerr97; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/7d5GLZaKL3xR/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/MYKe2GSVvi"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/sgtv9gqa2ygl"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/f37uwg409be4"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/2z1wtm9vqfyc"
+        }
+      ],
+      "sizeBytes": 10737418240
+    },
+    {
+      "titleId": "PPSA11002",
+      "title": "Post Trauma",
+      "version": "v02.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Post_Trauma.avif",
+      "description": "Tags: PPSA11002, v02.001, EUR, 4.xx BackPort\nSize: 16GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/vgKGxXV5qG8Q/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/duZmE3NVLj"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/q1zthejynvb7"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/l20oen85uizg"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/enlwkz0803vo"
+        }
+      ],
+      "sizeBytes": 17179869184
+    },
+    {
+      "titleId": "PPSA20298",
+      "title": "Shadow Labyrinth",
+      "version": "v01.100",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Shadow_Labyrinth.avif",
+      "description": "Tags: PPSA20298, v01.100, USA, 4.xx BackPort\nSize: 3GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/LK0G1bxkem91/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/g8P67PgZB0"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/6n23o5cftr07"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/e7735yw0m2am"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/4nh7e9izxk1i"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA17337",
+      "title": "Space Adventure Cobra The Awakening Gold Edition",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Space_Adventure_Cobra_The_Awakening_GE.avif",
+      "description": "Tags: PPSA17337, v01.004, EUR, DLCs Merged, 4.xx BackPort\nSize: 3GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/k0embbK2lmVb/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/CPUUN1KRbT"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/2i31xbtlxikf"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/nrtauiffftth"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/oavbw8mo88nz"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA16786",
+      "title": "Neva",
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Neva.avif",
+      "description": "Tags: PPSA16786, v01.007, EUR, DLCs Merged, 4.xx BackPort\nSize: 20GB\nCredits: Files: SiESPTA; Backport: DecKerr97; DLC: Pippo\nHow to play: Prologue DLC is Unlocked. Enjoy.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/M2BGwPYNDmj4/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/lkiSy3rCAI"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/r1hovuqu0uto"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/xpfea8ijzy0f"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/hx4v69k3nbig"
+        }
+      ],
+      "sizeBytes": 21474836480
+    },
+    {
+      "titleId": "PPSA08394",
+      "title": "R Type Final 3 Evolved",
+      "version": "v01.009",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/R_Type_Final_3_Evolved.avif",
+      "description": "Builds: DLC\nTags: PPSA08394, v01.009, USA, 4.xx BackPort\nSize: 41GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: romhunter",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/M2BGwPYrXmj4/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/ucdKCQbJMV"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/fdss5mmhrk4o"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/xrf1mbwxu53d"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/rjh7ru5zty8j"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/5ezxaen61moe"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/0426cly2o71v"
+        }
+      ],
+      "sizeBytes": 44023414784
+    },
+    {
+      "titleId": "PPSA26528",
+      "title": "Code Violet",
+      "version": "v01.028",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Code_Violet.avif",
+      "description": "Builds: Standard 5.xx, 4.xx BackPort\nTags: PPSA26528, v01.028, USA, Standard (5.xx) + 4.xx BackPort\nSize: 83GB\nCredits: Files: SiESPTA; Backport: DecKerr97\nHow to play: Use BP 4 Ver only on 4.xx FW, BP 5 Ver for 5.xx to 12.xx instead.",
+      "downloadLinks": [
+        {
+          "name": "Standard 5.xx - AkiraBox",
+          "url": "https://akirabox.com/APVmablZq3Xo/file"
+        },
+        {
+          "name": "Standard 5.xx - VikingFile",
+          "url": "https://vikingfile.com/f/929OLpdcJN"
+        },
+        {
+          "name": "Standard 5.xx - DataNodes",
+          "url": "https://datanodes.to/9r5zgxr2ue4e"
+        },
+        {
+          "name": "Standard 5.xx - FileKeeper",
+          "url": "https://filekeeper.net/2b0r5vnzzimy"
+        },
+        {
+          "name": "Standard 5.xx - DataVault",
+          "url": "https://datavaults.co/pnqmynblbkgq"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/0Kezk7od1zD1/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/O1dFvbyfqe"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/uv6h5sztezpd"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/zkvo84k4al2w"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/r73xguowavvv"
+        }
+      ],
+      "sizeBytes": 89120571392
+    },
+    {
+      "titleId": "PPSA30223",
+      "title": "Yakuza Kiwami 3 and Dark Ties Deluxe Edition",
+      "version": "v01.015",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Yakuza_Kiwami_3_DE.avif",
+      "description": "Tags: PPSA30223, v01.015, JPN, DLCs Merged, 4.xx BackPort\nSize: 54GB\nCredits: Files: DUPLEX & VanBuuren; Backport: DecKerr97; DLC: DUPLEX & VanBuuren",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0rpmvpYQDzRg/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/frZhMIEXDR"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/kvuapbb7bqw9"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/lnmvh8fk0opr"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/og9t2i71vqqa"
+        }
+      ],
+      "sizeBytes": 57982058496
+    },
+    {
+      "titleId": "PPSA31333",
+      "title": "Yakuza Kiwami 2",
+      "version": "v01.010",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Yakuza_Kiwami_2.avif",
+      "description": "Tags: PPSA31333, v01.010, JPN, 4.xx BackPort\nSize: 36GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0Kezk7oARzD1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/SjHQy5kgGO"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/nytk4z0meb50"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/z4hqzs1lgcum"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/fgap3vos4m6w"
+        }
+      ],
+      "sizeBytes": 38654705664
+    },
+    {
+      "titleId": "PPSA31334",
+      "title": "Yakuza Kiwami",
+      "version": "v01.010",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Yakuza_Kiwami.webp",
+      "description": "Tags: PPSA31334, v01.010, JPN, 4.xx BackPort\nSize: 21GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0Kezk7oEezD1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/39nSsDIwph"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/s8azq1bt2pzx"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/mom8p3s4wxr1"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/x3tswwqhqq9p"
+        }
+      ],
+      "sizeBytes": 22548578304
+    },
+    {
       "titleId": "PPSA26786",
       "title": "Indiana Jones and The Great Circle",
       "version": "v01.011",
@@ -25,6 +425,10 @@
         {
           "name": "FileKeeper",
           "url": "https://filekeeper.net/wfsoi91lnnfg"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/213l13swsxr0"
         }
       ],
       "sizeBytes": 246960619520
@@ -2704,10 +3108,10 @@
     },
     {
       "titleId": "PPSA10112",
-      "title": "T HILL The Short Message",
+      "title": "SILENT HILL The Short Message",
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/T_HILL_The_Short_Message.jpg",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/SILENT_HILL_The_Short_Message.jpg",
       "description": "Tags: PPSA10112, v01.001, ASIA, 4.xx BackPort\nSize: 18GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadLinks": [
         {
@@ -12338,29 +12742,6 @@
       "sizeBytes": 56908316672
     },
     {
-      "titleId": "PPSA16786",
-      "title": "Neva",
-      "version": "v01.007",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Neva.avif",
-      "description": "Tags: PPSA16786, v01.007, EUR, DLCs Merged, 9.xx and beyond\nSize: 20GB\nCredits: Files: SiESPTA; DLC: Pippo\nHow to play: Prologue DLC is Unlocked. Enjoy.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/qPez4aMoqGOY/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/QFfWxMPqda"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/wigj8qccvmz8"
-        }
-      ],
-      "sizeBytes": 21474836480
-    },
-    {
       "titleId": "PPSA14053",
       "title": "Afterimage",
       "version": "v01.000",
@@ -12983,29 +13364,6 @@
         }
       ],
       "sizeBytes": 35433480192
-    },
-    {
-      "titleId": "PPSA06693",
-      "title": "Remnant 2",
-      "version": "v01.037",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Remnant_2.avif",
-      "description": "Tags: PPSA06693, v01.037, USA, 4.xx BackPort\nSize: 177GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/jar3XLv1g32d/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/pngkwpSQHa"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/szo3jzyyehjq"
-        }
-      ],
-      "sizeBytes": 190052302848
     },
     {
       "titleId": "PPSA22844",
@@ -17590,5 +17948,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-08T01:08:20.055Z"
+  "_generated": "2026-08-09T01:12:52.241Z"
 }
