@@ -3,12 +3,304 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24191",
+      "title": "Monster Hunter Wilds Premium Edition",
+      "version": "v01.041.040",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Monster_Hunter_Wilds_Premium_Edition.png",
+      "description": "Builds: Standard, 4.xx BackPort, DLC\nTags: PPSA24191, v01.041.040, ASIA, Standard (10.xx) + 4.xx BackPort\nSize: 113GB\nCredits: Files: SiESPTA; Backport: Zhwenx; DLC: DUPLEX\nHow to play: Standard one is for users with Higher Firmware like 10.xx +, BackPort Ver work only on 4.xx to 9.xx. Game modified to make DLCs EUR work on ASIA.",
+      "downloadLinks": [
+        {
+          "name": "Standard - AkiraBox",
+          "url": "https://akirabox.com/ex5z25Bko3Kq/file"
+        },
+        {
+          "name": "Standard - VikingFile",
+          "url": "https://vikingfile.com/f/VjAIeevsDu"
+        },
+        {
+          "name": "Standard - DataNodes",
+          "url": "https://datanodes.to/1y6kg3st1nas"
+        },
+        {
+          "name": "Standard - FileKeeper",
+          "url": "https://filekeeper.net/1k6ef3y4bi7v"
+        },
+        {
+          "name": "Standard - DataVault",
+          "url": "https://datavaults.co/z9o4973vy4g3"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/0JgG7PxjNmoY/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/OemyxEtBH5"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/x0tqmr88xmtc"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/4tm7uj95pbgr"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/bzwulu5t7x84"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/hadlhdwa21jp"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/k2m51esno9x5"
+        }
+      ],
+      "sizeBytes": 121332826112
+    },
+    {
+      "titleId": "PPSA21914",
+      "title": "Undisputed Championship Edition",
+      "version": "v01.005",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Undisputed_Championship_Edition.avif",
+      "description": "Tags: PPSA21914, v01.005, EUR, DLCs Merged, 4.xx BackPort\nSize: 17GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/ex5z25Bko3Kq/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/Cn1jLll7MV"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/uq86mhbs4a6k"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ju7u7ialuxlh"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/2cldrfi256sr"
+        }
+      ],
+      "sizeBytes": 18253611008
+    },
+    {
+      "titleId": "PPSA09135",
+      "title": "Monster Energy Supercross The Official Videogame 6",
+      "version": "v01.009",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Monster_Energy_Supercross_The_Official_Videogame_6.webp",
+      "description": "Tags: PPSA09135, v01.009, USA, 4.xx BackPort\nSize: 53GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qLQ36q46Km19/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/RjNjQMF2U1"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/34o5p1uvj0jh"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/n5xdmx9w93j0"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/t46ugpna6ha8"
+        }
+      ],
+      "sizeBytes": 56908316672
+    },
+    {
+      "titleId": "PPSA24203",
+      "title": "The House of The Dead 2 Remake",
+      "version": "v02.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_House_of_The_Dead_2_Remake.jpg",
+      "description": "Tags: PPSA24203, v02.000, EUR, 4.xx BackPort\nSize: 8GB\nCredits: Files: DUPLEX & SiESPta; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/1RgzR9B583bp/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/fkQfF3kNJF"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/0dyyvcn02o38"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/6bwh7zt259yq"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/hllwmp11ykd8"
+        }
+      ],
+      "sizeBytes": 8589934592
+    },
+    {
+      "titleId": "PPSA14677",
+      "title": "Harvest Days",
+      "version": "v01.002.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Harvest_Days.avif",
+      "description": "Tags: PPSA14677, v01.002.001, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0PdzyXBRd3eA/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/1jh6VTCn7z"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/lxiovn89c2vn"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/48jaslsv06om"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/8s1x7p0eyg4f"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA26501",
+      "title": "Hot Wheels Lets Race Ultimate Speed",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Hot_Wheels_Lets_Race_Ultimate_Speed.avif",
+      "description": "Builds: DLC\nTags: PPSA26501, v01.002, USA, 4.xx BackPort\nSize: 9GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qPez44dX9zOY/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/EDKkOFDgbN"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/dkwap2lprgj5"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/rj5swyb1wbg0"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/hm9sgbhian6q"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/eop18adtavzd"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/j11f7y3red5n"
+        }
+      ],
+      "sizeBytes": 9663676416
+    },
+    {
+      "titleId": "PPSA14196",
+      "title": "Sker Ritual",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Sker_Ritual.avif",
+      "description": "Builds: DLC\nTags: PPSA14196, v01.000, EUR, 4.xx BackPort\nSize: 20GB\nCredits: Files: SiESPTA; Backport: DecKerr97; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qLQ36q1BQm19/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/Tve3IK11sc"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/7ndbfw8ylcii"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/j2zr2w9626sy"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/tbhc0vhnww7j"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/y96doug323f2"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/lajqintuc3kh"
+        }
+      ],
+      "sizeBytes": 21474836480
+    },
+    {
+      "titleId": "PPSA28329",
+      "title": "RoboCop Rogue City Unfinished Business Deluxe Edition",
+      "version": "v01.009",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/RoboCop_Rogue_City_Unfinished_Business.png",
+      "description": "Tags: PPSA28329, v01.009, EUR, DLCs Merged, 4.xx BackPort\nSize: 70GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/Y2xm0owloGRO/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/gaGbobv1dQ"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/1z2mnt3ppo8k"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/o6imc5cwwao2"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/vytrr0264xbv"
+        }
+      ],
+      "sizeBytes": 75161927680
+    },
+    {
       "titleId": "PPSA06693",
       "title": "Remnant 2 Ultimate Edition",
       "version": "v01.039",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Remnant_2_UE.jpg",
-      "description": "Tags: PPSA06693, v01.039, USA, DLCs Merged, 4.xx BackPort\nSize: 177GB\nCredits: Files: High-Speed007; Backport: DecKerr97\nHow to play: Survival Pack with all Expansions (The Awakened King, The Forgotten Kingdom and The Dark Horizon) are included.",
+      "description": "Tags: PPSA06693, v01.039, USA, DLCs Merged, 4.xx BackPort\nSize: 177GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo\nHow to play: Survival Pack with all Expansions (The Awakened King, The Forgotten Kingdom and The Dark Horizon) are included.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -2992,37 +3284,6 @@
         }
       ],
       "sizeBytes": 1073741824
-    },
-    {
-      "titleId": "PPSA08592",
-      "title": "Monster Energy Supercross The Official Videogame 6",
-      "version": "v01.008",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Monster_Energy_Supercross_The_Official_Videogame_6.webp",
-      "description": "Tags: PPSA08592, v01.008, EUR, 4.xx BackPort\nSize: 53GB\nCredits: Files: DUPLEX & Jose Carrion; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/obj3jdDRrGDx/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/3H1DlSQkA0"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/vd28yue8chrj"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/y514agi5aq6d"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/sjnp8lhbo1f7"
-        }
-      ],
-      "sizeBytes": 56908316672
     },
     {
       "titleId": "PPSA12363",
@@ -6177,61 +6438,6 @@
       "sizeBytes": 25769803776
     },
     {
-      "titleId": "PPSA21915",
-      "title": "Undisputed",
-      "version": "v01.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Undisputed.avif",
-      "description": "Builds: Standard 7.xx, 4.xx BackPort, DLC\nTags: PPSA21915, v01.000, EUR, Standard (7.xx) + 4.xx BackPort\nSize: 17GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
-      "downloadLinks": [
-        {
-          "name": "Standard 7.xx - AkiraBox",
-          "url": "https://akirabox.com/Z9dzB4vX5mk1/file"
-        },
-        {
-          "name": "Standard 7.xx - VikingFile",
-          "url": "https://vikingfile.com/f/3fgvMCpYHB"
-        },
-        {
-          "name": "Standard 7.xx - DataNodes",
-          "url": "https://datanodes.to/ive34ygsh1mu"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/APVma0wM5GXo/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/r3vb0v3evP"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/v0gaf2bbh66j"
-        },
-        {
-          "name": "4.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/51y501c94y32"
-        },
-        {
-          "name": "4.xx BackPort - DataVault",
-          "url": "https://datavaults.co/s29j9a8ms3m1"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/obj3jlVKBGDx/file"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/9rbssic8yiot"
-        },
-        {
-          "name": "DLC - FileKeeper",
-          "url": "https://filekeeper.net/r5nzhvqxiw0h"
-        }
-      ],
-      "sizeBytes": 18253611008
-    },
-    {
       "titleId": "PPSA17732",
       "title": "The Precinct",
       "version": "v01.011",
@@ -6662,45 +6868,6 @@
         }
       ],
       "sizeBytes": 26843545600
-    },
-    {
-      "titleId": "PPSA24191",
-      "title": "Monster Hunter Wilds Premium Edition",
-      "version": "v01.041.040",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Monster_Hunter_Wilds_Premium_Edition.png",
-      "description": "Builds: DLC\nTags: PPSA24191, v01.041.040, ASIA, 4.xx BackPort\nSize: 113GB\nCredits: Files: SiESPTA; Backport: Zhwenx; DLC: DUPLEX\nHow to play: Game modified to make DLCs EUR work on ASIA.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/0JgG7PxjNmoY/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/OemyxEtBH5"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/x0tqmr88xmtc"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/4tm7uj95pbgr"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/bzwulu5t7x84"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/hadlhdwa21jp"
-        },
-        {
-          "name": "DLC - FileKeeper",
-          "url": "https://filekeeper.net/k2m51esno9x5"
-        }
-      ],
-      "sizeBytes": 121332826112
     },
     {
       "titleId": "PPSA16738",
@@ -17625,21 +17792,6 @@
       "sizeBytes": 165356240896
     },
     {
-      "titleId": "PPSA28329",
-      "title": "RoboCop Rogue City Unfinished Business",
-      "version": "v01.005",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/RoboCop_Rogue_City_Unfinished_Business.png",
-      "description": "Tags: PPSA28329, v01.005, EUR, 4.xx BackPork\nSize: 70GB\nCredits: Files: SiESPTA & DUPLEX; Backport: BestPig",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/rk9zKDYLQG0l/file"
-        }
-      ],
-      "sizeBytes": 75161927680
-    },
-    {
       "titleId": "PPSA21203",
       "title": "The Elder Scrolls IV Oblivion Remastered",
       "version": "v01.512.105",
@@ -17948,5 +18100,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-09T01:12:52.241Z"
+  "_generated": "2026-08-10T01:15:04.463Z"
 }
