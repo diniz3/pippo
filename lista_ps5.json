@@ -3,6 +3,223 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA25256",
+      "title": "Carmen Sandiego Deluxe Edition",
+      "version": "v01.009",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Carmen_Sandiego_Deluxe_Edition.avif",
+      "description": "Tags: PPSA25256, v01.009, EUR, DLCs Merged, 4.xx BackPort\nSize: 3GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/dZxG5o4xP3Vj/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/YD5nc54dsP"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/czpdlwnsw52q"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/mac0mxjmpmf2"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/4zkyyskjbawx"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA04426",
+      "title": "PGA TOUR 2K23",
+      "version": "v01.023",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/PGA_TOUR_2K23.jpg",
+      "description": "Tags: PPSA04426, v01.023, EUR, DLCs Merged, 4.xx BackPort\nSize: 14GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo & DecKerr97\nHow to play: Golden Club Pack + Style & Swing Pack are included.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/E1x3AWgKnGyk/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/1f1SChCpPC"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/p2o5mvc6rf2n"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/0us3ilzk8hpp"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/7wycyfxatnqy"
+        }
+      ],
+      "sizeBytes": 15032385536
+    },
+    {
+      "titleId": "PPSA22696",
+      "title": "WWE 2K25 The Bloodline Edition",
+      "version": "v01.029",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/WWE_2K25_The_Bloodline_Edition.avif",
+      "description": "Tags: PPSA22696, v01.029, EUR, DLCs Merged, 4.xx BackPort\nSize: 275GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo & DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/XkrzoKop5zBO/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/8kFZ6tV2iI"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/mwlgvwjuzh94"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/w0zf9hn84la4"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/7elyph7fl04k"
+        }
+      ],
+      "sizeBytes": 295279001600
+    },
+    {
+      "titleId": "PPSA21914",
+      "title": "Undisputed Championship Edition",
+      "version": "v02.005",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Undisputed_Championship_Edition.avif",
+      "description": "Tags: PPSA21914, v02.005, EUR, DLCs Merged, 4.xx BackPort\nSize: 18GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0Kezk7ErpzD1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/ern2GKqXeD"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/rnuc93eomd31"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/bgzest02ow0n"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/hv6gkq7gs1b9"
+        }
+      ],
+      "sizeBytes": 19327352832
+    },
+    {
+      "titleId": "PPSA07576",
+      "title": "No More Heroes 3",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/No_More_Heroes_3.webp",
+      "description": "Tags: PPSA07576, v01.004, USA, 4.xx BackPort\nSize: 46GB\nCredits: Files: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/5pVzNA0QZ37w/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/EMLAdN0QL0"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/9qhrr8xoo805"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/hw6uqfrdvph2"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/dq5utkifla7m"
+        }
+      ],
+      "sizeBytes": 49392123904
+    },
+    {
+      "titleId": "PPSA07372",
+      "title": "Disney Pixar Toy Story 2 Buzz Lightyear to the Rescue",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Disney_Pixar_Toy_Story_2_Buzz_Lightyear_to_the_Rescue.webp",
+      "description": "Tags: PPSA07372, v01.002, EUR, 4.xx BackPort\nSize: 3GB\nCredits: Files: Uchiha Dare Nial & High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/APVmabr9d3Xo/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/CRZLV4wagn"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/tufe94h7lsuy"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/r4b0jaomosx0"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/mw0rese3fhk7"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA13927",
+      "title": "Tintin Reporter Cigars of The Pharaoh",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Tintin_Reporter_Cigars_of_The_Pharaoh.webp",
+      "description": "Tags: PPSA13927, v01.000, EUR, 4.xx BackPort\nSize: 31GB\nCredits: Files: DUPLEX & Jose Carrion; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/E1x3AWg2DGyk/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/4SgsKeI2dt"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/9vntds4r73yt"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/zp1w65be8crn"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/4zm60a2x4sup"
+        }
+      ],
+      "sizeBytes": 33285996544
+    },
+    {
       "titleId": "PPSA24191",
       "title": "Monster Hunter Wilds Premium Edition",
       "version": "v01.041.040",
@@ -12,7 +229,7 @@
       "downloadLinks": [
         {
           "name": "Standard - AkiraBox",
-          "url": "https://akirabox.com/ex5z25Bko3Kq/file"
+          "url": "https://akirabox.com/E1x3AWgbrGyk/file"
         },
         {
           "name": "Standard - VikingFile",
@@ -60,37 +277,6 @@
         }
       ],
       "sizeBytes": 121332826112
-    },
-    {
-      "titleId": "PPSA21914",
-      "title": "Undisputed Championship Edition",
-      "version": "v01.005",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Undisputed_Championship_Edition.avif",
-      "description": "Tags: PPSA21914, v01.005, EUR, DLCs Merged, 4.xx BackPort\nSize: 17GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/ex5z25Bko3Kq/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/Cn1jLll7MV"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/uq86mhbs4a6k"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/ju7u7ialuxlh"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/2cldrfi256sr"
-        }
-      ],
-      "sizeBytes": 18253611008
     },
     {
       "titleId": "PPSA09135",
@@ -18100,5 +18286,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-10T01:15:04.463Z"
+  "_generated": "2026-08-11T01:13:37.480Z"
 }
