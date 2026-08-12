@@ -3,6 +3,258 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA14002",
+      "title": "Baldurs Gate 3 Deluxe Edition",
+      "version": "v01.800.700",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Baldurs_Gate_3_DE.avif",
+      "description": "Tags: PPSA14002, v01.800.700, EUR, DLCs Merged, 4.xx BackPort\nSize: 154GB\nCredits: Files: Slavkarak & Dunaevnick & DLPS Team; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/dZxG5oWaP3Vj/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/b5KSPDA5wR"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/g6djozemfhh6"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/8ffotpxjsbpr"
+        }
+      ],
+      "sizeBytes": 165356240896
+    },
+    {
+      "titleId": "PPSA14457",
+      "title": "Born of Bread",
+      "version": "v02.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Born_of_Bread.avif",
+      "description": "Tags: PPSA14457, v02.000, EUR, 4.xx BackPort\nSize: 6GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/9QWmpAlEL3EB/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/yhBFWKkhIU"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/4mwbk4ug7aym"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/zhn62guucmc0"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/mum58wqudisc"
+        }
+      ],
+      "sizeBytes": 6442450944
+    },
+    {
+      "titleId": "PPSA06584",
+      "title": "Ikai",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ikai.webp",
+      "description": "Tags: PPSA06584, v01.000, USA, 4.xx and beyond\nSize: 8GB\nCredits: Files: BedroZen",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/gXeGOABON3Aa/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/DZsEXCzyvV"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/dbqmarcr2uqf"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/hidkaj6ipg2j"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/j3d22ichlwxx"
+        }
+      ],
+      "sizeBytes": 8589934592
+    },
+    {
+      "titleId": "PPSA06359",
+      "title": "Jumping Flash",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Jumping_Flash.avif",
+      "description": "Tags: PPSA06359, v01.004, EUR, 4.xx BackPort\nSize: 1GB\nCredits: Files: Uchiha Dare Nial & High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qw1zebMZ0GXy/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/WdNZkFU40b"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/mlrnzq9gjk1p"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/d2o9r1u7gj3g"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/nahtv1g5btfs"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA06699",
+      "title": "Everybodys Golf 2",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Everybodys_Golf_2.avif",
+      "description": "Tags: PPSA06699, v01.004, USA, 4.xx BackPort\nSize: 751MB\nCredits: Files: Amiibohound; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/QN9mEq687m6d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/VQhBzhgvuh"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/lpmkq80yag3j"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/cjyih8c56n51"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/vncxbzln1i6p"
+        }
+      ],
+      "sizeBytes": 787480576
+    },
+    {
+      "titleId": "PPSA16566",
+      "title": "Romancing SaGa 2 Revenge of the Seven",
+      "version": "v01.010",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Romancing_SaGa_2_Revenge_of_the_Seven.png",
+      "description": "Builds: Standard 8.xx, 4.xx BackPort\nTags: PPSA16566, v01.010, EUR, Standard (8.xx) + 4.xx BackPort\nSize: 32GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "Standard 8.xx - AkiraBox",
+          "url": "https://akirabox.com/wgWGqxq96z4o/file"
+        },
+        {
+          "name": "Standard 8.xx - VikingFile",
+          "url": "https://vikingfile.com/f/AP1MKSizNn"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/qPez44Wy5zOY/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/Du87cd6QR7"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/x3fukt8x0ajx"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/rpsst0fh9hd2"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/qpp4qsk6kr6f"
+        }
+      ],
+      "sizeBytes": 34359738368
+    },
+    {
+      "titleId": "PPSA09285",
+      "title": "Ed 0 Zombie Uprising",
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ed_0_Zombie_Uprising.avif",
+      "description": "Tags: PPSA09285, v01.007, JPN, 4.xx BackPort\nSize: 16GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/obj3j7OdPzDx/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/rkEjlTYtBu"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/xj024ppcyjni"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/02os9ya9cxwy"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/9oh5if0dzuek"
+        }
+      ],
+      "sizeBytes": 17179869184
+    },
+    {
+      "titleId": "PPSA09285",
+      "title": "Hot Wheels Unleashed 2 Turbocharged",
+      "version": "v01.019",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Hot_Wheels_Unleashed_2_Turbocharged.avif",
+      "description": "Tags: PPSA09285, v01.019, EUR, 4.xx BackPort\nSize: 48GB\nCredits: Files: DecKerr97; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0Kezk7DAJzD1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/dFSaaEnwVD"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/iusfpcthltin"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/3s290mhdfkau"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/9c6xkvqcwuvz"
+        }
+      ],
+      "sizeBytes": 51539607552
+    },
+    {
       "titleId": "PPSA25256",
       "title": "Carmen Sandiego Deluxe Edition",
       "version": "v01.009",
@@ -13141,29 +13393,6 @@
       "sizeBytes": 6442450944
     },
     {
-      "titleId": "PPSA15191",
-      "title": "Hot Wheels Unleashed 2 Turbocharged",
-      "version": "v01.017",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Hot_Wheels_Unleashed_2_Turbocharged.avif",
-      "description": "Tags: PPSA15191, v01.017, USA, 4.xx BackPort\nSize: 48GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/N2p3DQg2dzMa/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/CYQmOoMd6J"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/ixw74eytlkuh"
-        }
-      ],
-      "sizeBytes": 51539607552
-    },
-    {
       "titleId": "PPSA19566",
       "title": "MotoGP 24",
       "version": "v01.011",
@@ -17674,29 +17903,6 @@
       "sizeBytes": 77309411328
     },
     {
-      "titleId": "PPSA18463",
-      "title": "Baldurs Gate 3",
-      "version": "v01.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Baldurs_Gate_3.avif",
-      "description": "Tags: PPSA18463, v01.000, JPN to EUR Languages, 4.xx BackPork\nSize: 131GB\nCredits: Files: SiESPta; Backport: BestPig",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/ex5z2qXJa3Kq/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/GptQyY8heo"
-        },
-        {
-          "name": "BuzzHeavier",
-          "url": "https://ts.buzzheavier.com/d/9kmrzq8suyei"
-        }
-      ],
-      "sizeBytes": 140660178944
-    },
-    {
       "titleId": "PPSA25428",
       "title": "Demon Slayer Kimetsu no Yaiba The Hinokami Chronicles 2",
       "version": "v01.000",
@@ -17861,25 +18067,6 @@
         }
       ],
       "sizeBytes": 20401094656
-    },
-    {
-      "titleId": "PPSA16566",
-      "title": "Romancing SaGa 2: Revenge of the Seven",
-      "version": "v01.010",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Romancing_SaGa_2_Revenge_of_the_Seven.png",
-      "description": "Tags: PPSA16566, v01.010, EUR, 8.xx and beyond\nSize: 32GB\nCredits: Files: SiESPTA",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/wgWGqxq96z4o/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/AP1MKSizNn"
-        }
-      ],
-      "sizeBytes": 34359738368
     },
     {
       "titleId": "PPSA04906",
@@ -18286,5 +18473,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-11T01:13:37.480Z"
+  "_generated": "2026-08-12T01:21:41.633Z"
 }
