@@ -3,6 +3,138 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA01619",
+      "title": "Mortal Kombat 11 Ultimate Edition",
+      "version": "v01.000.006",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mortal_Kombat_11_Ultimate.avif",
+      "description": "Tags: PPSA01619, v01.000.006, EUR, DLCs Merged, 4.xx and beyond\nSize: 116GB\nCredits: Files: DUPLEX & Dorukhan; DLC: romhunter",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qLQ36qxWQm19/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/MAevyCeZde"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/f8lju9vyvqls"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/pjpoh2zml45t"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/x2xq8ng9p8jq"
+        }
+      ],
+      "sizeBytes": 124554051584
+    },
+    {
+      "titleId": "PPSA09664",
+      "title": "Dragons Dogma 2 Deluxe Edition",
+      "version": "v03.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dragons_Dogma_2_Deluxe_Edition.jpg",
+      "description": "Tags: PPSA09664, v03.000, EUR, DLCs Merged, 4.xx BackPort\nSize: 136GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/QN9mEqKwLm6d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/BKnCImqWit"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/igtsg387gv6q"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/g2zqf2to6y1g"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/e92offgfahjg"
+        }
+      ],
+      "sizeBytes": 146028888064
+    },
+    {
+      "titleId": "PPSA06225",
+      "title": "The Quarry Deluxe Edition",
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Quarry_DE.avif",
+      "description": "Tags: PPSA06225, v01.007, EUR, DLCs Merged, 4.xx and beyond\nSize: 77GB\nCredits: Files: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/gXeGOABMd3Aa/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/8AmO4TgMDN"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/2b6whxvrla1k"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/le5oxsdeacnb"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/iuqjvwmhgnep"
+        }
+      ],
+      "sizeBytes": 82678120448
+    },
+    {
+      "titleId": "PPSA07862",
+      "title": "Monster Hunter Wilds Premium Edition",
+      "version": "v01.041.040",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Monster_Hunter_Wilds_Premium_Edition.png",
+      "description": "Builds: DLC\nTags: PPSA07862, v01.041.040, USA, 4.xx BackPort\nSize: 113GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/Z9dzBPW5Mmk1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/U1wfLaCY8f"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/k2qespcpb3ig"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/52nh75t6v81x"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/ac4idbj0wivm"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/hadlhdwa21jp"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/k2m51esno9x5"
+        }
+      ],
+      "sizeBytes": 121332826112
+    },
+    {
       "titleId": "PPSA14002",
       "title": "Baldurs Gate 3 Deluxe Edition",
       "version": "v01.800.700",
@@ -25,6 +157,10 @@
         {
           "name": "FileKeeper",
           "url": "https://filekeeper.net/8ffotpxjsbpr"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/j2ydyt8knr2o"
         }
       ],
       "sizeBytes": 165356240896
@@ -470,65 +606,6 @@
         }
       ],
       "sizeBytes": 33285996544
-    },
-    {
-      "titleId": "PPSA24191",
-      "title": "Monster Hunter Wilds Premium Edition",
-      "version": "v01.041.040",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Monster_Hunter_Wilds_Premium_Edition.png",
-      "description": "Builds: Standard, 4.xx BackPort, DLC\nTags: PPSA24191, v01.041.040, ASIA, Standard (10.xx) + 4.xx BackPort\nSize: 113GB\nCredits: Files: SiESPTA; Backport: Zhwenx; DLC: DUPLEX\nHow to play: Standard one is for users with Higher Firmware like 10.xx +, BackPort Ver work only on 4.xx to 9.xx. Game modified to make DLCs EUR work on ASIA.",
-      "downloadLinks": [
-        {
-          "name": "Standard - AkiraBox",
-          "url": "https://akirabox.com/E1x3AWgbrGyk/file"
-        },
-        {
-          "name": "Standard - VikingFile",
-          "url": "https://vikingfile.com/f/VjAIeevsDu"
-        },
-        {
-          "name": "Standard - DataNodes",
-          "url": "https://datanodes.to/1y6kg3st1nas"
-        },
-        {
-          "name": "Standard - FileKeeper",
-          "url": "https://filekeeper.net/1k6ef3y4bi7v"
-        },
-        {
-          "name": "Standard - DataVault",
-          "url": "https://datavaults.co/z9o4973vy4g3"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/0JgG7PxjNmoY/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/OemyxEtBH5"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/x0tqmr88xmtc"
-        },
-        {
-          "name": "4.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/4tm7uj95pbgr"
-        },
-        {
-          "name": "4.xx BackPort - DataVault",
-          "url": "https://datavaults.co/bzwulu5t7x84"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/hadlhdwa21jp"
-        },
-        {
-          "name": "DLC - FileKeeper",
-          "url": "https://filekeeper.net/k2m51esno9x5"
-        }
-      ],
-      "sizeBytes": 121332826112
     },
     {
       "titleId": "PPSA09135",
@@ -13686,29 +13763,6 @@
       "sizeBytes": 8589934592
     },
     {
-      "titleId": "PPSA06225",
-      "title": "The Quarry",
-      "version": "v01.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Quarry.webp",
-      "description": "Tags: PPSA06225, v01.000, EUR, DLCs Merged, 4.xx and beyond\nSize: 80GB\nCredits: Files: DUPLEX & Jose Carrion; DLC: Pippo\nHow to play: Only Horror History Visual Filter Pack is available, you can select the filter on Settings then Display. (v01.007 needed for others DLCs)",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/jar3XL76O32d/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/wTwGynXhF0"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/m47uivsyygr9"
-        }
-      ],
-      "sizeBytes": 85899345920
-    },
-    {
       "titleId": "PPSA02712",
       "title": "Destruction AllStars",
       "version": "v03.002.001",
@@ -14859,29 +14913,6 @@
         }
       ],
       "sizeBytes": 107374182400
-    },
-    {
-      "titleId": "PPSA01619",
-      "title": "Mortal Kombat 11 Ultimate",
-      "version": "v01.000.004",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mortal_Kombat_11_Ultimate.avif",
-      "description": "Tags: PPSA01619, v01.000.004, EUR, DLCs Merged, 4.xx and beyond\nSize: 116GB\nCredits: Files: DUPLEX & Dorukhan; DLC: DUPLEX & Dorukhan",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/l5YzMEvypzyO/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/fpi64EgzY9"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/bup5qa78te8a"
-        }
-      ],
-      "sizeBytes": 124554051584
     },
     {
       "titleId": "PPSA19268",
@@ -18473,5 +18504,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-12T01:21:41.633Z"
+  "_generated": "2026-08-13T01:22:52.318Z"
 }
