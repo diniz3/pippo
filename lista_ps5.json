@@ -3,6 +3,181 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA05921",
+      "title": "The Dark Pictures Anthology The Devil in Me",
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Dark_Pictures_Anthology_The_Devil_in_Me.webp",
+      "description": "Builds: DLC\nTags: PPSA05921, v01.007, EUR, 4.xx BackPort\nSize: 62GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/jar3Xllo232d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/UZVVnJeh3Y"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/e69b4i6wqa2f"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/2yxjanjf5r29"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/49yopr913yjh"
+        },
+        {
+          "name": "DLC - AkiraBox",
+          "url": "https://akirabox.com/2WVGr8owk3kx/file"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/xk0f5s8fmsth"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/1h518e1oto8d"
+        }
+      ],
+      "sizeBytes": 66571993088
+    },
+    {
+      "titleId": "PPSA03683",
+      "title": "Gungrave GORE",
+      "version": "v01.010",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Gungrave_GORE.webp",
+      "description": "Builds: DLC\nTags: PPSA03683, v01.010, USA, 4.xx BackPort\nSize: 47GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/M2BGwPPQ5mj4/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/igyvlOzWpp"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/pn8qpj0hk6ma"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/bmg9gf566z28"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/88pss11ra5xt"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/xv3ctv6x3vs8"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/brthad66peqn"
+        }
+      ],
+      "sizeBytes": 50465865728
+    },
+    {
+      "titleId": "PPSA06584",
+      "title": "Ikai",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ikai.webp",
+      "description": "Tags: PPSA06584, v01.002, USA, 4.xx and beyond\nSize: 8GB\nCredits: Files: DLPS Team",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0rpmvpp67zRg/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/wLjJRW2rlV"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/19j1ol64w2nf"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/bkc3lb1kp5bs"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/v71ll6l7td2i"
+        }
+      ],
+      "sizeBytes": 8589934592
+    },
+    {
+      "titleId": "PPSA05057",
+      "title": "Clash Artifacts of Chaos",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Clash_Artifacts_of_Chaos.jpg",
+      "description": "Tags: PPSA05057, v01.004, EUR, 4.xx BackPort\nSize: 18GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qLQ36qq4dm19/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/OJyaRjja33"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/l11m6u718ake"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/tuot2l3k2849"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/i8cvbp10dkf6"
+        }
+      ],
+      "sizeBytes": 19327352832
+    },
+    {
+      "titleId": "PPSA10053",
+      "title": "Banishers Ghosts of New Eden",
+      "version": "v01.006",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Banishers_Ghosts_of_New_Eden.avif",
+      "description": "Tags: PPSA10053, v01.006, EUR, DLCs Merged, 4.xx BackPort\nSize: 112GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/rk9zKWWvRz0l/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/fFZa9l4XsE"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/4mua1yyktier"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/i8rkoj45a36c"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/6vunrl540wiu"
+        }
+      ],
+      "sizeBytes": 120259084288
+    },
+    {
       "titleId": "PPSA09384",
       "title": "God of Rock",
       "version": "v01.000",
@@ -680,37 +855,6 @@
         }
       ],
       "sizeBytes": 6442450944
-    },
-    {
-      "titleId": "PPSA06584",
-      "title": "Ikai",
-      "version": "v01.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ikai.webp",
-      "description": "Tags: PPSA06584, v01.000, USA, 4.xx and beyond\nSize: 8GB\nCredits: Files: BedroZen",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/gXeGOABON3Aa/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/DZsEXCzyvV"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/dbqmarcr2uqf"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/hidkaj6ipg2j"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/j3d22ichlwxx"
-        }
-      ],
-      "sizeBytes": 8589934592
     },
     {
       "titleId": "PPSA06359",
@@ -8705,37 +8849,6 @@
       "sizeBytes": 165356240896
     },
     {
-      "titleId": "PPSA10053",
-      "title": "Banishers Ghosts of New Eden",
-      "version": "v01.005",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Banishers_Ghosts_of_New_Eden.avif",
-      "description": "Tags: PPSA10053, v01.005, EUR, DLCs Merged, 4.xx BackPort\nSize: 112GB\nCredits: Files: DUPLEX & Jose Carrion; Backport: DecKerr97; DLC: Pippo\nHow to play: Fix the problems discovered after the prologue that does not let you advance. Also included an optional 60FPS patch for PS5 Pros. Wanderer Set is Unlocked in this release.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/gXeGOoxOkGAa/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/Df2yoLM1qz"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/bm2xnbh4mxbv"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/u10fg1mk80ih"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/3arxebxus40h"
-        }
-      ],
-      "sizeBytes": 120259084288
-    },
-    {
       "titleId": "PPSA10695",
       "title": "EA Sports WRC",
       "version": "v01.000",
@@ -13645,37 +13758,6 @@
         }
       ],
       "sizeBytes": 48318382080
-    },
-    {
-      "titleId": "PPSA05921",
-      "title": "The Dark Pictures Anthology The Devil in Me",
-      "version": "v01.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Dark_Pictures_Anthology_The_Devil_in_Me.webp",
-      "description": "Builds: DLC\nTags: PPSA05921, v01.000, EUR, 4.xx BackPort\nSize: 65GB\nCredits: Files: DUPLEX & C4our20 & TRIFECTA; Backport: DUPLEX & C4our20 & TRIFECTA; DLC: Pkykzhack",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/LK0G1yroYG91/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/fjZzjwRvia"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/8fzgdxgh9pg7"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/2WVGr8owk3kx/file"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/xk0f5s8fmsth"
-        }
-      ],
-      "sizeBytes": 69793218560
     },
     {
       "titleId": "PPSA03753",
@@ -18904,5 +18986,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-15T00:53:22.155Z"
+  "_generated": "2026-08-16T00:56:20.821Z"
 }
