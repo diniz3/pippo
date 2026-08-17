@@ -3,6 +3,219 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03639",
+      "title": "BLEACH Rebirth of Souls Ultimate Edition",
+      "version": "v01.040.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/BLEACH_Rebirth_of_Souls_Ultimate_Edition.avif",
+      "description": "Tags: PPSA03639, v01.040.003, USA to EUR Langs, DLCs Merged, 4.xx BackPort\nSize: 77GB\nCredits: Files: DLPS Team; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/jJD3VDelOGa5/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/7yzQM42Tn7"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/wref0p5cq685"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/63zcgeb67sqs"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/qvnif3vvf3ez"
+        }
+      ],
+      "sizeBytes": 82678120448
+    },
+    {
+      "titleId": "PPSA17350",
+      "title": "Dragon Quest X Offline",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dragon_Quest_X_Offline.avif",
+      "description": "Tags: PPSA17350, v01.000, ASIA, 4.xx BackPort\nSize: 35GB\nCredits: Files: DLPS Team; Backport: DecKerr97\nHow to play: English Mod added.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qLQ36qXq7m19/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/sb5qODSCUI"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/0stpj10q2clq"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/pmse8zdcpdkd"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/fxg431y6woxd"
+        }
+      ],
+      "sizeBytes": 37580963840
+    },
+    {
+      "titleId": "PPSA31333",
+      "title": "Yakuza Kiwami 2",
+      "version": "v01.014",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Yakuza_Kiwami_2.avif",
+      "description": "Tags: PPSA31333, v01.014, JPN, 4.xx BackPort\nSize: 36GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qLQ36qX1Km19/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/FwegvNHdBn"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/bsvplqy6nnyt"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/lw1hve45pp42"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/cd9zu3lp5yqo"
+        }
+      ],
+      "sizeBytes": 38654705664
+    },
+    {
+      "titleId": "PPSA31334",
+      "title": "Yakuza Kiwami",
+      "version": "v01.012",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Yakuza_Kiwami.webp",
+      "description": "Tags: PPSA31334, v01.012, JPN, 4.xx BackPort\nSize: 21GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/2bJG8bX163OB/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/P2UEI0M4TA"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/p2yur279bs2q"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/yn0l1x8ftwzv"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/r4e573d0ly7t"
+        }
+      ],
+      "sizeBytes": 22548578304
+    },
+    {
+      "titleId": "PPSA31327",
+      "title": "Yakuza 0 Directors Cut",
+      "version": "v01.015",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Yakuza_0_Directors_Cut.avif",
+      "description": "Tags: PPSA31327, v01.015, JPN, 4.xx BackPort\nSize: 51GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: Karaoke Crash Fixed.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/XkrzoK1AkzBO/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/s3KIIiozgQ"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/l50im1x1qvaa"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/088t7duoioz3"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/arfwlf180hme"
+        }
+      ],
+      "sizeBytes": 54760833024
+    },
+    {
+      "titleId": "PPSA05666",
+      "title": "Horizon Call of The Mountain",
+      "version": "v01.004.011",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Horizon_Call_of_The_Mountain.avif",
+      "description": "Tags: PPSA05666, v01.004.011, EUR, 5.xx BackPort\nSize: 79GB\nCredits: Files: Pandatwig & Czdvoika & H1Vltg3 & DLPS Team; Backport: DecKerr97\nHow to play: PSVR2 Only.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/9AqGQZZN8mMn/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/XIaR68B19J"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/x5ma5iflhuk8"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/q334adr3hspv"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/p2pu3i1dojam"
+        }
+      ],
+      "sizeBytes": 84825604096
+    },
+    {
+      "titleId": "PPSA17169",
+      "title": "Hi Fi RUSH Deluxe Edition",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Hi_Fi_RUSH_Deluxe_Edition.avif",
+      "description": "Tags: PPSA17169, v01.004, EUR, DLCs Merged, 4.xx BackPort\nSize: 36GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/jar3Xllvj32d/file"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/0met7qrw2qrn"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ltiuepbyis9c"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/bxtwhslehmva"
+        }
+      ],
+      "sizeBytes": 38654705664
+    },
+    {
       "titleId": "PPSA05921",
       "title": "The Dark Pictures Anthology The Devil in Me",
       "version": "v01.007",
@@ -1775,68 +1988,6 @@
         }
       ],
       "sizeBytes": 57982058496
-    },
-    {
-      "titleId": "PPSA31333",
-      "title": "Yakuza Kiwami 2",
-      "version": "v01.010",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Yakuza_Kiwami_2.avif",
-      "description": "Tags: PPSA31333, v01.010, JPN, 4.xx BackPort\nSize: 36GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/0Kezk7oARzD1/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/SjHQy5kgGO"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/nytk4z0meb50"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/z4hqzs1lgcum"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/fgap3vos4m6w"
-        }
-      ],
-      "sizeBytes": 38654705664
-    },
-    {
-      "titleId": "PPSA31334",
-      "title": "Yakuza Kiwami",
-      "version": "v01.010",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Yakuza_Kiwami.webp",
-      "description": "Tags: PPSA31334, v01.010, JPN, 4.xx BackPort\nSize: 21GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/0Kezk7oEezD1/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/39nSsDIwph"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/s8azq1bt2pzx"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/mom8p3s4wxr1"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/x3tswwqhqq9p"
-        }
-      ],
-      "sizeBytes": 22548578304
     },
     {
       "titleId": "PPSA26786",
@@ -18986,5 +19137,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-16T00:56:20.821Z"
+  "_generated": "2026-08-17T00:54:29.326Z"
 }
