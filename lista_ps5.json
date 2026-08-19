@@ -3,6 +3,248 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA06367",
+      "title": "The Lord of The Rings Gollum Precious Edition",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Lord_of_The_Rings_Gollum_PE.avif",
+      "description": "Tags: PPSA06367, v01.004, USA, DLCs Merged, 4.xx BackPort\nSize: 47GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0rpmvpgw7zRg/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/H4wGVsaqzO"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/8y0uglepsc2s"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/filkzkbo6vuz"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/t02chikkt785"
+        }
+      ],
+      "sizeBytes": 50465865728
+    },
+    {
+      "titleId": "PPSA05060",
+      "title": "RoboCop Rogue City",
+      "version": "v01.006",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/RoboCop_Rogue_City.avif",
+      "description": "Builds: DLC\nTags: PPSA05060, v01.006, USA, 4.xx BackPort\nSize: 77GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/EL73g7KW939B/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/bm20tpc8V3"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/tnur1n25b4n3"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/q150787eivzz"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/vri55gv4gku4"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/jhz55s3itqb2"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/e7j8iytpwpyz"
+        }
+      ],
+      "sizeBytes": 82678120448
+    },
+    {
+      "titleId": "PPSA17597",
+      "title": "Sonic X Shadow Generations Deluxe Edition",
+      "version": "v01.012",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Sonic_X_Shadow_Generations_Deluxe_Edition.jpg",
+      "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA17597, v01.012, USA, DLCs Merged, Standard (9.xx) + 4.xx BackPort\nSize: 37GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "Standard 9.xx - AkiraBox",
+          "url": "https://akirabox.com/EL73g0XXWz9B/file"
+        },
+        {
+          "name": "Standard 9.xx - VikingFile",
+          "url": "https://vikingfile.com/f/QKPY6aoYja"
+        },
+        {
+          "name": "Standard 9.xx - DataNodes",
+          "url": "https://datanodes.to/ggob0eh6wqd0"
+        },
+        {
+          "name": "Standard 9.xx - FileKeeper",
+          "url": "https://filekeeper.net/t0v769sxgrnb"
+        },
+        {
+          "name": "Standard 9.xx - DataVault",
+          "url": "https://datavaults.co/55go4xrd5s6i"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/qPez445DMzOY/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/JyDUJPdNf4"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/faa4q398ts9b"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/r5iglyywfqqp"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/bk32dapbm70k"
+        }
+      ],
+      "sizeBytes": 39728447488
+    },
+    {
+      "titleId": "PPSA16745",
+      "title": "Nickelodeon All Star Brawl 2",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Nickelodeon_All_Star_Brawl_2.avif",
+      "description": "Builds: DLC\nTags: PPSA16745, v01.000, EUR, 4.xx BackPort\nSize: 12GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/b5OzdVA1lmB8/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/Hs0d8ZSzHY"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/v7eiygdo1ahq"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/kuo06j4hdslw"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/f0lhao5d1f5n"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/8a1u78d2z9gi"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/3qzguqcyadhr"
+        }
+      ],
+      "sizeBytes": 12884901888
+    },
+    {
+      "titleId": "PPSA01649",
+      "title": "Call of Duty Modern Warfare 3",
+      "version": "v01.055",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/CoD_MW3.avif",
+      "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA01649, v01.055, USA, DLCs Merged, Standard (9.xx) + 4.xx BackPort\nSize: 256GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: There is issue with campaign not launch. How to fix first: make sure turn off internet in network settings then launch game and choose offline mode and go to campaign MW3. You need keep press X few times to launch Campaign.",
+      "downloadLinks": [
+        {
+          "name": "Standard 9.xx - AkiraBox",
+          "url": "https://akirabox.com/jJD3VDWWaGa5/file"
+        },
+        {
+          "name": "Standard 9.xx - VikingFile",
+          "url": "https://vikingfile.com/f/SWQjvCe7ZS"
+        },
+        {
+          "name": "Standard 9.xx - DataNodes",
+          "url": "https://datanodes.to/vyyj4ozmgagc"
+        },
+        {
+          "name": "Standard 9.xx - FileKeeper",
+          "url": "https://filekeeper.net/652coi2x0kru"
+        },
+        {
+          "name": "Standard 9.xx - DataVault",
+          "url": "https://datavaults.co/b4hfs8p0pz3v"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.to/gXeGOAbqA3Aa/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/U48ns21DSO"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/lpudu0tfoh5w"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/7np4s9lrmf44"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/9ebdk4xdfysj"
+        }
+      ],
+      "sizeBytes": 274877906944
+    },
+    {
+      "titleId": "PPSA19534",
+      "title": "Battlefield 6",
+      "version": "v01.000.016",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Battlefield_6.avif",
+      "description": "Tags: PPSA19534, v01.000.016, USA, 4.xx BackPort\nSize: 234GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: kstuff lite 1.10+ by EchoStretch with ShadowMountPlus beta16 is recommended.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/QN9mEqndRm6d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/AFUVMQqtEI"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/mf45p8f19zrl"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/p31ctom5t2sj"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/pqb8s69chpgt"
+        }
+      ],
+      "sizeBytes": 251255586816
+    },
+    {
       "titleId": "PPSA06406",
       "title": "NHL 26",
       "version": "v01.060",
@@ -3654,37 +3896,6 @@
         }
       ],
       "sizeBytes": 149250113536
-    },
-    {
-      "titleId": "PPSA01649",
-      "title": "Call of Duty Modern Warfare 3",
-      "version": "v01.055",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/CoD_MW3.avif",
-      "description": "Tags: PPSA01649, v01.055, USA, DLCs Merged, 9.xx and beyond\nSize: 256GB\nCredits: Files: High-Speed007; DLC: High-Speed007\nHow to play: There is issue with campaign not launch. How to fix first: make sure turn off internet in network settings then launch game and choose offline mode and go to campaign MW3. You need keep press X few times to launch Campaign.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/jJD3VDWWaGa5/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/SWQjvCe7ZS"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/vyyj4ozmgagc"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/652coi2x0kru"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/b4hfs8p0pz3v"
-        }
-      ],
-      "sizeBytes": 274877906944
     },
     {
       "titleId": "PPSA18571",
@@ -8462,37 +8673,6 @@
         }
       ],
       "sizeBytes": 16106127360
-    },
-    {
-      "titleId": "PPSA17597",
-      "title": "Sonic X Shadow Generations Deluxe Edition",
-      "version": "v01.012",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Sonic_X_Shadow_Generations_Deluxe_Edition.jpg",
-      "description": "Tags: PPSA17597, v01.012, USA, DLCs Merged, 9.xx and beyond\nSize: 37GB\nCredits: Files: High-Speed007; DLC: Pkykzhack",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/EL73g0XXWz9B/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/QKPY6aoYja"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/ggob0eh6wqd0"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/t0v769sxgrnb"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/55go4xrd5s6i"
-        }
-      ],
-      "sizeBytes": 39728447488
     },
     {
       "titleId": "PPSA27360",
@@ -14339,37 +14519,6 @@
       "sizeBytes": 33285996544
     },
     {
-      "titleId": "PPSA06367",
-      "title": "The Lord of The Rings Gollum",
-      "version": "v01.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Lord_of_The_Rings_Gollum.jpg",
-      "description": "Builds: DLC\nTags: PPSA06367, v01.000, USA, 4.xx BackPort\nSize: 37GB\nCredits: Files: Lucran & Jose Carrion; Backport: DecKerr97; DLC: Pkykzhack",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/obj3jlppdGDx/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/7onk1qVNde"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/ttbqp68n6ixd"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/qPez4aOX9GOY/file"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/ypycld2zjs0y"
-        }
-      ],
-      "sizeBytes": 39728447488
-    },
-    {
       "titleId": "PPSA06262",
       "title": "Star Ocean The Divine Force",
       "version": "v01.000",
@@ -19250,5 +19399,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-18T00:52:54.921Z"
+  "_generated": "2026-08-19T00:53:47.931Z"
 }
