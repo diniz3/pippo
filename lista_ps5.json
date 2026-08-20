@@ -3,6 +3,139 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA02801",
+      "title": "New Joe and Mac Caveman Ninja",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/New_Joe_and_Mac_Caveman_Ninja.avif",
+      "description": "Builds: Standard 5.xx, 4.xx BackPort\nTags: PPSA02801, v01.003, EUR, Standard (5.xx) + 4.xx BackPort\nSize: 970MB\nCredits: Files: UNLiMiTED; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "Standard 5.xx - AkiraBox",
+          "url": "https://akirabox.com/LJlGnWdDem15/file"
+        },
+        {
+          "name": "Standard 5.xx - VikingFile",
+          "url": "https://vikingfile.com/f/SM6BB8NzIC"
+        },
+        {
+          "name": "Standard 5.xx - DataNodes",
+          "url": "https://datanodes.to/p68pvo6xjlsu"
+        },
+        {
+          "name": "Standard 5.xx - FileKeeper",
+          "url": "https://filekeeper.net/tjuuuv78u8uw"
+        },
+        {
+          "name": "Standard 5.xx - DataVault",
+          "url": "https://datavaults.co/7zl3jkyqsjao"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/LK0G1b55am91/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/nmblVAl1Fe"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/a6ts7c2itm6u"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/x1aaq0i240m0"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/aab39feyr3td"
+        }
+      ],
+      "sizeBytes": 1017118720
+    },
+    {
+      "titleId": "PPSA28420",
+      "title": "NBA 2K26",
+      "version": "v01.017",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/NBA_2K26.jpg",
+      "description": "Builds: 7.xx BackPort, 4.xx BackPort\nTags: PPSA28420, v01.017, EUR, 7.xx BackPort + 4.xx BackPort\nSize: 377GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "7.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/l76mZNM19man/file"
+        },
+        {
+          "name": "7.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/bFZXjXLiAB"
+        },
+        {
+          "name": "7.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/2mkw273syp6o"
+        },
+        {
+          "name": "7.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/ov0k2m0tx71p"
+        },
+        {
+          "name": "7.xx BackPort - DataVault",
+          "url": "https://datavaults.co/9pqdlrv8dso3"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/b5OzdV1AymB8/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/St2TyW3tuD"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/1yom709esew4"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/0of783zxs2ie"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/1m2f8bpdcc4z"
+        }
+      ],
+      "sizeBytes": 404800667648
+    },
+    {
+      "titleId": "PPSA17952",
+      "title": "PGA Tour 2K25",
+      "version": "v01.026",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/PGA_Tour_2K25.jpg",
+      "description": "Tags: PPSA17952, v01.026, USA, 4.xx BackPort\nSize: 34GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/gXeGOAb8J3Aa/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/GLY1HFLf3J"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/rn7ju24678bv"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/1ygosb2te28q"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/v2llljvh3uxc"
+        }
+      ],
+      "sizeBytes": 36507222016
+    },
+    {
       "titleId": "PPSA06367",
       "title": "The Lord of The Rings Gollum Precious Edition",
       "version": "v01.004",
@@ -3631,8 +3764,8 @@
           "url": "https://datanodes.to/f0c1fz6qm980"
         },
         {
-          "name": "DLC - FileKeeper",
-          "url": "https://filekeeper.net/9t4flf7rsu5p"
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/182c877uvhxp"
         }
       ],
       "sizeBytes": 123480309760
@@ -8014,49 +8147,6 @@
       "sizeBytes": 4294967296
     },
     {
-      "titleId": "PPSA17952",
-      "title": "PGA Tour 2K25",
-      "version": "v01.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/PGA_Tour_2K25.jpg",
-      "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA17952, v01.000, USA, Standard (9.xx) + 4.xx BackPort\nSize: 24GB\nCredits: Files: High-Speed007; Backport: Nazky & DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "Standard 9.xx - AkiraBox",
-          "url": "https://akirabox.com/Z9dzB4qKVmk1/file"
-        },
-        {
-          "name": "Standard 9.xx - VikingFile",
-          "url": "https://vikingfile.com/f/CffG8KU54P"
-        },
-        {
-          "name": "Standard 9.xx - BuzzHeavier",
-          "url": "https://buzzheavier.com/g5qi6hh9o1la"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/BnkmW4ybd3R0/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/L1kbBaohUI"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/s595ft5a64m8"
-        },
-        {
-          "name": "4.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/lhml6ruy4uqu"
-        },
-        {
-          "name": "4.xx BackPort - DataVault",
-          "url": "https://datavaults.co/x3ctk77369x9"
-        }
-      ],
-      "sizeBytes": 25769803776
-    },
-    {
       "titleId": "PPSA17732",
       "title": "The Precinct",
       "version": "v01.011",
@@ -10214,37 +10304,6 @@
       "sizeBytes": 1073741824
     },
     {
-      "titleId": "PPSA02801",
-      "title": "New Joe and Mac Caveman Ninja",
-      "version": "v01.003",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/New_Joe_and_Mac_Caveman_Ninja.avif",
-      "description": "Tags: PPSA02801, v01.003, EUR, 5.xx and beyond\nSize: 970MB\nCredits: Files: UNLiMiTED",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/LJlGnWdDem15/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/SM6BB8NzIC"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/p68pvo6xjlsu"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/tjuuuv78u8uw"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/7zl3jkyqsjao"
-        }
-      ],
-      "sizeBytes": 1017118720
-    },
-    {
       "titleId": "PPSA07809",
       "title": "Crisis Core Final Fantasy VII Reunion",
       "version": "v01.004",
@@ -11777,37 +11836,6 @@
         }
       ],
       "sizeBytes": 1073741824
-    },
-    {
-      "titleId": "PPSA28420",
-      "title": "NBA 2K26",
-      "version": "v01.017",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/NBA_2K26.jpg",
-      "description": "Builds: 7.xx BackPort\nTags: PPSA28420, v01.017, EUR, 7.xx BackPort\nSize: 377GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "7.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/l76mZNM19man/file"
-        },
-        {
-          "name": "7.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/bFZXjXLiAB"
-        },
-        {
-          "name": "7.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/2mkw273syp6o"
-        },
-        {
-          "name": "7.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/ov0k2m0tx71p"
-        },
-        {
-          "name": "7.xx BackPort - DataVault",
-          "url": "https://datavaults.co/9pqdlrv8dso3"
-        }
-      ],
-      "sizeBytes": 404800667648
     },
     {
       "titleId": "PPSA05265",
@@ -19399,5 +19427,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-19T00:53:47.931Z"
+  "_generated": "2026-08-20T00:53:37.325Z"
 }
