@@ -3,6 +3,388 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA08560",
+      "title": "Split Fiction",
+      "version": "v01.005",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Split_Fiction.png",
+      "description": "Builds: DLC\nTags: PPSA08560, v01.005, USA, 4.xx BackPort\nSize: 151GB\nCredits: Files: DUPLEX & SiESPTA; Backport: Kira; DLC: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/Z9dzBWrrPGk1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/fJrJmpEYs2"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/q9kazk986wk9"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ferncffte2jq"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/6fcnkexa63ms"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/7xnpd4q0iuaw"
+        }
+      ],
+      "sizeBytes": 162135015424
+    },
+    {
+      "titleId": "PPSA14363",
+      "title": "METAL GEAR SOLID Master Collection",
+      "version": "v03.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/METAL_GEAR_SOLID_Master_Collection.jpg",
+      "description": "Builds: Standard 7.xx, 4.xx BackPort\nTags: PPSA14363, v03.000, USA, Standard (7.xx) + 4.xx BackPort\nSize: 5GB\nCredits: Files: High-Speed007; Backport: DecKerr97\nHow to play: Need Trophy Unlocker (if use etaHEN - Check the FAQ) or kstuff lite 1.07+ for avoid the loading infinite.",
+      "downloadLinks": [
+        {
+          "name": "Standard 7.xx - AkiraBox",
+          "url": "https://akirabox.com/rk9zKRV1q30l/file"
+        },
+        {
+          "name": "Standard 7.xx - VikingFile",
+          "url": "https://vikingfile.com/f/Ynv6BF3wgi"
+        },
+        {
+          "name": "Standard 7.xx - DataNodes",
+          "url": "https://datanodes.to/xtqri1o985z1"
+        },
+        {
+          "name": "Standard 7.xx - FileKeeper",
+          "url": "https://filekeeper.net/o64mr41t43pk"
+        },
+        {
+          "name": "Standard 7.xx - DataVault",
+          "url": "https://datavaults.co/v2e6b4ddq4u2"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/qw1zebqxQGXy/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/tkL9zAvL5l"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/982w7qahzpoy"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/dhk51yes2rds"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/to1qkadi5sdl"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
+      "titleId": "PPSA03952",
+      "title": "Resident Evil 3",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/RE3R.webp",
+      "description": "Tags: PPSA03952, v01.004, USA, DLCs Merged, 3.xx and beyond\nSize: 33GB\nCredits: Files: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/k0embb1wnmVb/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/CRNshMCeBe"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/mq0r0u1esws8"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/6klqdmwqu7t0"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/wug8wt4n399f"
+        }
+      ],
+      "sizeBytes": 35433480192
+    },
+    {
+      "titleId": "PPSA04288",
+      "title": "Resident Evil 2",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/RE2R.avif",
+      "description": "Tags: PPSA04288, v01.003, USA, DLCs Merged, 3.xx and beyond\nSize: 35GB\nCredits: Files: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0JgG7Le6emoY/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/6NAfQEn36e"
+        },
+        {
+          "name": "BuzzHeavier",
+          "url": "https://buzzheavier.com/mtn8dg9h192i"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/fv8g2u4jmq4v"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/njtyogsplw92"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/28tlxbb12fl5"
+        }
+      ],
+      "sizeBytes": 37580963840
+    },
+    {
+      "titleId": "PPSA28835",
+      "title": "Styx Blades of Greed",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Styx_Blades_of_Greed.avif",
+      "description": "Builds: Standard, 5.xx BackPort, DLC\nTags: PPSA28835, v01.003, EUR, 5.xx BackPork + 4.xx BackPort\nSize: 33GB\nCredits: Files: DUPLEX & SiESPta; Backport: BestPig & Fubc & DecKerr97; DLC: DUPLEX & SiESPta\nHow to play: BP 4.xx Ver is only for 4.xx meanwhile BP 5.xx Ver is for 5.xx to 12.xx+.",
+      "downloadLinks": [
+        {
+          "name": "Standard - AkiraBox",
+          "url": "https://akirabox.com/N2p3DQ44kzMa/file"
+        },
+        {
+          "name": "Standard - VikingFile",
+          "url": "https://vikingfile.com/f/PCi41Zoztq"
+        },
+        {
+          "name": "Standard - DataNodes",
+          "url": "https://datanodes.to/x6aizd2ma2ad"
+        },
+        {
+          "name": "5.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/Z9dzBPRAxmk1/file"
+        },
+        {
+          "name": "5.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/5tHRqfmznR"
+        },
+        {
+          "name": "5.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/cjc2b4nrnt1u"
+        },
+        {
+          "name": "5.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/21u2tznb8y0m"
+        },
+        {
+          "name": "5.xx BackPort - DataVault",
+          "url": "https://datavaults.co/ja7aq2n2wdpb"
+        },
+        {
+          "name": "DLC - AkiraBox",
+          "url": "https://akirabox.com/E1x3A8K1rmyk/file"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/tlqxfh1r3lzi"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/gedaagki401s"
+        }
+      ],
+      "sizeBytes": 35433480192
+    },
+    {
+      "titleId": "PPSA26127",
+      "title": "Madden NFL 26",
+      "version": "v01.016",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Madden_NFL_26.avif",
+      "description": "Builds: 7.xx BackPort, 4.xx BackPort\nTags: PPSA26127, v01.016, USA, 7.xx BackPort + 4.xx BackPort\nSize: 154GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "7.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/2WVGr8yKg3kx/file"
+        },
+        {
+          "name": "7.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/nSxmaKyTsB"
+        },
+        {
+          "name": "7.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/3qr7v3376v14"
+        },
+        {
+          "name": "7.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/nhxkr1180xkx"
+        },
+        {
+          "name": "7.xx BackPort - DataVault",
+          "url": "https://datavaults.co/t9k8lmzubelg"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/0Kezk71wjzD1/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/6WbQdqasBy"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/qiwyn2pkt8lz"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/2cfm2wyg540m"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/bkoc2rh7wjea"
+        }
+      ],
+      "sizeBytes": 165356240896
+    },
+    {
+      "titleId": "PPSA06711",
+      "title": "War Mongrels",
+      "version": "v01.020",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/War_Mongrels.avif",
+      "description": "Tags: PPSA06711, v01.020, EUR, 4.xx BackPort\nSize: 27GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/9QWmpAnwg3EB/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/KctgjxoOI4"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/pz3r2i4wb5fl"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ks55blzud10o"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/nxr1b352byxg"
+        }
+      ],
+      "sizeBytes": 28991029248
+    },
+    {
+      "titleId": "PPSA09196",
+      "title": "Last Days of Lazarus",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Last_Days_of_Lazarus.avif",
+      "description": "Tags: PPSA09196, v01.001, EUR, 4.xx BackPort\nSize: 6GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0JgG75wgZ3oY/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/awE5eNzy4q"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/j7ip6wpf44qr"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/s9jz6nwglrxy"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/whzxjqthy7jw"
+        }
+      ],
+      "sizeBytes": 6442450944
+    },
+    {
+      "titleId": "PPSA17372",
+      "title": "Smalland Survive The Wilds",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Smalland_Survive_The_Wilds.avif",
+      "description": "Tags: PPSA17372, v01.000, EUR, 4.xx BackPort\nSize: 18GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/XkrzoKQwYzBO/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/wXv4Qx0GqZ"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/t4yl7uv4j66n"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/5gv7vxxsw8tx"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/94fvwrq3lyst"
+        }
+      ],
+      "sizeBytes": 19327352832
+    },
+    {
+      "titleId": "PPSA08390",
+      "title": "TAPE Unveil The Memories",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TAPE_Unveil_The_Memories.jpg",
+      "description": "Tags: PPSA08390, v01.002, EUR, 4.xx BackPort\nSize: 5GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/9QWmpAnMJ3EB/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/zAedQPQr6O"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/ox7uwdhnyysc"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/4iwljyuxh6nn"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/m0rsh6axxse1"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
       "titleId": "PPSA02801",
       "title": "New Joe and Mac Caveman Ninja",
       "version": "v01.003",
@@ -378,12 +760,12 @@
       "sizeBytes": 251255586816
     },
     {
-      "titleId": "PPSA06406",
+      "titleId": "PPSA26785",
       "title": "NHL 26",
       "version": "v01.060",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/NHL_26.avif",
-      "description": "Tags: PPSA06406, v01.060, USA, 4.xx BackPort\nSize: 202GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
+      "description": "Tags: PPSA26785, v01.060, USA, 4.xx BackPort\nSize: 202GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -910,12 +1292,12 @@
       "sizeBytes": 120259084288
     },
     {
-      "titleId": "PPSA09384",
+      "titleId": "PPSA10822",
       "title": "God of Rock",
       "version": "v01.000",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/God_of_Rock.avif",
-      "description": "Tags: PPSA09384, v01.000, EUR, 4.xx BackPort\nSize: 5GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
+      "description": "Tags: PPSA10822, v01.000, EUR, 4.xx BackPort\nSize: 5GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -1690,12 +2072,12 @@
       "sizeBytes": 34359738368
     },
     {
-      "titleId": "PPSA09285",
+      "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
       "version": "v01.007",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ed_0_Zombie_Uprising.avif",
-      "description": "Tags: PPSA09285, v01.007, JPN, 4.xx BackPort\nSize: 16GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "description": "Tags: PPSA22711, v01.007, JPN, 4.xx BackPort\nSize: 16GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -6882,12 +7264,12 @@
       "sizeBytes": 11811160064
     },
     {
-      "titleId": "PPSA25872",
+      "titleId": "PPSA09569",
       "title": "Jagged Alliance 3",
       "version": "v01.002",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Jagged_Alliance_3.avif",
-      "description": "Tags: PPSA25872, v01.002, USA, 4.xx BackPort\nSize: 16GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "description": "Tags: PPSA09569, v01.002, USA, 4.xx BackPort\nSize: 16GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -7706,12 +8088,12 @@
       "sizeBytes": 4294967296
     },
     {
-      "titleId": "PPSA03984",
+      "titleId": "PPSA24381",
       "title": "The Thing Remastered",
       "version": "v02.000",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Thing_Remastered.jpg",
-      "description": "Tags: PPSA03984, v02.000, USA, 4.xx BackPort\nSize: 4GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
+      "description": "Tags: PPSA24381, v02.000, USA, 4.xx BackPort\nSize: 4GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -7799,12 +8181,12 @@
       "sizeBytes": 1073741824
     },
     {
-      "titleId": "PPSA23012",
+      "titleId": "PPSA26097",
       "title": "Yooka Replaylee",
       "version": "v02.000",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Yooka_Replaylee.avif",
-      "description": "Tags: PPSA23012, v02.000, EUR, 4.xx BackPort\nSize: 25GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
+      "description": "Tags: PPSA26097, v02.000, EUR, 4.xx BackPort\nSize: 25GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -9352,43 +9734,12 @@
       "sizeBytes": 5368709120
     },
     {
-      "titleId": "PPSA26127",
-      "title": "Madden NFL 26",
-      "version": "v01.0016",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Madden_NFL_26.avif",
-      "description": "Builds: 7.xx BackPort\nTags: PPSA26127, v01.0016, USA, 7.xx BackPort\nSize: 154GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "7.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/2WVGr8yKg3kx/file"
-        },
-        {
-          "name": "7.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/nSxmaKyTsB"
-        },
-        {
-          "name": "7.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/3qr7v3376v14"
-        },
-        {
-          "name": "7.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/nhxkr1180xkx"
-        },
-        {
-          "name": "7.xx BackPort - DataVault",
-          "url": "https://datavaults.co/t9k8lmzubelg"
-        }
-      ],
-      "sizeBytes": 165356240896
-    },
-    {
-      "titleId": "PPSA10695",
+      "titleId": "PPSA06092",
       "title": "EA Sports WRC",
       "version": "v01.000",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/EA_Sports_WRC.webp",
-      "description": "Tags: PPSA10695, v01.000, EUR, 4.xx BackPort\nSize: 209GB\nCredits: Files: DUPLEX & Jose Carrion; Backport: DecKerr97",
+      "description": "Tags: PPSA06092, v01.000, EUR, 4.xx BackPort\nSize: 209GB\nCredits: Files: DUPLEX & Jose Carrion; Backport: DecKerr97",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -12174,37 +12525,6 @@
       "sizeBytes": 15032385536
     },
     {
-      "titleId": "PPSA14363",
-      "title": "METAL GEAR SOLID Master Collection",
-      "version": "v03.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/METAL_GEAR_SOLID_Master_Collection.jpg",
-      "description": "Tags: PPSA14363, v03.000, USA, 7.xx and beyond\nSize: 5GB\nCredits: Files: High-Speed007\nHow to play: Need Trophy Unlocker (if use etaHEN - Check the FAQ) or kstuff lite 1.07+ for avoid the loading infinite.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/rk9zKRV1q30l/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/Ynv6BF3wgi"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/xtqri1o985z1"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/o64mr41t43pk"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/v2e6b4ddq4u2"
-        }
-      ],
-      "sizeBytes": 5368709120
-    },
-    {
       "titleId": "PPSA14396",
       "title": "METAL GEAR SOLID 2 Sons of Liberty Master Collection",
       "version": "v02.100",
@@ -14861,37 +15181,6 @@
         }
       ],
       "sizeBytes": 63350767616
-    },
-    {
-      "titleId": "PPSA28835",
-      "title": "Styx Blades of Greed",
-      "version": "v01.003",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Styx_Blades_of_Greed.avif",
-      "description": "Builds: DLC\nTags: PPSA28835, v01.003, EUR, 5.xx BackPork\nSize: 33GB\nCredits: Files: DUPLEX & SiESPta; Backport: BestPig & Fubc; DLC: DUPLEX & SiESPta",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/N2p3DQ44kzMa/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/PCi41Zoztq"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/x6aizd2ma2ad"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/E1x3A8K1rmyk/file"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/tlqxfh1r3lzi"
-        }
-      ],
-      "sizeBytes": 35433480192
     },
     {
       "titleId": "PPSA04319",
@@ -18459,52 +18748,6 @@
       "sizeBytes": 42949672960
     },
     {
-      "titleId": "PPSA04288",
-      "title": "Resident Evil 2",
-      "version": "v01.003",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/RE2R.avif",
-      "description": "Tags: PPSA04288, v01.003, USA, DLCs Merged, 3.xx and beyond\nSize: 35GB\nCredits: Files: High-Speed007",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/0JgG7Le6emoY/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/6NAfQEn36e"
-        },
-        {
-          "name": "BuzzHeavier",
-          "url": "https://buzzheavier.com/mtn8dg9h192i"
-        }
-      ],
-      "sizeBytes": 37580963840
-    },
-    {
-      "titleId": "PPSA03952",
-      "title": "Resident Evil 3",
-      "version": "v01.004",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/RE3R.webp",
-      "description": "Tags: PPSA03952, v01.004, USA, DLCs Merged, 3.xx and beyond\nSize: 33GB\nCredits: Files: High-Speed007",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/gXeGOrNbazAa/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/8jdiXZYKwf"
-        },
-        {
-          "name": "BuzzHeavier",
-          "url": "https://buzzheavier.com/muz79mlnndc8"
-        }
-      ],
-      "sizeBytes": 35433480192
-    },
-    {
       "titleId": "PPSA06454",
       "title": "Like A Dragon Ishin",
       "version": "v01.006.000",
@@ -19179,29 +19422,6 @@
       "sizeBytes": 142807662592
     },
     {
-      "titleId": "PPSA08560",
-      "title": "Split Fiction",
-      "version": "v01.005",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Split_Fiction.png",
-      "description": "Builds: Standard 9.xx, 4.xx BackPort, DLC\nTags: PPSA08560, v01.005, USA, Standard (9.xx) + 4.xx BackPort\nSize: 151GB\nCredits: Files: DUPLEX & SiESPTA; Backport: Kira; DLC: DUPLEX",
-      "downloadLinks": [
-        {
-          "name": "Standard 9.xx - AkiraBox",
-          "url": "https://akirabox.com/BnkmWPZwP3R0/file"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/Z9dzBWrrPGk1/file"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/0KezkDbW1GD1/file"
-        }
-      ],
-      "sizeBytes": 162135015424
-    },
-    {
       "titleId": "PPSA01716",
       "title": "Need for Speed Unbound",
       "version": "v01.029",
@@ -19427,5 +19647,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-20T00:53:37.325Z"
+  "_generated": "2026-08-21T00:56:49.983Z"
 }
