@@ -3,12 +3,175 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA32239",
+      "title": "Mega Man Star Force Legacy Collection",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mega_Man_Star_Force_Legacy_Collection.avif",
+      "description": "Tags: PPSA32239, v01.001, JPN, 4.xx BackPort\nSize: 14GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/Z9dzBPqlnmk1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/gLGcCl9NlN"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/h8lgtcz5sh90"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ehsbs6dxbgg2"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/b49cqcaku2p7"
+        }
+      ],
+      "sizeBytes": 15032385536
+    },
+    {
+      "titleId": "PPSA15304",
+      "title": "Metal Gear Solid Delta Snake Eater Deluxe Edition",
+      "version": "v01.002.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Metal_Gear_Solid_Delta_Snake_Eater_DE.avif",
+      "description": "Tags: PPSA15304, v01.002.004, USA, DLCs Merged, 4.xx BackPort\nSize: 225GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qPez440gPzOY/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/EQzlhCnGsG"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/zy20f04icgb2"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/8mfg1aivnjyj"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/5s1myw3iy4in"
+        }
+      ],
+      "sizeBytes": 241591910400
+    },
+    {
+      "titleId": "PPSA07587",
+      "title": "Sea of Stars",
+      "version": "v01.013",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Sea_of_Stars.jpg",
+      "description": "Tags: PPSA07587, v01.013, EUR, 4.xx BackPort\nSize: 5GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0rpmvpXyBzRg/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/3uLkdK4uSD"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/eq8cl3wod00u"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/yrg59sss3ivf"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/dyfevs9l02ln"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
+      "titleId": "PPSA28465",
+      "title": "Trails in The Sky 1st Chapter",
+      "version": "v01.006",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Trails_in_The_Sky_1st_Chapter.avif",
+      "description": "Tags: PPSA28465, v01.006, USA, 4.xx BackPort\nSize: 22GB\nCredits: Files: DLPS Team; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/l76mZrq4pman/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/9jxkTImgcg"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/f37b9oy9g41u"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/w8d199tr2ifn"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/6ttvnb4sqq02"
+        }
+      ],
+      "sizeBytes": 23622320128
+    },
+    {
+      "titleId": "PPSA04433",
+      "title": "Tourist Bus Simulator",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Tourist_Bus_Simulator.avif",
+      "description": "Builds: DLC\nTags: PPSA04433, v01.000, USA, 4.xx and beyond\nSize: 35GB\nCredits: Files: DUPLEX; DLC: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/LK0G1b0ZJm91/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/0fzuJdSOfZ"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/7afcxlf8arix"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/2c5g6bgq5sou"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/fxymishykv1f"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/5lw364jv2chd"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/ua0gurhf2q5f"
+        }
+      ],
+      "sizeBytes": 37580963840
+    },
+    {
       "titleId": "PPSA08560",
       "title": "Split Fiction",
       "version": "v01.005",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Split_Fiction.png",
-      "description": "Builds: DLC\nTags: PPSA08560, v01.005, USA, 4.xx BackPort\nSize: 151GB\nCredits: Files: DUPLEX & SiESPTA; Backport: Kira; DLC: DUPLEX",
+      "description": "Builds: DLC\nTags: PPSA08560, v01.005, USA, 4.xx BackPort\nSize: 151GB\nCredits: Files: DUPLEX & SiESPTA; Backport: Kira; DLC: DUPLEX\nHow to play: Installing DLCs (Unlocker) is mandatory.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -25,6 +188,10 @@
         {
           "name": "FileKeeper",
           "url": "https://filekeeper.net/ferncffte2jq"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/92avy6eyxubz"
         },
         {
           "name": "DLC - DataNodes",
@@ -18494,29 +18661,6 @@
       "sizeBytes": 60129542144
     },
     {
-      "titleId": "PPSA15304",
-      "title": "Metal Gear Solid Delta Snake Eater Deluxe Edition",
-      "version": "v01.001.004",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Metal_Gear_Solid_Delta_Snake_Eater_DE.avif",
-      "description": "Tags: PPSA15304, v01.001.004, USA, DLCs Merged, 4.xx BackPork\nSize: 185GB\nCredits: Files: DUPLEX & SiESPTA; Backport: BestPig",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/9QWmpoExLGEB/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/swl793c7ds"
-        },
-        {
-          "name": "BuzzHeavier",
-          "url": "https://buzzheavier.com/1xbq3twlsrrt"
-        }
-      ],
-      "sizeBytes": 198642237440
-    },
-    {
       "titleId": "PPSA16106",
       "title": "Life is Strange Double Exposure Ultimate Edition",
       "version": "v01.002.000",
@@ -19602,21 +19746,6 @@
       "sizeBytes": 8589934592
     },
     {
-      "titleId": "PPSA07587",
-      "title": "Sea of Stars",
-      "version": "v01.006",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Sea_of_Stars.jpg",
-      "description": "Tags: PPSA07587, v01.006, EUR, 7.xx and beyond\nSize: 4GB\nCredits: Files: SiESPTA",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/dkD3Yg51kGLQ/file"
-        }
-      ],
-      "sizeBytes": 4294967296
-    },
-    {
       "titleId": "PPSA16716",
       "title": "The Smurfs 2 The Prisoner of the Green Stone",
       "version": "v01.000",
@@ -19647,5 +19776,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-21T00:56:49.983Z"
+  "_generated": "2026-08-22T00:53:31.386Z"
 }
