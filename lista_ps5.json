@@ -3,6 +3,274 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24643",
+      "title": "The Messenger",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Messenger.avif",
+      "description": "Tags: PPSA24643, v01.000, USA, 4.xx BackPork\nSize: 1GB\nCredits: Files: SiESPTA; Backport: BestPig",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/l5YzMZ8DYGyO/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/4FLv7BxzXe"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/izstxunht6rr"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/6nkfjxdrujfw"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/3awtfnsf1fib"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA23396",
+      "title": "Rugrats Adventure in Gameland",
+      "version": "v01.000.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Rugrats_Adventure_in_Gameland.png",
+      "description": "Tags: PPSA23396, v01.000.003, ASIA, 4.xx BackPork\nSize: 6GB\nCredits: Files: DUPLEX; Backport: BestPig",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/obj3j7Z85zDx/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/zKr4UN5GfX"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/iz6oo6eqckc3"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/c8og7e83konk"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/tb4jeihydn7w"
+        }
+      ],
+      "sizeBytes": 6442450944
+    },
+    {
+      "titleId": "PPSA14464",
+      "title": "Mayhem Brawler",
+      "version": "v02.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mayhem_Brawler.webp",
+      "description": "Tags: PPSA14464, v02.000, USA, 4.xx BackPork\nSize: 2GB\nCredits: Files: High-Speed007; Backport: BestPig",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0rpmvpbwLzRg/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/vKbtOsiw45"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/ab5pxg55gw9i"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/8c6g523cbv9a"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/2xkkaxyko907"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
+      "titleId": "PPSA07191",
+      "title": "Super Bomberman R 2",
+      "version": "v01.003.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Super_Bomberman_R2.avif",
+      "description": "Tags: PPSA07191, v01.003.001, EUR, 4.xx BackPork\nSize: 19GB\nCredits: Files: DUPLEX & VanBuuren; Backport: BestPig",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/2WVGrdM9A3kx/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/d45MOBcPIa"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/ilx4vx2rjzvj"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/nv93bwx03pz5"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/unjat3n3d6c9"
+        }
+      ],
+      "sizeBytes": 20401094656
+    },
+    {
+      "titleId": "PPSA09518",
+      "title": "WUCHANG Fallen Feathers Deluxe Edition",
+      "version": "v01.013",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Wuchang_Fallen_Feathers_Deluxe_Edition.avif",
+      "description": "Tags: PPSA09518, v01.013, USA, DLCs Merged, 4.xx BackPort\nSize: 28GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/M2BGwPoxOmj4/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/CxLHkHcPxE"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/dk7qixa8uikd"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/pfzrf03t0utx"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/fdopi6nlsnsq"
+        }
+      ],
+      "sizeBytes": 30064771072
+    },
+    {
+      "titleId": "PPSA03831",
+      "title": "Sonic Frontiers",
+      "version": "v01.041",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Sonic_Frontiers.avif",
+      "description": "Builds: Standard 5.xx, 4.xx BackPort\nTags: PPSA03831, v01.041, USA, DLCs Merged, Standard (5.xx) + 4.xx BackPort\nSize: 39GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Psykzhack",
+      "downloadLinks": [
+        {
+          "name": "Standard 5.xx - AkiraBox",
+          "url": "https://akirabox.com/jar3XabJrz2d/file"
+        },
+        {
+          "name": "Standard 5.xx - VikingFile",
+          "url": "https://vikingfile.com/f/o0kflhKl9k"
+        },
+        {
+          "name": "Standard 5.xx - DataNodes",
+          "url": "https://datanodes.to/mx99xnd0pmq4"
+        },
+        {
+          "name": "Standard 5.xx - FileKeeper",
+          "url": "https://filekeeper.net/tpcsx5ozbhki"
+        },
+        {
+          "name": "Standard 5.xx - DataVault",
+          "url": "https://datavaults.co/bselx0no7gma"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/qw1zebZV4GXy/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/fZPOCSzKkp"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/4lv14zv9pk00"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/eln1kdn8jyo7"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/fq229ll7spne"
+        }
+      ],
+      "sizeBytes": 41875931136
+    },
+    {
+      "titleId": "PPSA21165",
+      "title": "Rune Factory Guardians of Azuma",
+      "version": "v01.001.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Rune_Factory_Guardians_of_Azuma.avif",
+      "description": "Tags: PPSA21165, v01.001.003, JPN, 4.xx BackPort\nSize: 34GB\nCredits: Files: DLPS Team; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0Kezk7ZKnzD1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/HIN4Ks3xUY"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/i2pwpel0ox77"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/0xs45ohbuc7p"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/uvsdpi8juge2"
+        }
+      ],
+      "sizeBytes": 36507222016
+    },
+    {
+      "titleId": "PPSA26917",
+      "title": "Mandragora Whispers of the Witch Tree",
+      "version": "v01.006.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mandragora_Whispers_of_the_Witch_Tree.avif",
+      "description": "Tags: PPSA26917, v01.006.002, ASIA, 4.xx BackPort\nSize: 26GB\nCredits: Files: DLPS Team; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/EL73g7Z0939B/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/UGsZCnhrq9"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/chvlgdnu9ywm"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ww4ty9bh8xt6"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/6awhw0gr0mt0"
+        }
+      ],
+      "sizeBytes": 27917287424
+    },
+    {
       "titleId": "PPSA32239",
       "title": "Mega Man Star Force Legacy Collection",
       "version": "v01.001",
@@ -13278,37 +13546,6 @@
       "sizeBytes": 130996502528
     },
     {
-      "titleId": "PPSA03831",
-      "title": "Sonic Frontiers",
-      "version": "v01.041",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Sonic_Frontiers.avif",
-      "description": "Tags: PPSA03831, v01.041, USA, DLCs Merged, 5.xx and beyond\nSize: 39GB\nCredits: Files: High-Speed007; DLC: Psykzhack",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/jar3XabJrz2d/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/o0kflhKl9k"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/mx99xnd0pmq4"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/tpcsx5ozbhki"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/bselx0no7gma"
-        }
-      ],
-      "sizeBytes": 41875931136
-    },
-    {
       "titleId": "PPSA02604",
       "title": "Bibi and Tina At The Horse Farm",
       "version": "v01.001",
@@ -16900,29 +17137,6 @@
       "sizeBytes": 2147483648
     },
     {
-      "titleId": "PPSA23396",
-      "title": "Rugrats Adventure in Gameland",
-      "version": "v01.000.003",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Rugrats_Adventure_in_Gameland.png",
-      "description": "Tags: PPSA23396, v01.000.003, ASIA, 9.xx and beyond\nSize: 6GB\nCredits: Files: DUPLEX",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/Y2xm0Z64ozRO/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/KEOzk9SudU"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/vqhdckq7l6jh"
-        }
-      ],
-      "sizeBytes": 6442450944
-    },
-    {
       "titleId": "PPSA03500",
       "title": "New Tales From The Borderlands",
       "version": "v01.002",
@@ -17685,29 +17899,6 @@
         }
       ],
       "sizeBytes": 197568495616
-    },
-    {
-      "titleId": "PPSA09519",
-      "title": "WUCHANG Fallen Feathers Deluxe Edition",
-      "version": "v01.011",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Wuchang_Fallen_Feathers_Deluxe_Edition.avif",
-      "description": "Tags: PPSA09519, v01.011, EUR, DLCs Merged, 4.xx BackPork + Dialogue Fix V2\nSize: 27GB\nCredits: Files: SiESPta",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/2bJG8J6Eq3OB/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/Io3vyXlnn3"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/fnasqkeovcwz"
-        }
-      ],
-      "sizeBytes": 28991029248
     },
     {
       "titleId": "PPSA19591",
@@ -19776,5 +19967,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-22T00:53:31.386Z"
+  "_generated": "2026-08-23T00:57:29.317Z"
 }
