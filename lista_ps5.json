@@ -3,6 +3,244 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA07836",
+      "title": "WILD HEARTS Karakuri Edition",
+      "version": "v01.033",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/WILD_HEARTS_KE.jpg",
+      "description": "Builds: Standard 7.xx, 4.xx BackPort\nTags: PPSA07836, v01.033, EUR / USA, DLCs Merged, Standard (7.xx) + 4.xx BackPort\nSize: 122GB\nCredits: Files: Psykzhack & DUPLEX; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "Standard 7.xx - AkiraBox",
+          "url": "https://akirabox.com/7d5GLlWxqGxR/file"
+        },
+        {
+          "name": "Standard 7.xx - VikingFile",
+          "url": "https://vikingfile.com/f/oBVFh9YdJJ"
+        },
+        {
+          "name": "Standard 7.xx - DataNodes",
+          "url": "https://datanodes.to/bncx1fgwe1s5"
+        },
+        {
+          "name": "Standard 7.xx - FileKeeper",
+          "url": "https://filekeeper.net/ajwbeal60w37"
+        },
+        {
+          "name": "Standard 7.xx - DataVault",
+          "url": "https://datavaults.co/p08hbq8zsgjw"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/Z9dzBPQ85mk1/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/lGE0geMH6Z"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/xy0iqz57tcjz"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/ugwxahq6795h"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/2chjtrwywz3b"
+        }
+      ],
+      "sizeBytes": 130996502528
+    },
+    {
+      "titleId": "PPSA01467",
+      "title": "Marvels Spider Man Remastered",
+      "version": "v01.008.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Spider_Man_Remastered.webp",
+      "description": "Builds: Standard 5.xx, 4.xx BackPort\nTags: PPSA01467, v01.008.001, USA to EUR Langs, Standard (5.xx) + 4.xx BackPort\nSize: 121GB\nCredits: Files: High-Speed007; Backport: DecKerr97\nHow to play: If no Speech in-game change your console language into English, French etc.",
+      "downloadLinks": [
+        {
+          "name": "Standard 5.xx - AkiraBox",
+          "url": "https://akirabox.com/N2p3DeVOkzMa/file"
+        },
+        {
+          "name": "Standard 5.xx - VikingFile",
+          "url": "https://vikingfile.com/f/idA0P1raZI"
+        },
+        {
+          "name": "Standard 5.xx - DataNodes",
+          "url": "https://datanodes.to/7alghkq4jc9b"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/N2p3DP8lk3Ma/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/kfawBiAlz4"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/63giujwazr1a"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/g5789v8ci33w"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/3lrjw22qav1u"
+        }
+      ],
+      "sizeBytes": 129922760704
+    },
+    {
+      "titleId": "PPSA18089",
+      "title": "Matchbox Driving Adventures",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Matchbox_Driving_Adventures.avif",
+      "description": "Tags: PPSA18089, v01.001, USA, 4.xx BackPort\nSize: 5GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/E1x3AWpNDGyk/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/Iu0OBiZpLx"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/czbnddzkmnzh"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/zmbcfeybcqbl"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/oyu7asgae3p0"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
+      "titleId": "PPSA15319",
+      "title": "The Plucky Squire",
+      "version": "v02.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Plucky_Squire.avif",
+      "description": "Builds: 7.xx BackPort, 4.xx BackPort\nTags: PPSA15319, v02.002, USA, 7.xx BackPort + 4.xx BackPort\nSize: 18GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "7.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/0KezkRdYj3D1/file"
+        },
+        {
+          "name": "7.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/N1usAkr3Lq"
+        },
+        {
+          "name": "7.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/93o1qq1o97w2"
+        },
+        {
+          "name": "7.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/p7oyhxx56ik5"
+        },
+        {
+          "name": "7.xx BackPort - DataVault",
+          "url": "https://datavaults.co/z8p21vydl9ow"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/N2p3DP8Dp3Ma/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/DBxn2hSJ6u"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/r9a3h49aj3jh"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/kcvtx62elu80"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/hxea16wij56i"
+        }
+      ],
+      "sizeBytes": 19327352832
+    },
+    {
+      "titleId": "PPSA28311",
+      "title": "Absolum",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Absolum.jpg",
+      "description": "Tags: PPSA28311, v01.002, EUR, 4.xx BackPort\nSize: 3GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qLQ36qDgKm19/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/UiY3n1gXxi"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/070adhnrojac"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/7605slmhzam4"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/r3hdfd69xi06"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA08408",
+      "title": "Blazing Strike",
+      "version": "v01.100",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Blazing_Strike.avif",
+      "description": "Tags: PPSA08408, v01.100, USA, 4.xx BackPort\nSize: 6GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/dkD3YwKXoGLQ/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/JB1mhI2qk4"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/bjleuvmnd4ou"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/y74kvmnkotjj"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/fg6eer8n2w4v"
+        }
+      ],
+      "sizeBytes": 6442450944
+    },
+    {
       "titleId": "PPSA24643",
       "title": "The Messenger",
       "version": "v01.000",
@@ -12469,37 +12707,6 @@
       "sizeBytes": 8589934592
     },
     {
-      "titleId": "PPSA15319",
-      "title": "The Plucky Squire",
-      "version": "v02.002",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Plucky_Squire.avif",
-      "description": "Builds: 7.xx BackPort\nTags: PPSA15319, v02.002, USA, 7.xx BackPort\nSize: 18GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "7.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/0KezkRdYj3D1/file"
-        },
-        {
-          "name": "7.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/N1usAkr3Lq"
-        },
-        {
-          "name": "7.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/93o1qq1o97w2"
-        },
-        {
-          "name": "7.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/p7oyhxx56ik5"
-        },
-        {
-          "name": "7.xx BackPort - DataVault",
-          "url": "https://datavaults.co/z8p21vydl9ow"
-        }
-      ],
-      "sizeBytes": 19327352832
-    },
-    {
       "titleId": "PPSA19936",
       "title": "Turok 3 Shadow of Oblivion",
       "version": "v01.000",
@@ -13515,37 +13722,6 @@
       "sizeBytes": 315680096256
     },
     {
-      "titleId": "PPSA07836",
-      "title": "WILD HEARTS",
-      "version": "v01.033",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/WILD_HEARTS.jpg",
-      "description": "Tags: PPSA07836, v01.033, EUR, 7.xx and beyond\nSize: 122GB\nCredits: Files: Psykzhack",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/7d5GLlWxqGxR/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/oBVFh9YdJJ"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/bncx1fgwe1s5"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/ajwbeal60w37"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/p08hbq8zsgjw"
-        }
-      ],
-      "sizeBytes": 130996502528
-    },
-    {
       "titleId": "PPSA02604",
       "title": "Bibi and Tina At The Horse Farm",
       "version": "v01.001",
@@ -14339,29 +14515,6 @@
       "sizeBytes": 82678120448
     },
     {
-      "titleId": "PPSA01467",
-      "title": "Marvels Spider Man Remastered",
-      "version": "v01.008.001",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Spider_Man_Remastered.webp",
-      "description": "Tags: PPSA01467, v01.008.001, USA to EUR Languages, 5.xx and beyond\nSize: 121GB\nCredits: Files: High-Speed007\nHow to play: If no Speech in-game change your console language into English, French etc..",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/N2p3DeVOkzMa/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/idA0P1raZI"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/7alghkq4jc9b"
-        }
-      ],
-      "sizeBytes": 129922760704
-    },
-    {
       "titleId": "PPSA17905",
       "title": "Horizon Forbidden West Complete Edition",
       "version": "v01.030",
@@ -14748,12 +14901,12 @@
           "url": "https://datanodes.to/qfmct6rc9y0z"
         },
         {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/gXeGOogqXGAa/file"
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/tymkof33g64i"
         },
         {
           "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/3qevwuy6isi0"
+          "url": "https://datanodes.to/rw82ht0tu42i"
         }
       ],
       "sizeBytes": 66571993088
@@ -19967,5 +20120,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-23T00:57:29.317Z"
+  "_generated": "2026-08-24T00:55:28.803Z"
 }
