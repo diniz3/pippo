@@ -3,6 +3,220 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA05732",
+      "title": "Way of The Hunter",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Way_of_The_Hunter.avif",
+      "description": "Tags: PPSA05732, v01.000, EUR, 4.xx and beyond\nSize: 16GB\nCredits: Files: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/Z9dzBPYQlmk1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/sqLNEblRQj"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/nrzcx7nejv2k"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/vh0kvk2rcw25"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/s08k0gbfzaeh"
+        }
+      ],
+      "sizeBytes": 17179869184
+    },
+    {
+      "titleId": "PPSA02787",
+      "title": "Monster Boy and The Cursed Kingdom",
+      "version": "v01.000.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Monster_Boy_and_The_Cursed_Kingdom.avif",
+      "description": "Tags: PPSA02787, v01.000.004, USA, 4.xx BackPort\nSize: 4GB\nCredits: Files: Amiibohound & TRIFECTA; Backport: Amiibohound & TRIFECTA",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/Z9dzBPYqlmk1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/GrlsA9o3o7"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/v978q6clrafk"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/191jy7x47y3m"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/1e18trlrf10d"
+        }
+      ],
+      "sizeBytes": 4294967296
+    },
+    {
+      "titleId": "PPSA06565",
+      "title": "Dusk Diver 2",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dusk_Diver_2.avif",
+      "description": "Tags: PPSA06565, v01.000, EUR, 3.xx and beyond\nSize: 10GB\nCredits: Files: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/7d5GLZMXL3xR/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/k0e5cNbZ1c"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/qqsmi267jv7u"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/q8m4qvr6eels"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/mskd7gu3q5dz"
+        }
+      ],
+      "sizeBytes": 10737418240
+    },
+    {
+      "titleId": "PPSA03618",
+      "title": "The Chant",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Chant.jpg",
+      "description": "Tags: PPSA03618, v01.000, EUR, 4.xx BackPort\nSize: 50GB\nCredits: Files: DUPLEX & C4our20 & TRIFECTA; Backport: DUPLEX & C4our20 & TRIFECTA",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qLQ36qaEPm19/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/c9aVfQtZjm"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/m0ht91hmhtwr"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/cw2o0sqpmkzv"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/0kaklzzsw9eg"
+        }
+      ],
+      "sizeBytes": 53687091200
+    },
+    {
+      "titleId": "PPSA22914",
+      "title": "Witch Spring R",
+      "version": "v02.112",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Witch_Spring_R.avif",
+      "description": "Builds: DLC\nTags: PPSA22914, v02.112, USA, 4.xx BackPort\nSize: 14GB\nCredits: Files: DLPS Team; Backport: DecKerr97; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/RMKGJKeKVm1o/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/5vRXFAAyqK"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/6qkvytddzesg"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/fx3lnkk64owx"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/wq1duch5rsf7"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/ig3fkq5wv8nl"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/psqo0ummvasg"
+        }
+      ],
+      "sizeBytes": 15032385536
+    },
+    {
+      "titleId": "PPSA01417",
+      "title": "Marvels Spider Man Miles Morales",
+      "version": "v01.015.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Spider_Man_Miles_Morales.webp",
+      "description": "Builds: Standard 5.xx, 4.xx BackPort\nTags: PPSA01417, v01.015.001, EUR, DLCs Merged, Standard (5.xx) + 4.xx BackPort\nSize: 88GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "Standard 5.xx - AkiraBox",
+          "url": "https://akirabox.com/jJD3VL977Ga5/file"
+        },
+        {
+          "name": "Standard 5.xx - VikingFile",
+          "url": "https://vikingfile.com/f/AdLJCw8XHs"
+        },
+        {
+          "name": "Standard 5.xx - DataNodes",
+          "url": "https://datanodes.to/0kb0m52xeljp"
+        },
+        {
+          "name": "Standard 5.xx - FileKeeper",
+          "url": "https://filekeeper.net/bqdoteaq0gk0"
+        },
+        {
+          "name": "Standard 5.xx - DataVault",
+          "url": "https://datavaults.co/zwak7xgbfgif"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/qLQ36qaxBm19/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/BLx7CtS7Bt"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/ppe2elplr8zo"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/ju3j7v84mwpg"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/g0i6oyih0nwb"
+        }
+      ],
+      "sizeBytes": 94489280512
+    },
+    {
       "titleId": "PPSA07836",
       "title": "WILD HEARTS Karakuri Edition",
       "version": "v01.033",
@@ -7181,37 +7395,6 @@
         }
       ],
       "sizeBytes": 46170898432
-    },
-    {
-      "titleId": "PPSA01417",
-      "title": "Marvels Spider Man Miles Morales",
-      "version": "v01.015.001",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Spider_Man_Miles_Morales.webp",
-      "description": "Tags: PPSA01417, v01.015.001, EUR, DLCs Merged, 5.xx and beyond\nSize: 88GB\nCredits: Files: DUPLEX; DLC: DUPLEX",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/jJD3VL977Ga5/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/AdLJCw8XHs"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/0kb0m52xeljp"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/bqdoteaq0gk0"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/zwak7xgbfgif"
-        }
-      ],
-      "sizeBytes": 94489280512
     },
     {
       "titleId": "PPSA04109",
@@ -20120,5 +20303,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-24T00:55:28.803Z"
+  "_generated": "2026-08-25T00:55:33.644Z"
 }
