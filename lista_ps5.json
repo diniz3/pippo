@@ -3,12 +3,269 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA30279",
+      "title": "Taxi Chaos 2",
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Taxi_Chaos_2.avif",
+      "description": "Builds: Standard, 4.xx BackPort\nTags: PPSA30279, v01.007, EUR, 4.xx BackPort\nSize: 12GB\nCredits: Files: High-Speed007; Backport: DecKerr97\nHow to play: BP 4 Ver only on 4.xx FW, Standard Ver for 5.xx to 12.xx instead.",
+      "downloadLinks": [
+        {
+          "name": "Standard - AkiraBox",
+          "url": "https://akirabox.com/qLQ36qwEBm19/file"
+        },
+        {
+          "name": "Standard - VikingFile",
+          "url": "https://vikingfile.com/f/cVlVKLT4xs"
+        },
+        {
+          "name": "Standard - DataNodes",
+          "url": "https://datanodes.to/0dsrgrmsoyw0"
+        },
+        {
+          "name": "Standard - FileKeeper",
+          "url": "https://filekeeper.net/iy8iywdsv5n0"
+        },
+        {
+          "name": "Standard - DataVault",
+          "url": "https://datavaults.co/yt6ah1bghoah"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/obj3j750dzDx/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/WUkQueOnvS"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/5re9zn28m8y5"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/5xl6zongww0g"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/2f7kr37un0ah"
+        }
+      ],
+      "sizeBytes": 12884901888
+    },
+    {
+      "titleId": "PPSA26893",
+      "title": "SpongeBob SquarePants Titans of The Tide Ghostly Edition",
+      "version": "v01.400",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/SpongeBob_SquarePants_Titans_of_The_Tide.jpg",
+      "description": "Builds: Standard, 4.xx BackPort\nTags: PPSA26893, v01.400, EUR, DLCs Merged, 4.xx BackPort\nSize: 25GB\nCredits: Files: DLPS Team; Backport: DecKerr97; DLC: Pippo\nHow to play: BP 4 Ver only on 4.xx FW, Standard Ver for 5.xx to 12.xx instead.",
+      "downloadLinks": [
+        {
+          "name": "Standard - AkiraBox",
+          "url": "https://akirabox.com/7d5GLZ7NV3xR/file"
+        },
+        {
+          "name": "Standard - VikingFile",
+          "url": "https://vikingfile.com/f/76LrlutXML"
+        },
+        {
+          "name": "Standard - DataNodes",
+          "url": "https://datanodes.to/gbps3tdcmrh7"
+        },
+        {
+          "name": "Standard - FileKeeper",
+          "url": "https://filekeeper.net/ldf6t2ku3e46"
+        },
+        {
+          "name": "Standard - DataVault",
+          "url": "https://datavaults.co/0cmifguq4u8j"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/l76mZrMKjman/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/ckOE1SH11i"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/ofq7nf9k5fsb"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/myvrlyvf8h0b"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/vbxn4knwhqe7"
+        }
+      ],
+      "sizeBytes": 26843545600
+    },
+    {
+      "titleId": "PPSA13899",
+      "title": "Slave Zero X",
+      "version": "v01.000.006",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Slave_Zero_X.avif",
+      "description": "Tags: PPSA13899, v01.000.006, EUR, 4.xx BackPort\nSize: 4GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/2bJG8bgJ73OB/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/skH6dOykh3"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/y6bbrctgve6d"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/9kj413x4be6f"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/ku63ejpwmgko"
+        }
+      ],
+      "sizeBytes": 4294967296
+    },
+    {
+      "titleId": "PPSA09252",
+      "title": "Crown Wars The Black Prince",
+      "version": "v02.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Crown_Wars_The_Black_Prince.avif",
+      "description": "Tags: PPSA09252, v02.000, USA, 4.xx BackPort\nSize: 15GB\nCredits: Files: Jose Carrion; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qw1zeb5YjGXy/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/3zKlvEbtiC"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/sid0jse274q5"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/2py9em16lc1v"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/si91m84nu32g"
+        }
+      ],
+      "sizeBytes": 16106127360
+    },
+    {
+      "titleId": "PPSA22102",
+      "title": "Squirrel With A Gun",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Squirrel_With_A_Gun.avif",
+      "description": "Tags: PPSA22102, v01.001, USA, 4.xx BackPort\nSize: 8GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/EL73g752K39B/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/gDp5Io8C05"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/f8304vi61zji"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/7366niygz0l8"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/o5rr25carclk"
+        }
+      ],
+      "sizeBytes": 8589934592
+    },
+    {
+      "titleId": "PPSA09232",
+      "title": "Ghost Song",
+      "version": "v01.005",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ghost_Song.webp",
+      "description": "Tags: PPSA09232, v01.005, EUR, 4.xx BackPort\nSize: 2GB\nCredits: Files: DecKerr97; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/9QWmpA56g3EB/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/VvuQEq0GPB"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/6sokdl1kol28"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/uy5jkerj249a"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/vg2fz38eua19"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
+      "titleId": "PPSA16349",
+      "title": "Rugby 25",
+      "version": "v01.000.062",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Rugby_25.avif",
+      "description": "Tags: PPSA16349, v01.000.062, EUR, 4.xx BackPort\nSize: 362GB\nCredits: Files: DecKerr97; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/Z9dzBP7DVmk1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/Nd5fEgCX71"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/jxrojf3t9sy5"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/oacfvzlwcexa"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/0g57y1d6fsnu"
+        }
+      ],
+      "sizeBytes": 388694540288
+    },
+    {
       "titleId": "PPSA10873",
       "title": "Persona 3 Reload",
       "version": "v01.011",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Persona_3_Reload.avif",
-      "description": "Builds: DLC\nTags: PPSA10873, v01.011, EUR, 4.xx BackPort\nSize: 44GB\nCredits: Files: DecKerr97; Backport: DecKerr97",
+      "description": "Builds: DLC\nTags: PPSA10873, v01.011, EUR, 4.xx BackPort\nSize: 44GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pkykzhack",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -10702,37 +10959,6 @@
       "sizeBytes": 2147483648
     },
     {
-      "titleId": "PPSA22102",
-      "title": "Squirrel With A Gun",
-      "version": "v01.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Squirrel_With_A_Gun.avif",
-      "description": "Tags: PPSA22102, v01.000, EUR, 4.xx BackPort\nSize: 6GB\nCredits: Files: DUPLEX & SiESPTA; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/LJlGnWkv6m15/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/Gdaago3W9h"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/f6yed8i3709d"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/ivzdsnfdcrwu"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/cnfsczw0u2mj"
-        }
-      ],
-      "sizeBytes": 6442450944
-    },
-    {
       "titleId": "PPSA19624",
       "title": "Bum Simulator",
       "version": "v01.000.004",
@@ -20676,5 +20902,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-26T00:56:03.843Z"
+  "_generated": "2026-08-27T06:41:13.846Z"
 }
