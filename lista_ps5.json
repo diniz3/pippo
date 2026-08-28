@@ -3,6 +3,161 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA04029",
+      "title": "Cyberpunk 2077 Ultimate Edition",
+      "version": "v02.120",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Cyberpunk_2077_Ultimate_Edition.avif",
+      "description": "Tags: PPSA04029, v02.120, EUR, DLCs Merged, 4.xx and beyond\nSize: 242GB\nCredits: Files: DUPLEX; DLC: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qPez44vMMzOY/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/XyhDtmVbuO"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/rhpywkw9w5c6"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/20090y621ilr"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/f14d7lfgvlxg"
+        }
+      ],
+      "sizeBytes": 259845521408
+    },
+    {
+      "titleId": "PPSA02393",
+      "title": "Iron Harvest Complete Edition",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Iron_Harvest_Complete_Edition.avif",
+      "description": "Tags: PPSA02393, v01.004, EUR, 2.xx and beyond\nSize: 32GB\nCredits: Files: Gipsy Kings",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/2WVGrd5gA3kx/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/evZpXO6QdI"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/7lnxoeu7cab7"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/auxxid1cx9g7"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/p4y74rsdm1ed"
+        }
+      ],
+      "sizeBytes": 34359738368
+    },
+    {
+      "titleId": "PPSA04795",
+      "title": "KLONOA Phantasy Reverie Series Deluxe Edition",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/KLONOA_Phantasy_Reverie_Series_DE.avif",
+      "description": "Tags: PPSA04795, v01.002, EUR, DLCs Merged, 4.xx and beyond\nSize: 9GB\nCredits: Files: SiESPta; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/1RgzR9MQ93bp/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/EA8eLTOHyf"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/pyou7nlaxm6f"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/0a7s8zn2l466"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/9tqnnexbht3o"
+        }
+      ],
+      "sizeBytes": 9663676416
+    },
+    {
+      "titleId": "PPSA07370",
+      "title": "MADiSON",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MADiSON.webp",
+      "description": "Tags: PPSA07370, v01.000, EUR, 4.xx and beyond\nSize: 7GB\nCredits: Files: SiESPta",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/jar3XlMQY32d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/6MGi5DRBsC"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/s4k2u6p4x98b"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/8vl4p9s8dywh"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/l63lk77tkdfx"
+        }
+      ],
+      "sizeBytes": 7516192768
+    },
+    {
+      "titleId": "PPSA02259",
+      "title": "Oddworld Soulstorm",
+      "version": "v01.160",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Oddworld_Soulstorm.webp",
+      "description": "Tags: PPSA02259, v01.160, EUR, 1.xx and beyond\nSize: 24GB\nCredits: Files: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/b5OzdV5QRmB8/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/oDpXPA8szw"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/6pl8y7kapq21"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/1weky1ixs90m"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/rdvxqhh4ik2j"
+        }
+      ],
+      "sizeBytes": 25769803776
+    },
+    {
       "titleId": "PPSA30279",
       "title": "Taxi Chaos 2",
       "version": "v01.007",
@@ -20902,5 +21057,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-27T06:41:13.846Z"
+  "_generated": "2026-08-28T08:31:23.810Z"
 }
