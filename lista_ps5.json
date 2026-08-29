@@ -3,6 +3,409 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA26344",
+      "title": "Ghost of Yotei Deluxe Edition",
+      "version": "v01.512",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ghost_of_Yotei_Deluxe_Edition.png",
+      "description": "Builds: DLC, Fix\nTags: PPSA26344, v01.512, USA, 4.xx BackPort\nSize: 188GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/dZxG5oypB3Vj/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/fLjLZAZcoC"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/5m8y99hr2bk7"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/onfnk0t97red"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/couinl3l26cj"
+        },
+        {
+          "name": "DLC - AkiraBox",
+          "url": "https://akirabox.com/qLQ36x4d7G19/file"
+        },
+        {
+          "name": "DLC - VikingFile",
+          "url": "https://vikingfile.com/f/EazyG0VS2X"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/etgkojb4u8r0"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/hm7d2xooa1dt"
+        },
+        {
+          "name": "Fix - DataNodes",
+          "url": "https://datanodes.to/pi3aiinoytg2"
+        },
+        {
+          "name": "Fix - DataVault",
+          "url": "https://datavaults.co/z1dxis4as5x2"
+        }
+      ],
+      "sizeBytes": 201863462912
+    },
+    {
+      "titleId": "PPSA01325",
+      "title": "Astros Playroom",
+      "version": "v01.905",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Astros_Playroom.webp",
+      "description": "Tags: PPSA01325, v01.905, EUR, 4.xx BackPort\nSize: 28GB\nCredits: Files: DLPS Team; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/2WVGrdZEA3kx/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/HLr8he6lqn"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/kj4ibn2lhjuh"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/0hg67hg34hlv"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/ta62iyaam4jr"
+        }
+      ],
+      "sizeBytes": 30064771072
+    },
+    {
+      "titleId": "PPSA19406",
+      "title": "Earth Defense Force World Brothers 2",
+      "version": "v01.005",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Earth_Defense_Force_World_Brothers_2.avif",
+      "description": "Builds: DLC\nTags: PPSA19406, v01.005, ASIA, 4.xx BackPort\nSize: 23GB\nCredits: Files: SiESPTA; Backport: DecKerr97; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/dkD3YwJQ9GLQ/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/BmPXXAtgAw"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/cw1mvxg321xy"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/lo0yjqx474ko"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/wjz7608zipz6"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/3q8cv83gufi3"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/8zkuu938tdti"
+        }
+      ],
+      "sizeBytes": 24696061952
+    },
+    {
+      "titleId": "PPSA16256",
+      "title": "Metal Gear Solid Master Collection Vol 1 Bonus Content",
+      "version": "v01.500",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Metal_Gear_Solid_Master_Collection_Vol_1_Bonus_Content.avif",
+      "description": "Tags: PPSA16256, v01.500, USA, 4.xx BackPort\nSize: 350MB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/l76mZrd5bman/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/0lPhxj5mQy"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/187p3mbd4k38"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/72925no3ay0c"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/3olg7phat4n4"
+        }
+      ],
+      "sizeBytes": 367001600
+    },
+    {
+      "titleId": "PPSA10249",
+      "title": "VIEWFINDER",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/VIEWFINDER.avif",
+      "description": "Builds: Standard 7.xx, 4.xx BackPort\nTags: PPSA10249, v01.003, USA, Standard (7.xx) + 4.xx BackPort\nSize: 14GB\nCredits: Files: Amiibohound; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "Standard 7.xx - AkiraBox",
+          "url": "https://akirabox.com/9AqGQ4VP0zMn/file"
+        },
+        {
+          "name": "Standard 7.xx - VikingFile",
+          "url": "https://vikingfile.com/f/9sxRaFUlVF"
+        },
+        {
+          "name": "Standard 7.xx - DataNodes",
+          "url": "https://datanodes.to/6rypq8hp86je"
+        },
+        {
+          "name": "Standard 7.xx - FileKeeper",
+          "url": "https://filekeeper.net/j5vg3alh3aop"
+        },
+        {
+          "name": "Standard 7.xx - DataVault",
+          "url": "https://datavaults.co/37axfh8rjw8q"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/gXeGOA6xd3Aa/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/jlfqc6kB8B"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/xz7hmscfy5v8"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/fkzzedybl255"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/t66zus4vmwwk"
+        }
+      ],
+      "sizeBytes": 15032385536
+    },
+    {
+      "titleId": "PPSA14396",
+      "title": "METAL GEAR SOLID 2 Sons of Liberty Master Collection",
+      "version": "v02.100",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/METAL_GEAR_SOLID_2_Sons_of_Liberty_Master_Collection.avif",
+      "description": "Builds: Standard 7.xx, 4.xx BackPort\nTags: PPSA14396, v02.100, USA, Standard (7.xx) + 4.xx BackPort\nSize: 11GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "Standard 7.xx - AkiraBox",
+          "url": "https://akirabox.com/gXeGOoWXPGAa/file"
+        },
+        {
+          "name": "Standard 7.xx - VikingFile",
+          "url": "https://vikingfile.com/f/9zW6FLVEd9"
+        },
+        {
+          "name": "Standard 7.xx - DataNodes",
+          "url": "https://datanodes.to/haxe3he399w3"
+        },
+        {
+          "name": "Standard 7.xx - FileKeeper",
+          "url": "https://filekeeper.net/3bfen1djgf3t"
+        },
+        {
+          "name": "Standard 7.xx - DataVault",
+          "url": "https://datavaults.co/khwbrxcqz1em"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/5pVzNAk2Z37w/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/diy1DFZPtZ"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/i7wy0q3pdh0d"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/6pyax9xt8bb8"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/ntk3lqarb5e2"
+        }
+      ],
+      "sizeBytes": 11811160064
+    },
+    {
+      "titleId": "PPSA14404",
+      "title": "METAL GEAR SOLID 3 Snake Eater Master Collection",
+      "version": "v03.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/METAL_GEAR_SOLID_3_Snake_Eater_Master_Collection.avif",
+      "description": "Builds: Standard 5.xx, 4.xx BackPort\nTags: PPSA14404, v03.002, USA, Standard (5.xx) + 4.xx BackPort\nSize: 15GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "Standard 5.xx - AkiraBox",
+          "url": "https://akirabox.com/jJD3VL8KEGa5/file"
+        },
+        {
+          "name": "Standard 5.xx - VikingFile",
+          "url": "https://vikingfile.com/f/8I1HNZw4xE"
+        },
+        {
+          "name": "Standard 5.xx - DataNodes",
+          "url": "https://datanodes.to/q1ng2y4s3d03"
+        },
+        {
+          "name": "Standard 5.xx - FileKeeper",
+          "url": "https://filekeeper.net/gc051aswlxq1"
+        },
+        {
+          "name": "Standard 5.xx - DataVault",
+          "url": "https://datavaults.co/ib30w0v403u1"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/vgKGxXWwqG8Q/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/vaUuYaFShf"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/m6h5jnck0q5b"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/6bxq0w4bnf6c"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/mg4lh0jddbsh"
+        }
+      ],
+      "sizeBytes": 16106127360
+    },
+    {
+      "titleId": "PPSA09790",
+      "title": "Dragon Ball Fighter Z",
+      "version": "v01.010",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dragon_Ball_Fighter_Z.avif",
+      "description": "Builds: Standard 8.xx, 4.xx BackPort, DLC\nTags: PPSA09790, v01.010, USA to EUR Langs, Standard (8.xx) + 4.xx BackPort\nSize: 43GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: romhunter",
+      "downloadLinks": [
+        {
+          "name": "Standard 8.xx - AkiraBox",
+          "url": "https://akirabox.com/E9Qz9PYqV3OL/file"
+        },
+        {
+          "name": "Standard 8.xx - VikingFile",
+          "url": "https://vikingfile.com/f/gGbYEghZ2Y"
+        },
+        {
+          "name": "Standard 8.xx - DataNodes",
+          "url": "https://datanodes.to/qxnmbnslepk4"
+        },
+        {
+          "name": "Standard 8.xx - FileKeeper",
+          "url": "https://filekeeper.net/h2126t6jocxy"
+        },
+        {
+          "name": "Standard 8.xx - DataVault",
+          "url": "https://datavaults.co/3ukglvxmmt5n"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/jar3XlBY832d/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/DzyYNpAPPJ"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/ib64ldfqwkun"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/cr613ps8nkde"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/epwgs32ui02g"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/lnmf4nvps7wn"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/2yznwatijlnn"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/jmg8zz2grv3w"
+        }
+      ],
+      "sizeBytes": 46170898432
+    },
+    {
+      "titleId": "PPSA20931",
+      "title": "Electronics Puzzle Lab",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Electronics_Puzzle_Lab.avif",
+      "description": "Tags: PPSA20931, v01.000, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: Amiibohound; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/jJD3VDgkEGa5/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/3pHnVFlXwA"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/bv1l0r1emi7h"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/56711435w690"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/ltnohfbitxrg"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
       "titleId": "PPSA04029",
       "title": "Cyberpunk 2077 Ultimate Edition",
       "version": "v02.120",
@@ -8174,45 +8577,6 @@
       "sizeBytes": 5368709120
     },
     {
-      "titleId": "PPSA09790",
-      "title": "Dragon Ball Fighter Z",
-      "version": "v01.010",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dragon_Ball_Fighter_Z.avif",
-      "description": "Builds: DLC\nTags: PPSA09790, v01.010, USA to EUR Langs, 8.xx and beyond\nSize: 43GB\nCredits: Files: High-Speed007; DLC: romhunter",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/E9Qz9PYqV3OL/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/gGbYEghZ2Y"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/qxnmbnslepk4"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/h2126t6jocxy"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/3ukglvxmmt5n"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/lnmf4nvps7wn"
-        },
-        {
-          "name": "DLC - FileKeeper",
-          "url": "https://filekeeper.net/2yznwatijlnn"
-        }
-      ],
-      "sizeBytes": 46170898432
-    },
-    {
       "titleId": "PPSA04109",
       "title": "Aeterna Noctis",
       "version": "v03.003.001",
@@ -14130,99 +14494,6 @@
         {
           "name": "4.xx BackPort - DataVault",
           "url": "https://datavaults.co/0a9esmi9pjl1"
-        }
-      ],
-      "sizeBytes": 15032385536
-    },
-    {
-      "titleId": "PPSA14396",
-      "title": "METAL GEAR SOLID 2 Sons of Liberty Master Collection",
-      "version": "v02.100",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/METAL_GEAR_SOLID_2_Sons_of_Liberty_Master_Collection.avif",
-      "description": "Tags: PPSA14396, v02.100, USA, 7.xx and beyond\nSize: 11GB\nCredits: Files: High-Speed007",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/gXeGOoWXPGAa/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/9zW6FLVEd9"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/haxe3he399w3"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/3bfen1djgf3t"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/khwbrxcqz1em"
-        }
-      ],
-      "sizeBytes": 11811160064
-    },
-    {
-      "titleId": "PPSA14404",
-      "title": "METAL GEAR SOLID 3 Snake Eater Master Collection",
-      "version": "v03.002",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/METAL_GEAR_SOLID_3_Snake_Eater_Master_Collection.avif",
-      "description": "Tags: PPSA14404, v03.002, USA, 5.xx and beyond\nSize: 15GB\nCredits: Files: High-Speed007",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/jJD3VL8KEGa5/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/8I1HNZw4xE"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/q1ng2y4s3d03"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/gc051aswlxq1"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/ib30w0v403u1"
-        }
-      ],
-      "sizeBytes": 16106127360
-    },
-    {
-      "titleId": "PPSA10249",
-      "title": "VIEWFINDER",
-      "version": "v01.003",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/VIEWFINDER.avif",
-      "description": "Tags: PPSA10249, v01.003, USA, 7.xx and beyond\nSize: 14GB\nCredits: Files: Amiibohound",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/9AqGQ4VP0zMn/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/9sxRaFUlVF"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/6rypq8hp86je"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/j5vg3alh3aop"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/37axfh8rjw8q"
         }
       ],
       "sizeBytes": 15032385536
@@ -20760,33 +21031,6 @@
       "sizeBytes": 27917287424
     },
     {
-      "titleId": "PPSA26344",
-      "title": "Ghost of Yotei: Deluxe Edition",
-      "version": "v1.008.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ghost_of_Yotei_Deluxe_Edition.png",
-      "description": "Builds: DLC\nTags: PPSA26344, v1.008.000, USA, 4.xx BackPork\nSize: 154GB\nCredits: Files: DUPLEX & SiESPTA; Backport: BestPig; DLC: DUPLEX",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/obj3jlvKoGDx/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/X65wI9PcIa"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/qLQ36x4d7G19/file"
-        },
-        {
-          "name": "DLC - VikingFile",
-          "url": "https://vikingfile.com/f/EazyG0VS2X"
-        }
-      ],
-      "sizeBytes": 165356240896
-    },
-    {
       "titleId": "PPSA21203",
       "title": "The Elder Scrolls IV Oblivion Remastered",
       "version": "v01.512.105",
@@ -21057,5 +21301,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-28T08:31:23.810Z"
+  "_generated": "2026-08-29T05:11:23.471Z"
 }
