@@ -8,27 +8,27 @@
       "version": "v01.512",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ghost_of_Yotei_Deluxe_Edition.png",
-      "description": "Builds: DLC, Fix\nTags: PPSA26344, v01.512, USA, 4.xx BackPort\nSize: 188GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX",
+      "description": "Builds: DLC\nTags: PPSA26344, v01.512, USA, 4.xx BackPort\nSize: 188GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Loading Splash Screen Fix is already included.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
-          "url": "https://akirabox.com/dZxG5oypB3Vj/file"
+          "url": "https://akirabox.com/dkD3Ywxv9GLQ/file"
         },
         {
           "name": "VikingFile",
-          "url": "https://vikingfile.com/f/fLjLZAZcoC"
+          "url": "https://vikingfile.com/f/rbMzpauz0C"
         },
         {
           "name": "DataNodes",
-          "url": "https://datanodes.to/5m8y99hr2bk7"
+          "url": "https://datanodes.to/vwf1tzmn7bsr"
         },
         {
           "name": "FileKeeper",
-          "url": "https://filekeeper.net/onfnk0t97red"
+          "url": "https://filekeeper.net/uazmc720gt1o"
         },
         {
           "name": "DataVault",
-          "url": "https://datavaults.co/couinl3l26cj"
+          "url": "https://datavaults.co/h7hzl4yqjvnp"
         },
         {
           "name": "DLC - AkiraBox",
@@ -45,14 +45,6 @@
         {
           "name": "DLC - DataVault",
           "url": "https://datavaults.co/hm7d2xooa1dt"
-        },
-        {
-          "name": "Fix - DataNodes",
-          "url": "https://datanodes.to/pi3aiinoytg2"
-        },
-        {
-          "name": "Fix - DataVault",
-          "url": "https://datavaults.co/z1dxis4as5x2"
         }
       ],
       "sizeBytes": 201863462912
@@ -21301,5 +21293,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-29T05:11:23.471Z"
+  "_generated": "2026-08-30T03:02:20.790Z"
 }
