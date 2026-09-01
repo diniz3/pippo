@@ -3,6 +3,192 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA29141",
+      "title": "LEGO Party",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/LEGO_Party.avif",
+      "description": "Tags: PPSA29141, v01.000, EUR, 4.xx BackPort\nSize: 7GB\nCredits: Files: DecKerr97; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/Z9dzBP0NOmk1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/YoiJWpFPNK"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/9gdo6gdzahdo"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/18ocfrvotwzv"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/ft2uwvxs5dw0"
+        }
+      ],
+      "sizeBytes": 7516192768
+    },
+    {
+      "titleId": "PPSA10737",
+      "title": "Little Nightmares Enhanced Complete Edition",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Little_Nightmares_Enhanced_Edition.avif",
+      "description": "Tags: PPSA10737, v01.004, EUR, DLCs Merged, 4.xx BackPort\nSize: 10GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/b5OzdVlrymB8/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/ThxP5SAIqr"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/1n9apn1vp60f"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/q1h3t2p2se92"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/769nyynb0n6d"
+        }
+      ],
+      "sizeBytes": 10737418240
+    },
+    {
+      "titleId": "PPSA02629",
+      "title": "Trek To Yomi",
+      "version": "v02.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Trek_To_Yomi.webp",
+      "description": "Tags: PPSA02629, v02.000, EUR, 4.xx and beyond\nSize: 17GB\nCredits: Files: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/E9Qz9XoaK3OL/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/k8iLrHQGId"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/gzo4t36b3tnb"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/i6cgxox6l0ww"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/2y18lhr8iyyb"
+        }
+      ],
+      "sizeBytes": 18253611008
+    },
+    {
+      "titleId": "PPSA07058",
+      "title": "Final Vendetta",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Final_Vendetta.avif",
+      "description": "Tags: PPSA07058, v01.002, EUR, 4.xx and beyond\nSize: 541MB\nCredits: Files: DUPLEX & VanBuuren",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/l5YzMZDoWGyO/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/6XZ6iMAv2v"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/pw3cmy2f76vo"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/5echrt45mfrm"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/szkxd157pxkd"
+        }
+      ],
+      "sizeBytes": 567279616
+    },
+    {
+      "titleId": "PPSA03469",
+      "title": "Blackwind",
+      "version": "v01.002.006",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Blackwind.avif",
+      "description": "Tags: PPSA03469, v01.002.006, EUR, 3.xx and beyond\nSize: 2GB\nCredits: Files: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/9QWmpA8EX3EB/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/V9vvyzSnIV"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/uqkxjd73elx4"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/fahedkxyrq8j"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/x203cec3778q"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
+      "titleId": "PPSA02743",
+      "title": "Cant Drive This",
+      "version": "v01.005",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Cant_Drive_This.webp",
+      "description": "Tags: PPSA02743, v01.005, EUR, 2.xx and beyond\nSize: 1GB\nCredits: Files: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/RMKGJKo84m1o/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/MCOiSD2RUa"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/zrk1lj7y7q5e"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/clngt721nqkp"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/pzwtd8y7iulp"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
       "titleId": "PPSA14453",
       "title": "TIEBREAK Official game of the ATP and WTA Ace Edition",
       "version": "v01.000.046",
@@ -21510,5 +21696,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-08-31T02:56:40.636Z"
+  "_generated": "2026-09-01T03:04:40.800Z"
 }
