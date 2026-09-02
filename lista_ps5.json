@@ -3,6 +3,37 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA02633",
+      "title": "Street Fighter 6 1-3 Fighters Edition",
+      "version": "v01.000.028",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Street_Fighter_6_1_3_FE.jpg",
+      "description": "Tags: PPSA02633, v01.000.028, EUR, DLCs Merged, 4.xx BackPort\nSize: 200GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/DNd7ZwfELt"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/gcg3svh1xtj7"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/3tznkg3e5lhl"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/2xn82nxchhom"
+        },
+        {
+          "name": "Filed",
+          "url": "https://theditch.st/nbt9k67x"
+        }
+      ],
+      "sizeBytes": 214748364800
+    },
+    {
       "titleId": "PPSA29141",
       "title": "LEGO Party",
       "version": "v01.000",
@@ -12289,37 +12320,6 @@
       "sizeBytes": 1073741824
     },
     {
-      "titleId": "PPSA02632",
-      "title": "Street Fighter 6",
-      "version": "v01.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Street_Fighter_6.jpg",
-      "description": "Tags: PPSA02632, v01.000, USA, 4.xx BackPort\nSize: 107GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/dkD3YZ64lzLQ/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/9QWthtqtOg"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/3hca6zhx4b5v"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/sv750l9uhrek"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/xbyoaooo2u4m"
-        }
-      ],
-      "sizeBytes": 114890375168
-    },
-    {
       "titleId": "PPSA09911",
       "title": "Ghostrunner 2",
       "version": "v01.000",
@@ -21696,5 +21696,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-01T03:04:40.800Z"
+  "_generated": "2026-09-02T02:24:53.803Z"
 }
