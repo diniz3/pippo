@@ -3,8 +3,242 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03999",
+      "title": "Tails of Iron",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Tails_of_Iron.jpg",
+      "description": "Tags: PPSA03999, v01.000, USA, 2.xx and beyond\nSize: 1GB\nCredits: Files: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/alpha27/c6ae4f04542abd35c66e/PPSA03999.exfat"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/F7U3FrqTFa"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/xt0h74qp94b3"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ulhmhjzz3szi"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/el1ppufa7f1p"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA07029",
+      "title": "Personality and Psychology Premium",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Personality_and_Psychology_Premium.avif",
+      "description": "Tags: PPSA07029, v01.003, USA, 4.xx and beyond\nSize: 822MB\nCredits: Files: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/alpha27/4390a643a5a77958db11/PPSA07029.exfat"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/qI0ySLxmhi"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/yofhuy8enizd"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/rw8pqlm892jf"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/xtxof3m4yl28"
+        }
+      ],
+      "sizeBytes": 861929472
+    },
+    {
+      "titleId": "PPSA02650",
+      "title": "Disciples Liberation",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Disciples_Liberation.webp",
+      "description": "Builds: DLC\nTags: PPSA02650, v01.000, USA, 2.xx and beyond\nSize: 8GB\nCredits: Files: High-Speed007; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/balpha13/4603b9bc129b4c8fd9dc/PPSA02650.exfat"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/ANkCxtukBU"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/fcq5fpvpthq4"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/8aib627hod4l"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/hmy6pni8jfjj"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/97mp3vv5y0pw"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/yte23oslfpu4"
+        }
+      ],
+      "sizeBytes": 8589934592
+    },
+    {
+      "titleId": "PPSA04921",
+      "title": "In Sound Mind",
+      "version": "v01.009",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/In_Sound_Mind.webp",
+      "description": "Tags: PPSA04921, v01.009, EUR, 3.xx and beyond\nSize: 16GB\nCredits: Files: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/alpha27/5a7f5e604d1459d574a4/PPSA04921.exfat"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/3lzz5yXSNV"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/jbxlnf2iru28"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/q0ly5coo85g9"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/akslwwr6w9u0"
+        }
+      ],
+      "sizeBytes": 17179869184
+    },
+    {
+      "titleId": "PPSA14396",
+      "title": "METAL GEAR SOLID 2 Sons of Liberty Master Collection",
+      "version": "v02.100",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/METAL_GEAR_SOLID_2_Sons_of_Liberty_Master_Collection.avif",
+      "description": "Builds: Standard 7.xx, 4.xx BackPort\nTags: PPSA14396, v02.100, USA, Standard (7.xx) + 4.xx BackPort\nSize: 11GB\nCredits: Files: High-Speed007; Backport: DecKerr97 & BestPig\nHow to play: Saves Fix included.",
+      "downloadLinks": [
+        {
+          "name": "Standard 7.xx - AkiraBox",
+          "url": "https://akirabox.com/gXeGOoWXPGAa/file"
+        },
+        {
+          "name": "Standard 7.xx - VikingFile",
+          "url": "https://vikingfile.com/f/9zW6FLVEd9"
+        },
+        {
+          "name": "Standard 7.xx - DataNodes",
+          "url": "https://datanodes.to/haxe3he399w3"
+        },
+        {
+          "name": "Standard 7.xx - FileKeeper",
+          "url": "https://filekeeper.net/3bfen1djgf3t"
+        },
+        {
+          "name": "Standard 7.xx - DataVault",
+          "url": "https://datavaults.co/khwbrxcqz1em"
+        },
+        {
+          "name": "4.xx BackPort - Filed",
+          "url": "https://fileditchfiles.st/alpha27/98469d5e3118f7d1cf3c/PPSA14396.exfat"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/xgNckrq4g6"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/sjj63j3h1t96"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/e8c8sw0s574u"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/9vx9tnijaqx1"
+        }
+      ],
+      "sizeBytes": 11811160064
+    },
+    {
+      "titleId": "PPSA14404",
+      "title": "METAL GEAR SOLID 3 Snake Eater Master Collection",
+      "version": "v03.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/METAL_GEAR_SOLID_3_Snake_Eater_Master_Collection.avif",
+      "description": "Builds: Standard 5.xx, 4.xx BackPort\nTags: PPSA14404, v03.002, USA, Standard (5.xx) + 4.xx BackPort\nSize: 15GB\nCredits: Files: High-Speed007; Backport: DecKerr97 & BestPig\nHow to play: Saves Fix included.",
+      "downloadLinks": [
+        {
+          "name": "Standard 5.xx - AkiraBox",
+          "url": "https://akirabox.com/jJD3VL8KEGa5/file"
+        },
+        {
+          "name": "Standard 5.xx - VikingFile",
+          "url": "https://vikingfile.com/f/8I1HNZw4xE"
+        },
+        {
+          "name": "Standard 5.xx - DataNodes",
+          "url": "https://datanodes.to/q1ng2y4s3d03"
+        },
+        {
+          "name": "Standard 5.xx - FileKeeper",
+          "url": "https://filekeeper.net/gc051aswlxq1"
+        },
+        {
+          "name": "Standard 5.xx - DataVault",
+          "url": "https://datavaults.co/ib30w0v403u1"
+        },
+        {
+          "name": "4.xx BackPort - Filed",
+          "url": "https://fileditchfiles.st/alpha27/987ee3c10c6dbc677bf3/PPSA14404.exfat"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/hC9C2yZu2C"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/i70l1hbr22bp"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/rztkjc8xe0cq"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/ejxcmn4hk1a6"
+        }
+      ],
+      "sizeBytes": 16106127360
+    },
+    {
       "titleId": "PPSA02633",
-      "title": "Street Fighter 6 1-3 Fighters Edition",
+      "title": "Street Fighter 6 Years 1-3 Fighters Edition",
       "version": "v01.000.028",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Street_Fighter_6_1_3_FE.jpg",
@@ -634,108 +868,6 @@
         }
       ],
       "sizeBytes": 15032385536
-    },
-    {
-      "titleId": "PPSA14396",
-      "title": "METAL GEAR SOLID 2 Sons of Liberty Master Collection",
-      "version": "v02.100",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/METAL_GEAR_SOLID_2_Sons_of_Liberty_Master_Collection.avif",
-      "description": "Builds: Standard 7.xx, 4.xx BackPort\nTags: PPSA14396, v02.100, USA, Standard (7.xx) + 4.xx BackPort\nSize: 11GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "Standard 7.xx - AkiraBox",
-          "url": "https://akirabox.com/gXeGOoWXPGAa/file"
-        },
-        {
-          "name": "Standard 7.xx - VikingFile",
-          "url": "https://vikingfile.com/f/9zW6FLVEd9"
-        },
-        {
-          "name": "Standard 7.xx - DataNodes",
-          "url": "https://datanodes.to/haxe3he399w3"
-        },
-        {
-          "name": "Standard 7.xx - FileKeeper",
-          "url": "https://filekeeper.net/3bfen1djgf3t"
-        },
-        {
-          "name": "Standard 7.xx - DataVault",
-          "url": "https://datavaults.co/khwbrxcqz1em"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/5pVzNAk2Z37w/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/diy1DFZPtZ"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/i7wy0q3pdh0d"
-        },
-        {
-          "name": "4.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/6pyax9xt8bb8"
-        },
-        {
-          "name": "4.xx BackPort - DataVault",
-          "url": "https://datavaults.co/ntk3lqarb5e2"
-        }
-      ],
-      "sizeBytes": 11811160064
-    },
-    {
-      "titleId": "PPSA14404",
-      "title": "METAL GEAR SOLID 3 Snake Eater Master Collection",
-      "version": "v03.002",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/METAL_GEAR_SOLID_3_Snake_Eater_Master_Collection.avif",
-      "description": "Builds: Standard 5.xx, 4.xx BackPort\nTags: PPSA14404, v03.002, USA, Standard (5.xx) + 4.xx BackPort\nSize: 15GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "Standard 5.xx - AkiraBox",
-          "url": "https://akirabox.com/jJD3VL8KEGa5/file"
-        },
-        {
-          "name": "Standard 5.xx - VikingFile",
-          "url": "https://vikingfile.com/f/8I1HNZw4xE"
-        },
-        {
-          "name": "Standard 5.xx - DataNodes",
-          "url": "https://datanodes.to/q1ng2y4s3d03"
-        },
-        {
-          "name": "Standard 5.xx - FileKeeper",
-          "url": "https://filekeeper.net/gc051aswlxq1"
-        },
-        {
-          "name": "Standard 5.xx - DataVault",
-          "url": "https://datavaults.co/ib30w0v403u1"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/vgKGxXWwqG8Q/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/vaUuYaFShf"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/m6h5jnck0q5b"
-        },
-        {
-          "name": "4.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/6bxq0w4bnf6c"
-        },
-        {
-          "name": "4.xx BackPort - DataVault",
-          "url": "https://datavaults.co/mg4lh0jddbsh"
-        }
-      ],
-      "sizeBytes": 16106127360
     },
     {
       "titleId": "PPSA09790",
@@ -21696,5 +21828,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-02T02:24:53.803Z"
+  "_generated": "2026-09-03T02:31:31.602Z"
 }
