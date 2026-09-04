@@ -3,6 +3,254 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA01913",
+      "title": "The Persistence Enhanced Edition",
+      "version": "v01.600",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Persistence_Enhanced.webp",
+      "description": "Tags: PPSA01913, v01.600, EUR, 2.xx and beyond\nSize: 5GB\nCredits: Files: Tsuramatsu & amRAM1312",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/balpha13/39c03c07f128fb85cac3/PPSA01913.exfat"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/bu2bMT3EDc"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/tbzvx4x2l2gg"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/kz43uvkp58aj"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/97z2gwl2r7vh"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
+      "titleId": "PPSA05975",
+      "title": "BloodRayne Revamped 2",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/BloodRayne_Revamped_2.avif",
+      "description": "Tags: PPSA05975, v01.001, EUR, 3.xx and beyond\nSize: 13GB\nCredits: Files: Tsuramatsu & amRAM1312",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/balpha13/0baedb39b96214f8e75d/PPSA05975.exfat"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/J1XEghGIgu"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/mx6ej7h43soh"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/6xkzw9uhq8tf"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/j9gvzb55bsk1"
+        }
+      ],
+      "sizeBytes": 13958643712
+    },
+    {
+      "titleId": "PPSA14198",
+      "title": "Tour de France 2023",
+      "version": "v01.005",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Tour_de_France_2023.jpg",
+      "description": "Tags: PPSA14198, v01.005, EUR, 4.xx BackPort\nSize: 25GB\nCredits: Files: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/balpha13/c2359e3d9e7795ecfcb2/PPSA14198.exfat"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/lALhn05BCD"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/64yo1k5skk50"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/tvx9yrdfln76"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/zsyelghmhdp2"
+        }
+      ],
+      "sizeBytes": 26843545600
+    },
+    {
+      "titleId": "PPSA03150",
+      "title": "WWE 2K22 nWo 4-Life Edition",
+      "version": "v01.021",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/WWE_2K22.avif",
+      "description": "Tags: PPSA03150, v01.021, EUR, DLCs Merged, 4.xx and beyond\nSize: 52GB\nCredits: Files: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/balpha13/81465658a1e03a663458/PPSA03150.exfat"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/KnZAZF7asw"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/zdcg5iakx83e"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/sm8vvpmgqzk7"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/adeaywn019li"
+        }
+      ],
+      "sizeBytes": 55834574848
+    },
+    {
+      "titleId": "PPSA04703",
+      "title": "Ever Forward",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ever_Forward.avif",
+      "description": "Tags: PPSA04703, v01.000, USA, 3.xx and beyond\nSize: 3GB\nCredits: Files: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/balpha13/5e656726609cb92d331c/PPSA04703.exfat"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/iR4VgLeO2v"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/8xrs7z8eppvy"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/rwy78t31owtp"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/1ldk0i7b2wdr"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA02891",
+      "title": "On The Road The Truck Simulator",
+      "version": "v01.000.009",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/On_The_Road_The_Truck_Simulator.avif",
+      "description": "Tags: PPSA02891, v01.000.009, USA, 4.xx BackPort\nSize: 6GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/balpha13/cb4796440611dee10846/PPSA02891.exfat"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/5C7bazDqbx"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/ny7bq9d7beiw"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/65szixn1xqsh"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/y7ibm7a5a6zk"
+        }
+      ],
+      "sizeBytes": 6442450944
+    },
+    {
+      "titleId": "PPSA06147",
+      "title": "Furi Modore Edition",
+      "version": "v01.007.225",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Furi_ME.avif",
+      "description": "Tags: PPSA06147, v01.007.225, USA, DLCs Merged, 4.xx and beyond\nSize: 2GB\nCredits: Files: High-Speed007; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/balpha13/84e36172d4c677209123/PPSA06147.exfat"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/0P3d1szYcR"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/wdrrydnrwiq0"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/hag3vrdaox4i"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/vct6ewkd6p0c"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
+      "titleId": "PPSA24781",
+      "title": "Dreamcore",
+      "version": "v01.000.008",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dreamcore.jpg",
+      "description": "Tags: PPSA24781, v01.000.008, USA, 4.xx BackPork\nSize: 11GB\nCredits: Files: Amiibohound; Backport: BestPig",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/balpha13/f85267a2667e00536cd5/PPSA24781.exfat"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/bvNoyBIosJ"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/8mzsr872ypgi"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/tivtyk6h1pag"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/sg59za6jn6yz"
+        }
+      ],
+      "sizeBytes": 11811160064
+    },
+    {
       "titleId": "PPSA03999",
       "title": "Tails of Iron",
       "version": "v01.000",
@@ -21828,5 +22076,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-03T02:31:31.602Z"
+  "_generated": "2026-09-04T02:27:30.204Z"
 }
