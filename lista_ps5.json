@@ -3,6 +3,130 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA05916",
+      "title": "BloodRayne Revamped",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/BloodRayne_Revamped.jpg",
+      "description": "Tags: PPSA05916, v01.001, EUR, 3.xx and beyond\nSize: 6GB\nCredits: Files: Tsuramatsu & amRAM1312",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/balpha14/f796f5aa00b7bd2262c6/PPSA05916.exfat"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/e9eoVzS1hb"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/rj79m4f45nvu"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/6i46camrb5zc"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/eixqx0ycw7b6"
+        }
+      ],
+      "sizeBytes": 6442450944
+    },
+    {
+      "titleId": "PPSA07645",
+      "title": "Fallen Legion Rise to Glory",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Fallen_Legion_Rise_to_Glory.avif",
+      "description": "Tags: PPSA07645, v01.000, ASIA, 4.xx BackPort\nSize: 1GB\nCredits: Files: DecKerr97; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/balpha14/1a20ff9dd2623859d1eb/PPSA07645.exfat"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/Sa2X8vJQ3i"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/22nv7sltji7s"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/lnqc6ifwc0vl"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/w91sm687ssv3"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA13865",
+      "title": "CUSTOM MECH WARS Ultimate Edition",
+      "version": "v01.160",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/CUSTOM_MECH_WARS_Ultimate_Edition.avif",
+      "description": "Tags: PPSA13865, v01.160, JPN, DLCs Merged, 4.xx BackPort\nSize: 6GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/balpha14/8e52a125b5142e897d77/PPSA13865.exfat"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/Qx4IbyYUHB"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/nyrj5hoenn1f"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/oq3id1vgdjdd"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/m05b82ko04ns"
+        }
+      ],
+      "sizeBytes": 6442450944
+    },
+    {
+      "titleId": "PPSA04618",
+      "title": "F1 22 Championship Edition",
+      "version": "v01.019",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/F1_22.avif",
+      "description": "Tags: PPSA04618, v01.019, EUR, DLCs Merged, 4.xx BackPort\nSize: 51GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/balpha14/caf9480c7dd6302d02ad/PPSA04618.exfat"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/eoqHJf0esZ"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/syuedpmgzji5"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ozpurokyrxvl"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/hyxsleaufja3"
+        }
+      ],
+      "sizeBytes": 54760833024
+    },
+    {
       "titleId": "PPSA01913",
       "title": "The Persistence Enhanced Edition",
       "version": "v01.600",
@@ -70,7 +194,7 @@
       "version": "v01.005",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Tour_de_France_2023.jpg",
-      "description": "Tags: PPSA14198, v01.005, EUR, 4.xx BackPort\nSize: 25GB\nCredits: Files: DecKerr97",
+      "description": "Tags: PPSA14198, v01.005, EUR, 4.xx BackPort\nSize: 25GB\nCredits: Files: DecKerr97; Backport: DecKerr97",
       "downloadLinks": [
         {
           "name": "Filed",
@@ -101,7 +225,7 @@
       "version": "v01.021",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/WWE_2K22.avif",
-      "description": "Tags: PPSA03150, v01.021, EUR, DLCs Merged, 4.xx and beyond\nSize: 52GB\nCredits: Files: DecKerr97; DLC: Pippo",
+      "description": "Tags: PPSA03150, v01.021, EUR, DLCs Merged, 4.xx and beyond\nSize: 52GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo",
       "downloadLinks": [
         {
           "name": "Filed",
@@ -492,6 +616,10 @@
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Street_Fighter_6_1_3_FE.jpg",
       "description": "Tags: PPSA02633, v01.000.028, EUR, DLCs Merged, 4.xx BackPort\nSize: 200GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DecKerr97",
       "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/BnkmWv8N6GR0/file"
+        },
         {
           "name": "VikingFile",
           "url": "https://vikingfile.com/f/DNd7ZwfELt"
@@ -22076,5 +22204,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-04T02:27:30.204Z"
+  "_generated": "2026-09-05T02:28:38.615Z"
 }
