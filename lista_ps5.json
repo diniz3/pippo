@@ -3,6 +3,223 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA16163",
+      "title": "The Casting of Frank Stone",
+      "version": "v01.012",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Casting_of_Frank_Stone.avif",
+      "description": "Tags: PPSA16163, v01.012, USA, 4.xx BackPort\nSize: 94GB\nCredits: Files: Deckerr97; Backport: Deckerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/1RgzR9axV3bp/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/WBbucQIIr2"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/ic8a0ty4fguj"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/px8locee3lwu"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/uw93fujpimji"
+        }
+      ],
+      "sizeBytes": 100931731456
+    },
+    {
+      "titleId": "PPSA18176",
+      "title": "Hello Kitty Island Adventure",
+      "version": "v02.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Hello_Kitty_Island_Adventure.avif",
+      "description": "Tags: PPSA18176, v02.000, EUR, DLCs Merged, 4.xx BackPort\nSize: 4GB\nCredits: Files: Deckerr97 & Dunaevnick; Backport: Deckerr97 & dunaevnick; DLC: Deckerr97 & Dunaevnick",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/rk9zKWLOvz0l/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/MhxGXGvJ69"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/gf6tvcfpvogo"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/97vt1pumbto3"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/q9lx32qo96nd"
+        }
+      ],
+      "sizeBytes": 4294967296
+    },
+    {
+      "titleId": "PPSA06408",
+      "title": "Trifox",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Trifox.avif",
+      "description": "Tags: PPSA06408, v01.002, EUR, 4.xx BackPort\nSize: 5GB\nCredits: Files: Deckerr97 & Dunaevnick; Backport: Deckerr97 & dunaevnick",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/E1x3AWL9gGyk/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/OdRX7sDeqe"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/a3xep9r78g7u"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/wa34mxnln8hr"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/fkyfq0kwk42u"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
+      "titleId": "PPSA02664",
+      "title": "Alex Kidd in Miracle World DX",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Alex_Kidd_in_Miracle_World_DX.webp",
+      "description": "Tags: PPSA02664, v01.004, EUR, 2.xx and beyond\nSize: 1GB\nCredits: Files: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/vgKGxX6J2G8Q/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/6vi32LCGPw"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/ycvyccho46f3"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/vryucz59gv6z"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/z4v6547d6yj5"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA02817",
+      "title": "Curved Space",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Curved_Space.webp",
+      "description": "Tags: PPSA02817, v01.000, USA, 2.xx and beyond\nSize: 1GB\nCredits: Files: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/2WVGrdPE43kx/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/5iwkikcYSa"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/5lb8ne1f3qbm"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ehqf1q1gunhr"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/poiqhbcdyx27"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA03117",
+      "title": "Crazy Chicken Shooter Bundle",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Crazy_Chicken_Shooter_Bundle.png",
+      "description": "Tags: PPSA03117, v01.000, USA, 2.xx and beyond\nSize: 384MB\nCredits: Files: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/M2BGwPZBNmj4/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/JybxyEu3SC"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/ylgjbsk6crks"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/zn2bz7e1ybwk"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/a0ukrvf1jnp8"
+        }
+      ],
+      "sizeBytes": 402653184
+    },
+    {
+      "titleId": "PPSA03174",
+      "title": "Astria Ascending",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Astria_Ascending.jpg",
+      "description": "Tags: PPSA03174, v01.000, USA, 3.xx and beyond\nSize: 21GB\nCredits: Files: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/QN9mEqL1ym6d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/odZzVu3Pog"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/9p2c6x8udpo6"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/t99xxxssrxy6"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/jydkp2gagtp4"
+        }
+      ],
+      "sizeBytes": 22548578304
+    },
+    {
       "titleId": "PPSA05496",
       "title": "LEGO Builders Journey",
       "version": "v03.002.583",
@@ -22421,5 +22638,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-06T02:24:50.059Z"
+  "_generated": "2026-09-07T02:21:47.064Z"
 }
