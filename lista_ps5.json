@@ -3,6 +3,169 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA06955",
+      "title": "Granblue Fantasy Relink Special Edition",
+      "version": "v01.003.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Granblue_Fantasy_Relink_SE.avif",
+      "description": "Builds: DLC\nTags: PPSA06955, v01.003.002, EUR, 4.xx BackPort\nSize: 90GB\nCredits: Files: DUPLEX & VanBuuren; Backport: Deckerr97; DLC: DUPLEX & VanBuuren",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/b5OzdVnOamB8/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/wsV4jS9pLA"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/wi0fqwxy4ghy"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/pxo4f7b1uk6p"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/4fjrayme8hw6"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/sc8t2gimxn6b"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/gm7ngqdmtjqo"
+        }
+      ],
+      "sizeBytes": 96636764160
+    },
+    {
+      "titleId": "PPSA04489",
+      "title": "Teenage Mutant Ninja Turtles The Cowabunga Collection",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TMNT_The_Cowabunga_Collection.webp",
+      "description": "Tags: PPSA04489, v01.004, USA, 4.xx and beyond\nSize: 8GB\nCredits: Files: High-Speed007",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/LJlGn7QZAm15/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/w1eM54po3f"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/z0ku8jkzkmua"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/yy0oe2jgjwgz"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/u99r0hmiu438"
+        }
+      ],
+      "sizeBytes": 8589934592
+    },
+    {
+      "titleId": "PPSA05626",
+      "title": "Fobia St Dinfna Hotel",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Fobia_St_Dinfna_Hotel.avif",
+      "description": "Tags: PPSA05626, v01.000, EUR, 4.xx and beyond\nSize: 7GB\nCredits: Files: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/5pVzNAZod37w/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/zSixXzzjEx"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/9khuaut88lrj"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/tjz7ugflayvn"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/ac43mkpg5obn"
+        }
+      ],
+      "sizeBytes": 7516192768
+    },
+    {
+      "titleId": "PPSA06328",
+      "title": "Arkanoid Eternal Battle Limited Edition",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Arkanoid_Eternal_Battle_Limited_Edition.jpg",
+      "description": "Tags: PPSA06328, v01.002, USA, DLCs Merged, 4.xx BackPort\nSize: 1GB\nCredits: Files: TRIFECTA; Backport: TRIFECTA; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/dkD3Yw7D7GLQ/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/0SnPFvyab8"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/dccd2pg259yq"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/2ssme7nwzcoh"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/8cu5rxrokrzn"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA04477",
+      "title": "Dakar Desert Rally Deluxe Edition",
+      "version": "v02.003.245",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dakar_Desert_Rally_DE.avif",
+      "description": "Tags: PPSA04477, v02.003.245, EUR, DLCs Merged, 4.xx and beyond\nSize: 41GB\nCredits: Files: High-Speed007; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/LK0G1b8X9m91/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/HFMI9qIlix"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/c2fjyquoam2i"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/jafn95hqh656"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/bgizhut85vd4"
+        }
+      ],
+      "sizeBytes": 44023414784
+    },
+    {
       "titleId": "PPSA16163",
       "title": "The Casting of Frank Stone",
       "version": "v01.012",
@@ -22638,5 +22801,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-07T02:21:47.064Z"
+  "_generated": "2026-09-08T02:34:14.733Z"
 }
