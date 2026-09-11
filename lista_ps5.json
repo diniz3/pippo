@@ -3,6 +3,251 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA19943",
+      "title": "Big Helmet Heroes",
+      "version": "v01.000.400",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Big_Helmet_Heroes.avif",
+      "description": "Tags: PPSA19943, v01.000.400, EUR, 4.xx BackPort\nSize: 10GB\nCredits: Files: DecKerr97 & dunaevnick; Backport: DecKerr97 & dunaevnick",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/2WVGrd4gk3kx/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/ctEq8Vs0Uy"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/puumsv93b7qc"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/7zcna0jp1hep"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/k5yoozng41d6"
+        }
+      ],
+      "sizeBytes": 10737418240
+    },
+    {
+      "titleId": "PPSA09845",
+      "title": "Roadcraft",
+      "version": "v01.009.610",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Roadcraft.avif",
+      "description": "Builds: 7.xx BackPort, 4.xx BackPort\nTags: PPSA09845, v01.009.610, USA, DLCs Merged, 7.xx BackPort + 4.xx BackPort\nSize: 55GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "7.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/EL73g0e48z9B/file"
+        },
+        {
+          "name": "7.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/YxeiqVPYTc"
+        },
+        {
+          "name": "7.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/2cegd5ys7dw1"
+        },
+        {
+          "name": "7.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/6nrlbrjt22h2"
+        },
+        {
+          "name": "7.xx BackPort - DataVault",
+          "url": "https://datavaults.co/awltdfb35xwx"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/EL73g7oQy39B/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/1zmTfofyPD"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/2tic2h2w4f1y"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/7ewk757u133z"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/rry1vdtgpo9z"
+        }
+      ],
+      "sizeBytes": 59055800320
+    },
+    {
+      "titleId": "PPSA10665",
+      "title": "Final Fantasy XVI Complete Edition",
+      "version": "v01.003.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Final_Fantasy_XVI_CE.avif",
+      "description": "Tags: PPSA10665, v01.003.004, EUR, DLCs Merged, 4.xx BackPort\nSize: 296GB\nCredits: Files: DUPLEX & SiESPta; DLC: DUPLEX & SiESPta",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0PdzyX6PL3eA/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/AHoMQl0h4T"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/nkawlbpure5d"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/w86bpc2cnqp9"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/0j5wv87woird"
+        }
+      ],
+      "sizeBytes": 317827579904
+    },
+    {
+      "titleId": "PPSA02343",
+      "title": "It Takes Two",
+      "version": "v01.200",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/It_Takes_Two.webp",
+      "description": "Tags: PPSA02343, v01.200, EUR, 2.xx and beyond\nSize: 41GB\nCredits: Files: DUPLEX & Dorukhan & SuperPSX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0JgG756683oY/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/8SDdNA3tWz"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/djnbk746nz6i"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/6wn7cxcf4gi8"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/c7or294vvmhe"
+        }
+      ],
+      "sizeBytes": 44023414784
+    },
+    {
+      "titleId": "PPSA02688",
+      "title": "Infliction Extended Cut",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Infliction_Extended_Cut.webp",
+      "description": "Tags: PPSA02688, v01.003, USA, 2.xx and beyond\nSize: 4GB\nCredits: Files: Whitehawkx & SuperPSX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/E9Qz9XDD63OL/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/jI7lh0TiQk"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/anpnsrgihcbx"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/1jgmccfoo8it"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/rl18g0niffoa"
+        }
+      ],
+      "sizeBytes": 4294967296
+    },
+    {
+      "titleId": "PPSA02680",
+      "title": "Dungeons Dragons Dark Alliance Deluxe Edition",
+      "version": "v01.009",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dungeons_Dragons_Dark_Alliance.webp",
+      "description": "Builds: DLC\nTags: PPSA02680, v01.009, USA, 2.xx and beyond\nSize: 54GB\nCredits: Files: Highspeed33 & SPX & VanBuuren; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/vgKGxX554G8Q/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/8B2GcpqvAe"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/cmq1ut6fvyu8"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/r9fstosebovf"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/9z1184u2wxfu"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/7ppmi2iuoqny"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/mimcox89pxsp"
+        }
+      ],
+      "sizeBytes": 57982058496
+    },
+    {
+      "titleId": "PPSA04702",
+      "title": "Away The Survival Series",
+      "version": "v01.009",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Away_The_Survival_Series.avif",
+      "description": "Tags: PPSA04702, v01.009, EUR, 2.xx and beyond\nSize: 7GB\nCredits: Files: DUPLEX & Dorukhan & SuperPSX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/XkrzoK44kzBO/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/1I1E5oCRWu"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/dd8pxyr9521g"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/a7dkvbd5gag8"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/pa60tgg5uujc"
+        }
+      ],
+      "sizeBytes": 7516192768
+    },
+    {
       "titleId": "PPSA07326",
       "title": "Wonder Boy The Dragons Trap",
       "version": "v01.001",
@@ -15612,37 +15857,6 @@
       "sizeBytes": 163208757248
     },
     {
-      "titleId": "PPSA09845",
-      "title": "Roadcraft",
-      "version": "v01.009.610",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Roadcraft.avif",
-      "description": "Builds: 7.xx BackPort\nTags: PPSA09845, v01.009.610, USA, DLCs Merged, 7.xx BackPort\nSize: 55GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: kstuff can be paused after 120sec or the game will crash. Game can take sometime for loading depending on your SSD/NVMe.",
-      "downloadLinks": [
-        {
-          "name": "7.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/EL73g0e48z9B/file"
-        },
-        {
-          "name": "7.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/YxeiqVPYTc"
-        },
-        {
-          "name": "7.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/2cegd5ys7dw1"
-        },
-        {
-          "name": "7.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/6nrlbrjt22h2"
-        },
-        {
-          "name": "7.xx BackPort - DataVault",
-          "url": "https://datavaults.co/awltdfb35xwx"
-        }
-      ],
-      "sizeBytes": 59055800320
-    },
-    {
       "titleId": "PPSA05684",
       "title": "Uncharted Legacy of Thieves Collection",
       "version": "v01.002",
@@ -16699,37 +16913,6 @@
         }
       ],
       "sizeBytes": 68719476736
-    },
-    {
-      "titleId": "PPSA10665",
-      "title": "Final Fantasy XVI Complete Edition",
-      "version": "v01.003.004",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Final_Fantasy_XVI_CE.avif",
-      "description": "Tags: PPSA10665, v01.003.004, EUR, DLCs Merged, 6.xx and beyond\nSize: 296GB\nCredits: Files: DUPLEX & SiESPta; DLC: DUPLEX & SiESPta\nHow to play: The game could stutter during cutscenes depending on your USB / SSD, specially toward the end of a cutscene when loading assets for the next level.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/l5YzM4qkQ3yO/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/P40vFmid9b"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/3lt6f733gvtp"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/up08zijhwmur"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/w7vub5auc0z7"
-        }
-      ],
-      "sizeBytes": 317827579904
     },
     {
       "titleId": "PPSA03016",
@@ -23142,5 +23325,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-10T02:37:08.392Z"
+  "_generated": "2026-09-11T02:30:43.078Z"
 }
