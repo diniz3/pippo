@@ -3,6 +3,173 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA01911",
+      "title": "Final Fantasy VII Remake Intergrade Deluxe Edition",
+      "version": "v01.005",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Final_Fantasy_VII_Remake_Intergrade_DE.avif",
+      "description": "Builds: DLC\nTags: PPSA01911, v01.005, EUR, 2.xx and beyond\nSize: 201GB\nCredits: Files: DUPLEX; DLC: DUPLEX\nHow to play: Game Modified for make DLCs USA work into EUR.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0rpmvpZELzRg/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/q1KhtCNQ1P"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/7tkrrtuci95z"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/mkw6h13hdyg3"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/mbzwoc33192b"
+        },
+        {
+          "name": "DLC - AkiraBox",
+          "url": "https://akirabox.com/l5YzM4gjR3yO/file"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/ca6nn1qc7l9m"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/uurk9zsbfsaa"
+        }
+      ],
+      "sizeBytes": 215822106624
+    },
+    {
+      "titleId": "PPSA05786",
+      "title": "Kid A Mnesia Exhibition",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Kid_A_Mnesia_Exhibition.webp",
+      "description": "Tags: PPSA05786, v01.003, USA, 3.xx and beyond\nSize: 11GB\nCredits: Files: Whitehawkx & Dorukhan84 & SuperPSX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/XkrzoK4nYzBO/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/bchIrFx8en"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/s7bp3msnl6ub"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/4697oi9g01ff"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/y8nutoggecu4"
+        }
+      ],
+      "sizeBytes": 11811160064
+    },
+    {
+      "titleId": "PPSA03979",
+      "title": "Beyond a Steel Sky",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Beyond_a_Steel_Sky.avif",
+      "description": "Tags: PPSA03979, v01.002, EUR, 3.xx and beyond\nSize: 11GB\nCredits: Files: DUPLEX & SuperPSX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/l76mZraXxman/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/6KvY06MmJZ"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/bf44yampzhjx"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/j1gjdjij8r5b"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/7wn964jj1084"
+        }
+      ],
+      "sizeBytes": 11811160064
+    },
+    {
+      "titleId": "PPSA04334",
+      "title": "Fatal Frame Maiden of Black Water Deluxe Edition",
+      "version": "v01.000.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Fatal_Frame_Maiden_of_Black_Water_DE.avif",
+      "description": "Tags: PPSA04334, v01.000.004, USA, DLCs Merged, 3.xx and beyond\nSize: 21GB\nCredits: Files: Whitehawkx & Dorukhan84 & SuperPSX; DLC: Pippo\nHow to play: All DLCs has been proper added and Merged, Bonus Soundtracks included separately.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0JgG756RZ3oY/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/DPQIttFzb3"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/gfp2n4ghieyu"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/paloyrcc62fb"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/89ma9gpf57fc"
+        }
+      ],
+      "sizeBytes": 22548578304
+    },
+    {
+      "titleId": "PPSA03973",
+      "title": "Jumanji The Video Game",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Jumanji_The_Video_Game.avif",
+      "description": "Tags: PPSA03973, v01.001, EUR, 2.xx and beyond\nSize: 2GB\nCredits: Files: DUPLEX & SuperPSX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/QN9mEqPlQm6d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/9YNpG2zoXb"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/rr90mvzwr3c8"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/mdskzvgvpinl"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/mqs4wksuzb38"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
       "titleId": "PPSA19943",
       "title": "Big Helmet Heroes",
       "version": "v01.000.400",
@@ -17844,37 +18011,6 @@
       "sizeBytes": 205084688384
     },
     {
-      "titleId": "PPSA01903",
-      "title": "Final Fantasy VII Remake Intergrade",
-      "version": "v01.003",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Final_Fantasy_VII_Remake_Intergrade.jpg",
-      "description": "Builds: DLC\nTags: PPSA01903, v01.003, USA, 2.xx and beyond\nSize: 209GB\nCredits: Files: DUPLEX; DLC: DUPLEX",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/2WVGr817k3kx/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/NKPbkEQaXg"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/ksw046j36blp"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/l5YzM4gjR3yO/file"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/ca6nn1qc7l9m"
-        }
-      ],
-      "sizeBytes": 224412041216
-    },
-    {
       "titleId": "PPSA07230",
       "title": "Assassins Creed Mirage",
       "version": "v01.012",
@@ -23325,5 +23461,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-11T02:30:43.078Z"
+  "_generated": "2026-09-12T02:39:25.170Z"
 }
