@@ -3,6 +3,192 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03589",
+      "title": "WRC 10 Deluxe Edition",
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/WRC_10_Deluxe_Edition_DE.avif",
+      "description": "Tags: PPSA03589, v01.007, EUR, DLCs Merged, 4.xx and beyond\nSize: 66GB\nCredits: Files: DecKerr97; DLC: Pippo & DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/ex5z25KA83Kq/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/xhuY6lAqNz"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/ia2xzv9wd6od"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/e788hk7oo38m"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/lsw0sclc4lsb"
+        }
+      ],
+      "sizeBytes": 70866960384
+    },
+    {
+      "titleId": "PPSA28795",
+      "title": "Snoopy and The Great Mystery Club Deluxe Edition",
+      "version": "v01.000.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Snoopy_and_The_Great_Mystery_Club_DE.avif",
+      "description": "Tags: PPSA28795, v01.000.002, USA, DLCs Merged, 4.xx BackPort\nSize: 8GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/b5OzdVOP8mB8/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/2Z1QfyXpJd"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/yau5yps47vsa"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/rbswnpo99nms"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/773e2181buag"
+        }
+      ],
+      "sizeBytes": 8589934592
+    },
+    {
+      "titleId": "PPSA05683",
+      "title": "Tropico 6 El Prez Edition",
+      "version": "v16.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Tropico_6.avif",
+      "description": "Tags: PPSA05683, v16.001, USA, DLCs Merged, 3.xx and beyond\nSize: 18GB\nCredits: Files: BedroZen & Dorukhan & SuperPSX; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/Z9dzBPpRlmk1/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/ImG6KQhKsx"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/4u6cnbxxxsah"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/2q07hpjazz9l"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/4icnu1ffglzv"
+        }
+      ],
+      "sizeBytes": 19327352832
+    },
+    {
+      "titleId": "PPSA01900",
+      "title": "Hunting Simulator 2",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Hunting_Simulator_2.avif",
+      "description": "Tags: PPSA01900, v01.002, EUR, DLCs Merged, 2.xx and beyond\nSize: 14GB\nCredits: Files: BedroZen & Dorukhan & SuperPSX; DLC: Pippo\nHow to play: Rangers Life has been unlocked.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/9AqGQZnqJmMn/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/HOAw9rQqXC"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/nms4nmtivl3v"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/gla2xle7po1e"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/ikz7y3wy22m3"
+        }
+      ],
+      "sizeBytes": 15032385536
+    },
+    {
+      "titleId": "PPSA04071",
+      "title": "Bassmaster Fishing 2022",
+      "version": "v01.020",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Bassmaster_Fishing_2022.jpg",
+      "description": "Tags: PPSA04071, v01.020, EUR, 3.xx and beyond\nSize: 60GB\nCredits: Files: DUPLEX & C4our20 & SPX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/APVmab2PR3Xo/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/uVLS83aoeY"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/i4j79b7dmsa5"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/glpd4uks8ubu"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/efmhlevcfc5u"
+        }
+      ],
+      "sizeBytes": 64424509440
+    },
+    {
+      "titleId": "PPSA05347",
+      "title": "Record of Lodoss War Deedlit in Wonder Labyrinth",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Record_of_Lodoss_War_Deedlit_in_Wonder_Labyrinth.avif",
+      "description": "Tags: PPSA05347, v01.001, USA, 3.xx and beyond\nSize: 388MB\nCredits: Files: BedroZen",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/Zvqzl7B1a3aD/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/IbLEzrmN1A"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/crttshqy8yzs"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/uywmdkee4rpm"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/i8z4ynbo4iws"
+        }
+      ],
+      "sizeBytes": 406847488
+    },
+    {
       "titleId": "PPSA01911",
       "title": "Final Fantasy VII Remake Intergrade Deluxe Edition",
       "version": "v01.005",
@@ -23461,5 +23647,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-12T02:39:25.170Z"
+  "_generated": "2026-09-13T02:38:00.440Z"
 }
