@@ -3,6 +3,274 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03306",
+      "title": "Silt",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Silt.avif",
+      "description": "Tags: PPSA03306, v01.003, EUR, 4.xx and beyond\nSize: 5GB\nCredits: Files: dunaevnick",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/9AqGQZngvmMn/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/TDqd1WBZrW"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/0ueg6xlrk2rh"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/loja8sno9nj3"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/zi8zeu8ow9ym"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
+      "titleId": "PPSA07286",
+      "title": "Road of Death",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Road_of_Death.avif",
+      "description": "Tags: PPSA07286, v01.000, EUR, 4.xx and beyond\nSize: 254MB\nCredits: Files: dunaevnick",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/APVmab24d3Xo/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/o5hN5xZaTx"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/kwyt5gk9vtxg"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/qw11egs2d2ka"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/5g01y33qfqm5"
+        }
+      ],
+      "sizeBytes": 266338304
+    },
+    {
+      "titleId": "PPSA19446",
+      "title": "Boti Byteland Overclocked",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Boti_Byteland_Overclocked.avif",
+      "description": "Tags: PPSA19446, v01.004, EUR, 4.xx BackPort\nSize: 7GB\nCredits: Files: dunaevnick; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/7d5GLZnDl3xR/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/wi24eCR075"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/61cuixaxiwf9"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/1syosr37tsbu"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/tjyras2s2w19"
+        }
+      ],
+      "sizeBytes": 7516192768
+    },
+    {
+      "titleId": "PPSA21607",
+      "title": "The Smurfs Dreams Deluxe Edition",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Smurfs_Dreams_Deluxe_Edition.jpg",
+      "description": "Tags: PPSA21607, v01.002, EUR, DLCs Merged, 4.xx BackPort\nSize: 9GB\nCredits: Files: dunaevnick; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/XkrzoKjDWzBO/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/VaxXh6pMw1"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/27pho75zceek"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/0yyus16gzpp0"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/seqyvxmow6v3"
+        }
+      ],
+      "sizeBytes": 9663676416
+    },
+    {
+      "titleId": "PPSA03190",
+      "title": "MultiVersus",
+      "version": "v01.055",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MultiVersus.jpg",
+      "description": "Tags: PPSA03190, v01.055, EUR, DLCs Merged, 4.xx BackPort\nSize: 59GB\nCredits: Files: dunaevnick; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/7d5GLZnQ53xR/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/mUI8PqgbIh"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/ury2b3ehox2b"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/c8n0inbe8a67"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/031dx2d6gmvo"
+        }
+      ],
+      "sizeBytes": 63350767616
+    },
+    {
+      "titleId": "PPSA03309",
+      "title": "Wreckfest Complete Edition",
+      "version": "v01.022",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Wreckfest_Complete_Edition.jpg",
+      "description": "Tags: PPSA03309, v01.022, EUR, DLCs Merged, 4.xx BackPort\nSize: 57GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/7d5GLZn873xR/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/5XEwLXlNmI"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/fgjt74xaa98d"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/j6pjtur3tmbi"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/bbg6abgcjc5i"
+        }
+      ],
+      "sizeBytes": 61203283968
+    },
+    {
+      "titleId": "PPSA22265",
+      "title": "FANTASIAN Neo Dimension",
+      "version": "v01.300",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/FANTASIAN_Neo_Dimension.avif",
+      "description": "Builds: 7.xx BackPort, 4.xx BackPort\nTags: PPSA22265, v01.300, EUR, 7.xx BackPort + 4.xx BackPort\nSize: 13GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "7.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/wgWGqMRKaG4o/file"
+        },
+        {
+          "name": "7.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/01Nc7Q9vdd"
+        },
+        {
+          "name": "7.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/i41hu7038grq"
+        },
+        {
+          "name": "7.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/twst4q290bad"
+        },
+        {
+          "name": "7.xx BackPort - DataVault",
+          "url": "https://datavaults.co/if9nq11nxyhv"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/0PdzyXel63eA/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/w6qQhVBStr"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/7nm09i50dxj5"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/sc70jwy45x71"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/n3hrv0bz1ie4"
+        }
+      ],
+      "sizeBytes": 13958643712
+    },
+    {
+      "titleId": "PPSA29707",
+      "title": "Football Manager 26 Console Edition",
+      "version": "v01.009",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Football_Manager_26_Console_Edition.png",
+      "description": "Tags: PPSA29707, v01.009, EUR, 4.xx BackPort\nSize: 6GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: This game have only Audio on matchs, no sounds on Menu.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/E1x3AWjQgGyk/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/9ismTYOS3C"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/nwxf65yrrgpr"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/zcne43l05yh6"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/yvm5sum9ud8z"
+        }
+      ],
+      "sizeBytes": 6442450944
+    },
+    {
       "titleId": "PPSA03589",
       "title": "WRC 10 Deluxe Edition",
       "version": "v01.007",
@@ -16509,37 +16777,6 @@
       "sizeBytes": 1073741824
     },
     {
-      "titleId": "PPSA22265",
-      "title": "FANTASIAN Neo Dimension",
-      "version": "v01.300",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/FANTASIAN_Neo_Dimension.avif",
-      "description": "Builds: 7.xx BackPort\nTags: PPSA22265, v01.300, EUR, 7.xx BackPort\nSize: 13GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "7.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/wgWGqMRKaG4o/file"
-        },
-        {
-          "name": "7.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/01Nc7Q9vdd"
-        },
-        {
-          "name": "7.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/i41hu7038grq"
-        },
-        {
-          "name": "7.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/twst4q290bad"
-        },
-        {
-          "name": "7.xx BackPort - DataVault",
-          "url": "https://datavaults.co/if9nq11nxyhv"
-        }
-      ],
-      "sizeBytes": 13958643712
-    },
-    {
       "titleId": "PPSA27616",
       "title": "Bendy and The Ink Machine",
       "version": "v01.000.100",
@@ -23647,5 +23884,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-13T02:38:00.440Z"
+  "_generated": "2026-09-14T02:53:39.107Z"
 }
