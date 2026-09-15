@@ -3,6 +3,130 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA04677",
+      "title": "Five Nights at Freddys Security Breach",
+      "version": "v01.005",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Five_Nights_at_Freddys_Security_Breach.avif",
+      "description": "Tags: PPSA04677, v01.005, EUR, 2.xx and beyond\nSize: 56GB\nCredits: Files: DUPLEX & Dorukhan\nHow to play: Stuttering problem has been fixed.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qw1zebApZGXy/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/zWiCg9rgW6"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/2rz7r2hzvjvc"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/pttk7pso0ann"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/2uqv5lq0882k"
+        }
+      ],
+      "sizeBytes": 60129542144
+    },
+    {
+      "titleId": "PPSA01503",
+      "title": "Bugsnax",
+      "version": "v02.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Bugsnax.webp",
+      "description": "Tags: PPSA01503, v02.000, EUR, 2.xx and beyond\nSize: 16GB\nCredits: Files: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/LJlGn72VAm15/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/x1qZAPCsl0"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/18ew9ej4tmuu"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/7cpbyz2ejz8r"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/lbyma09c3ozq"
+        }
+      ],
+      "sizeBytes": 17179869184
+    },
+    {
+      "titleId": "PPSA02117",
+      "title": "Observer System Redux",
+      "version": "v01.008",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Observer_System_Redux.webp",
+      "description": "Tags: PPSA02117, v01.008, USA, 1.xx and beyond\nSize: 7GB\nCredits: Files: DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/2bJG8b61k3OB/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/ohbyooGfsN"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/il0vpj5d1hjs"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/wvittl77ldtt"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/cniyr43df0ll"
+        }
+      ],
+      "sizeBytes": 7516192768
+    },
+    {
+      "titleId": "PPSA02868",
+      "title": "Mortal Shell Enhanced Edition",
+      "version": "v01.000.008",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mortal_Shell_Enhanced_Edition.webp",
+      "description": "Tags: PPSA02868, v01.000.008, USA, DLCs Merged, 2.xx and beyond\nSize: 8GB\nCredits: Files: Whitehawkx & Dorukhan & SPX; DLC: Pippo\nHow to play: ROTTING CHRIST PACK has been properly added.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/Y2xm0okjaGRO/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/7cmlWAAJT5"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/jshdmurq1yuy"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/slt8ush5rci3"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/4vjs4inkgu1a"
+        }
+      ],
+      "sizeBytes": 8589934592
+    },
+    {
       "titleId": "PPSA03306",
       "title": "Silt",
       "version": "v01.003",
@@ -23884,5 +24008,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-14T02:53:39.107Z"
+  "_generated": "2026-09-15T02:56:13.282Z"
 }
