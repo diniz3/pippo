@@ -3,12 +3,307 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA14251",
+      "title": "Mafia The Old Country Deluxe Edition",
+      "version": "v01.008",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mafia_The_Old_Country_Deluxe_Edition.png",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA14251, v01.008, USA, 4.xx BackPort\nSize: 70GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/vgKGxQE74m8Q/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/RPdYFOidzy"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/y9elvsnj8lat"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ljsrc6z8xq3z"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/j8qt937dzbeg"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/qu7bait0n6f1"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/6lqrq8hbgllg"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/35v0eq123nld"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/2WVGrdLQ93kx/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/zMmAb5k8bH"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/fvt98hxiiaz4"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/12ebsw5s4xnv"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://datavaults.co/czqtsczifv7l"
+        }
+      ],
+      "sizeBytes": 75161927680
+    },
+    {
+      "titleId": "PPSA20397",
+      "title": "Assassins Creed Shadows",
+      "version": "v01.019.076",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Assassins_Creed_Shadows.avif",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA20397, v01.019.076, EUR, 4.xx BackPort\nSize: 294GB\nCredits: Files: DUPLEX & VanBuuren; Backport: DecKerr97; DLC: DUPLEX & VanBuuren\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/QN9mEZRwR36d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/R8VBC1Fjhp"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/v4om96ig02ge"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ez6pamsm0155"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/mr6royiaqwg0"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/t89kg6vfktko"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/ftbgwrowjlhc"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/cqhsvl7zxdyo"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/LJlGn7L16m15/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/ju5I85iEtQ"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/ht2eqdstpro2"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/fp7ewx9ucr4f"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://datavaults.co/rk972p8c5rub"
+        }
+      ],
+      "sizeBytes": 315680096256
+    },
+    {
+      "titleId": "PPSA03016",
+      "title": "Marvels Spider Man 2 Deluxe Edition",
+      "version": "v01.004.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Spider Man_2_Deluxe_Edition.avif",
+      "description": "Builds: Fpkg\nTags: PPSA03016, v01.004.003, USA to EUR Langs, DLCs Merged, 4.xx BackPork\nSize: 254GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/5pVzN4qZ0m7w/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/OhUxRQZ3tC"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/650j7o5e5x1a"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/zsfo3l36z4wv"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/r41io4ijwtl3"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/k0embbM6nmVb/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/rHnfwVQ4qk"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/3mx9iu1pqzik"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/qiho4r31yfp0"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://datavaults.co/dfx4dbqa6wp9"
+        }
+      ],
+      "sizeBytes": 272730423296
+    },
+    {
+      "titleId": "PPSA34299",
+      "title": "WWE 2K26",
+      "version": "v01.006",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/WWE_2K26.avif",
+      "description": "Builds: Fpkg\nTags: PPSA34299, v01.006, USA, DLCs Merged, 4.xx BackPort\nSize: 286GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: Ringside Pass DLCs require Internet Connection instead all other DLCs are unlocked, included Pre-Order. Commentary now is working with v01.006+. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/k0emb0wklzVb/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/ZQFLCyrx90"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/ngk8kfsdes18"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/9pwocp1lghiw"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/88xebe7ingnz"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/EL73g74YY39B/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/0taM3RwXG7"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/cb88l8fsfnh9"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/lvdn0izp2gyo"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://datavaults.co/r42uo6drg8ic"
+        }
+      ],
+      "sizeBytes": 307090161664
+    },
+    {
+      "titleId": "PPSA07570",
+      "title": "Mortal Kombat 1",
+      "version": "v01.010.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mortal_Kombat_1.jpg",
+      "description": "Builds: Standard 9.xx, 4.xx BackPort, DLC, Fpkg Backport\nTags: PPSA07570, v01.010.001, USA, DLC Merged, Standard (9.xx) + 4.xx BackPork\nSize: 306GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pkykzhack\nHow to play: Khaos Reign DLC now is Merged. FPKG atm is only working up to 11.40, use exFAT (Standard & BackPort) if you are above.",
+      "downloadLinks": [
+        {
+          "name": "Standard 9.xx - AkiraBox",
+          "url": "https://akirabox.com/qLQ36x7PlG19/file"
+        },
+        {
+          "name": "Standard 9.xx - VikingFile",
+          "url": "https://vikingfile.com/f/dG8WxebmFB"
+        },
+        {
+          "name": "Standard 9.xx - DataNodes",
+          "url": "https://datanodes.to/czmjw3g4yv0o"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/vgKGxLZ74G8Q/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/RLex2QDQ84"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/jhl00nkysf9e"
+        },
+        {
+          "name": "DLC - AkiraBox",
+          "url": "https://akirabox.com/l76mZ7Wk93an/file"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/uh730my3v73b"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/3eqaxwzujsix"
+        },
+        {
+          "name": "Fpkg Backport - AkiraBox",
+          "url": "https://akirabox.com/1RgzR9DkP3bp/file"
+        },
+        {
+          "name": "Fpkg Backport - VikingFile",
+          "url": "https://vikingfile.com/f/0GZ0v3Pg1O"
+        },
+        {
+          "name": "Fpkg Backport - DataNodes",
+          "url": "https://datanodes.to/cagltvaak9yq"
+        },
+        {
+          "name": "Fpkg Backport - FileKeeper",
+          "url": "https://filekeeper.net/fh0ln7bkzxwg"
+        },
+        {
+          "name": "Fpkg Backport - DataVault",
+          "url": "https://datavaults.co/92alxetvv6ax"
+        }
+      ],
+      "sizeBytes": 328564998144
+    },
+    {
       "titleId": "PPSA02633",
       "title": "Street Fighter 6 Years 1-3 Fighters Edition",
       "version": "v01.000.028",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Street_Fighter_6_1_3_FE.jpg",
-      "description": "Builds: Fpkg\nTags: PPSA02633, v01.000.028, EUR, DLCs Merged, 4.xx BackPort\nSize: 200GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DecKerr97\nHow to play: 200GB (exFAT - All FW) | 93GB (FPKG - Up to 11.40).",
+      "description": "Builds: Fpkg Backport\nTags: PPSA02633, v01.000.028, EUR, DLCs Merged, 4.xx BackPort\nSize: 200GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DecKerr97\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -35,23 +330,23 @@
           "url": "https://theditch.st/nbt9k67x"
         },
         {
-          "name": "Fpkg - AkiraBox",
+          "name": "Fpkg Backport - AkiraBox",
           "url": "https://akirabox.com/vgKGxX256G8Q/file"
         },
         {
-          "name": "Fpkg - VikingFile",
+          "name": "Fpkg Backport - VikingFile",
           "url": "https://vikingfile.com/f/Qqrm6moh1h"
         },
         {
-          "name": "Fpkg - DataNodes",
+          "name": "Fpkg Backport - DataNodes",
           "url": "https://datanodes.to/ii1xho36vkzu"
         },
         {
-          "name": "Fpkg - FileKeeper",
+          "name": "Fpkg Backport - FileKeeper",
           "url": "https://filekeeper.net/5mcsjhprdvbs"
         },
         {
-          "name": "Fpkg - DataVault",
+          "name": "Fpkg Backport - DataVault",
           "url": "https://datavaults.co/c1m0kf8cxc7t"
         }
       ],
@@ -10470,37 +10765,6 @@
       "sizeBytes": 1073741824
     },
     {
-      "titleId": "PPSA34299",
-      "title": "WWE 2K26",
-      "version": "v01.006",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/WWE_2K26.avif",
-      "description": "Tags: PPSA34299, v01.006, USA, DLCs Merged, 4.xx BackPort\nSize: 286GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: Ringside Pass DLCs require Internet Connection instead all other DLCs are unlocked, included Pre-Order. Commentary now is working with v01.006+.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/k0emb0wklzVb/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/ZQFLCyrx90"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/ngk8kfsdes18"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/9pwocp1lghiw"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/88xebe7ingnz"
-        }
-      ],
-      "sizeBytes": 307090161664
-    },
-    {
       "titleId": "PPSA01552",
       "title": "DiRT 5",
       "version": "v06.005",
@@ -11358,45 +11622,6 @@
         }
       ],
       "sizeBytes": 94489280512
-    },
-    {
-      "titleId": "PPSA14251",
-      "title": "Mafia The Old Country Deluxe Edition",
-      "version": "v01.008",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mafia_The_Old_Country_Deluxe_Edition.png",
-      "description": "Builds: DLC\nTags: PPSA14251, v01.008, USA, 4.xx BackPort\nSize: 70GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/vgKGxQE74m8Q/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/RPdYFOidzy"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/y9elvsnj8lat"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/ljsrc6z8xq3z"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/j8qt937dzbeg"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/qu7bait0n6f1"
-        },
-        {
-          "name": "DLC - FileKeeper",
-          "url": "https://filekeeper.net/6lqrq8hbgllg"
-        }
-      ],
-      "sizeBytes": 75161927680
     },
     {
       "titleId": "PPSA28068",
@@ -17773,37 +17998,6 @@
       "sizeBytes": 68719476736
     },
     {
-      "titleId": "PPSA03016",
-      "title": "Marvels Spider Man 2 Deluxe Edition",
-      "version": "v01.004.003",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Spider Man_2_Deluxe_Edition.avif",
-      "description": "Tags: PPSA03016, v01.004.003, USA to EUR Languages, 4.xx BackPork\nSize: 254GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: High-Speed007\nHow to play: If for some reason you cant proceed with some levels restart the mission.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/5pVzN4qZ0m7w/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/OhUxRQZ3tC"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/650j7o5e5x1a"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/zsfo3l36z4wv"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/r41io4ijwtl3"
-        }
-      ],
-      "sizeBytes": 272730423296
-    },
-    {
       "titleId": "PPSA04220",
       "title": "JoJos Bizarre Adventure All Star Battle R",
       "version": "v02.330",
@@ -17833,45 +18027,6 @@
         }
       ],
       "sizeBytes": 5368709120
-    },
-    {
-      "titleId": "PPSA20397",
-      "title": "Assassins Creed Shadows",
-      "version": "v01.019.076",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Assassins_Creed_Shadows.avif",
-      "description": "Builds: DLC\nTags: PPSA20397, v01.019.076, EUR, 4.xx BackPort\nSize: 294GB\nCredits: Files: DUPLEX & VanBuuren; Backport: DecKerr97; DLC: DUPLEX & VanBuuren\nHow to play: Audio 3D must be off for avoid the crash on Initial Settings.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/QN9mEZRwR36d/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/R8VBC1Fjhp"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/v4om96ig02ge"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/ez6pamsm0155"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/mr6royiaqwg0"
-        },
-        {
-          "name": "DLC - FileKeeper",
-          "url": "https://filekeeper.net/t89kg6vfktko"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/ftbgwrowjlhc"
-        }
-      ],
-      "sizeBytes": 315680096256
     },
     {
       "titleId": "PPSA02604",
@@ -21125,49 +21280,6 @@
       "sizeBytes": 32212254720
     },
     {
-      "titleId": "PPSA07570",
-      "title": "Mortal Kombat 1",
-      "version": "v01.010.001",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mortal_Kombat_1.jpg",
-      "description": "Builds: Standard 9.xx, 4.xx BackPort, DLC\nTags: PPSA07570, v01.010.001, USA to EUR Languages, DLC Merged, Standard (9.xx) + 4.xx BackPork\nSize: 306GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pkykzhack\nHow to play: Khaos Reign DLC now is Merged.",
-      "downloadLinks": [
-        {
-          "name": "Standard 9.xx - AkiraBox",
-          "url": "https://akirabox.com/qLQ36x7PlG19/file"
-        },
-        {
-          "name": "Standard 9.xx - VikingFile",
-          "url": "https://vikingfile.com/f/dG8WxebmFB"
-        },
-        {
-          "name": "Standard 9.xx - DataNodes",
-          "url": "https://datanodes.to/czmjw3g4yv0o"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/vgKGxLZ74G8Q/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/RLex2QDQ84"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/jhl00nkysf9e"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/l76mZ7Wk93an/file"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/uh730my3v73b"
-        }
-      ],
-      "sizeBytes": 328564998144
-    },
-    {
       "titleId": "PPSA15508",
       "title": "The Last of Us Part II Remastered",
       "version": "v02.001.010",
@@ -24152,5 +24264,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-16T02:51:38.455Z"
+  "_generated": "2026-09-17T02:55:52.392Z"
 }
