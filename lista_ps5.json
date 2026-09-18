@@ -3,12 +3,173 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA21564",
+      "title": "ASTRO BOT",
+      "version": "v01.018",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/ASTRO_BOT.avif",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA21564, v01.018, USA, 4.xx BackPort\nSize: 152GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: romhunter & Pippo\nHow to play: Progress will be no lost from v01.007 (No need anymore Garlic Saves Manager) + DLCs by romhunter edited to make it work also on FPKG, enjoy. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/RMKGJQVx2z1o/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/7eBJAT7RCh"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/s35gak8c0ptq"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/4s24if8lnrlr"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/65pvps8vcacl"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/u4hhlhq8ktes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/17lvay60dlv3"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/Zvqzl7qyO3aD/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/fPgOYm1ngu"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/grd2ruwme6j4"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/7f6gggbr0w4p"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://datavaults.co/bja4iw6cflx3"
+        }
+      ],
+      "sizeBytes": 163208757248
+    },
+    {
+      "titleId": "PPSA23226",
+      "title": "Black Myth Wukong Deluxe Edition",
+      "version": "v01.021",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Black_Myth_Wukong_Deluxe_Edition.png",
+      "description": "Builds: Fpkg\nTags: PPSA23226, v01.021, EUR, DLCs Merged, 4.xx BackPort\nSize: 168GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/Y2xm01ygq3RO/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/oc98GXf3s5"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/lhgai9no4eoj"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/qp9a9p329z35"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/lumwqxbk7mbp"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/EL73g7L4939B/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/AsPATCCFWF"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/bmmcvz6zvu0j"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/xp96k13l5ks8"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://datavaults.co/p270bt3no68o"
+        }
+      ],
+      "sizeBytes": 180388626432
+    },
+    {
+      "titleId": "PPSA02572",
+      "title": "Alan Wake 2 Deluxe Edition",
+      "version": "v01.200.007",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Alan_Wake_2_Deluxe_Edition.avif",
+      "description": "Builds: Fpkg Backport\nTags: PPSA02572, v01.200.007, EUR, DLCs Merged, 4.xx BackPork\nSize: 137GB\nCredits: Files: SiESPTA; Backport: BestPig; DLC: Pkykzhack \nHow to play: Only exFAT: Ignore Trophy problem popup at the beginning, saves work fine and can be loaded. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0JgG7P97ZmoY/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/AwCV7B3b2T"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/5zk8dckfg14z"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/hlpkml8iaf8w"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/6ceziyhst85i"
+        },
+        {
+          "name": "Fpkg Backport - AkiraBox",
+          "url": "https://akirabox.com/9AqGQZPV8mMn/file"
+        },
+        {
+          "name": "Fpkg Backport - VikingFile",
+          "url": "https://vikingfile.com/f/ZKOD15FcwK"
+        },
+        {
+          "name": "Fpkg Backport - DataNodes",
+          "url": "https://datanodes.to/unqlkueon150"
+        },
+        {
+          "name": "Fpkg Backport - FileKeeper",
+          "url": "https://filekeeper.net/9zb4s78gfq5o"
+        },
+        {
+          "name": "Fpkg Backport - DataVault",
+          "url": "https://datavaults.co/tjymhh8y8h1v"
+        }
+      ],
+      "sizeBytes": 147102629888
+    },
+    {
       "titleId": "PPSA14251",
       "title": "Mafia The Old Country Deluxe Edition",
       "version": "v01.008",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mafia_The_Old_Country_Deluxe_Edition.png",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA14251, v01.008, USA, 4.xx BackPort\nSize: 70GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA14251, v01.008, USA, 4.xx BackPort\nSize: 70GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -16746,37 +16907,6 @@
       "sizeBytes": 119185342464
     },
     {
-      "titleId": "PPSA02572",
-      "title": "Alan Wake 2 Deluxe Edition",
-      "version": "v01.200.007",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Alan_Wake_2_Deluxe_Edition.avif",
-      "description": "Tags: PPSA02572, v01.200.007, EUR, DLCs Merged, 4.xx BackPork\nSize: 137GB\nCredits: Files: SiESPTA; Backport: BestPig; DLC: Pkykzhack \nHow to play: Ignore Trophy problem popup at the beginning, saves work fine and can be loaded.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/0JgG7P97ZmoY/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/AwCV7B3b2T"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/5zk8dckfg14z"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/hlpkml8iaf8w"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/6ceziyhst85i"
-        }
-      ],
-      "sizeBytes": 147102629888
-    },
-    {
       "titleId": "PPSA23806",
       "title": "Darksiders 2 Deathinitive Edition",
       "version": "v01.002",
@@ -16839,37 +16969,6 @@
       "sizeBytes": 62277025792
     },
     {
-      "titleId": "PPSA23226",
-      "title": "Black Myth Wukong Deluxe Edition",
-      "version": "v01.021",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Black_Myth_Wukong_Deluxe_Edition.png",
-      "description": "Tags: PPSA23226, v01.021, EUR, DLCs Merged, 4.xx BackPort\nSize: 168GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: Pippo",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/Y2xm01ygq3RO/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/oc98GXf3s5"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/lhgai9no4eoj"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/qp9a9p329z35"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/lumwqxbk7mbp"
-        }
-      ],
-      "sizeBytes": 180388626432
-    },
-    {
       "titleId": "PPSA03744",
       "title": "Soul Hackers 2 Premium Edition",
       "version": "v01.002",
@@ -16930,45 +17029,6 @@
         }
       ],
       "sizeBytes": 35433480192
-    },
-    {
-      "titleId": "PPSA21564",
-      "title": "ASTRO BOT",
-      "version": "v01.018",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/ASTRO_BOT.avif",
-      "description": "Builds: DLC\nTags: PPSA21564, v01.018, USA, 4.xx BackPort\nSize: 152GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: romhunter\nHow to play: Totally converted into USA, progress will be no lost from v01.007 (No need anymore Garlic Saves Manager), enjoy.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/RMKGJQVx2z1o/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/7eBJAT7RCh"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/s35gak8c0ptq"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/4s24if8lnrlr"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/65pvps8vcacl"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/o92g2bknk9yh"
-        },
-        {
-          "name": "DLC - FileKeeper",
-          "url": "https://filekeeper.net/nzxptj1dgafv"
-        }
-      ],
-      "sizeBytes": 163208757248
     },
     {
       "titleId": "PPSA05684",
@@ -24264,5 +24324,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-17T02:55:52.392Z"
+  "_generated": "2026-09-18T02:42:18.307Z"
 }
