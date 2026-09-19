@@ -3,6 +3,148 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA02530",
+      "title": "PRAGMATA Deluxe Edition",
+      "version": "v01.200",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/PRAGMATA_DE.jpg",
+      "description": "Builds: Standard 5.xx, 4.xx BackPort, DLC, Fpkg Backport\nTags: PPSA02530, v01.200, USA, Standard (5.xx) + 4.xx BackPort\nSize: 85GB\nCredits: Files: SiESPTA & DUPLEX; Backport: BestPig & rocknard & ManwonHp; DLC: SiESPTA & DUPLEX",
+      "downloadLinks": [
+        {
+          "name": "Standard 5.xx - AkiraBox",
+          "url": "https://akirabox.com/qPez4aJoxGOY/file"
+        },
+        {
+          "name": "Standard 5.xx - VikingFile",
+          "url": "https://vikingfile.com/f/bWf8VDXXYO"
+        },
+        {
+          "name": "Standard 5.xx - DataNodes",
+          "url": "https://datanodes.to/zjtm6430pbml"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/qw1zedg4e3Xy/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/LvfTsdF12y"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/hn0fa1dst1oe"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/78g40nyv2pkw"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/a3bjisy24k6q"
+        },
+        {
+          "name": "DLC - AkiraBox",
+          "url": "https://akirabox.com/2WVGrVEEAGkx/file"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/dwqkxuo8n3bf"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/k1eybdenp91k"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/rvxq9g00m3og"
+        },
+        {
+          "name": "Fpkg Backport - AkiraBox",
+          "url": "https://akirabox.com/2bJG8bZWg3OB/file"
+        },
+        {
+          "name": "Fpkg Backport - VikingFile",
+          "url": "https://vikingfile.com/f/bYQmnmgLZg"
+        },
+        {
+          "name": "Fpkg Backport - DataNodes",
+          "url": "https://datanodes.to/2udpxz7c4f3w"
+        },
+        {
+          "name": "Fpkg Backport - FileKeeper",
+          "url": "https://filekeeper.net/kx163fboxws4"
+        },
+        {
+          "name": "Fpkg Backport - DataVault",
+          "url": "https://datavaults.co/4wo5eyzg8fis"
+        }
+      ],
+      "sizeBytes": 91268055040
+    },
+    {
+      "titleId": "PPSA26344",
+      "title": "Ghost of Yotei Deluxe Edition",
+      "version": "v01.512",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ghost_of_Yotei_Deluxe_Edition.png",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA26344, v01.512, USA, 4.xx BackPort\nSize: 188GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Loading Splash Screen Fix is already included. Pro Features Fix included. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/dkD3Ywxv9GLQ/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/rbMzpauz0C"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/vwf1tzmn7bsr"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/uazmc720gt1o"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/h7hzl4yqjvnp"
+        },
+        {
+          "name": "DLC - VikingFile",
+          "url": "https://vikingfile.com/f/EazyG0VS2X"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/etgkojb4u8r0"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/hm7d2xooa1dt"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/BnkmWv2VrGR0/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/XOAWo7gde1"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/oevld7n1hwst"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/fly8wj43nv37"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://datavaults.co/45th7979bo20"
+        }
+      ],
+      "sizeBytes": 201863462912
+    },
+    {
       "titleId": "PPSA21564",
       "title": "ASTRO BOT",
       "version": "v01.018",
@@ -3604,53 +3746,6 @@
         }
       ],
       "sizeBytes": 4294967296
-    },
-    {
-      "titleId": "PPSA26344",
-      "title": "Ghost of Yotei Deluxe Edition",
-      "version": "v01.512",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ghost_of_Yotei_Deluxe_Edition.png",
-      "description": "Builds: DLC\nTags: PPSA26344, v01.512, USA, 4.xx BackPort\nSize: 188GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Loading Splash Screen Fix is already included.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/dkD3Ywxv9GLQ/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/rbMzpauz0C"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/vwf1tzmn7bsr"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/uazmc720gt1o"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/h7hzl4yqjvnp"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/qLQ36x4d7G19/file"
-        },
-        {
-          "name": "DLC - VikingFile",
-          "url": "https://vikingfile.com/f/EazyG0VS2X"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/etgkojb4u8r0"
-        },
-        {
-          "name": "DLC - DataVault",
-          "url": "https://datavaults.co/hm7d2xooa1dt"
-        }
-      ],
-      "sizeBytes": 201863462912
     },
     {
       "titleId": "PPSA01325",
@@ -14963,61 +15058,6 @@
       "sizeBytes": 126701535232
     },
     {
-      "titleId": "PPSA02530",
-      "title": "PRAGMATA Deluxe Edition",
-      "version": "v01.200",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/PRAGMATA_DE.jpg",
-      "description": "Builds: Standard 5.xx, 4.xx BackPort, DLC\nTags: PPSA02530, v01.200, USA, Standard (5.xx) + 4.xx BackPort\nSize: 85GB\nCredits: Files: SiESPTA & DUPLEX; Backport: BestPig & rocknard & ManwonHp; DLC: SiESPTA & DUPLEX",
-      "downloadLinks": [
-        {
-          "name": "Standard 5.xx - AkiraBox",
-          "url": "https://akirabox.com/qPez4aJoxGOY/file"
-        },
-        {
-          "name": "Standard 5.xx - VikingFile",
-          "url": "https://vikingfile.com/f/bWf8VDXXYO"
-        },
-        {
-          "name": "Standard 5.xx - DataNodes",
-          "url": "https://datanodes.to/zjtm6430pbml"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/qw1zedg4e3Xy/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/LvfTsdF12y"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/hn0fa1dst1oe"
-        },
-        {
-          "name": "4.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/78g40nyv2pkw"
-        },
-        {
-          "name": "4.xx BackPort - DataVault",
-          "url": "https://datavaults.co/a3bjisy24k6q"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/2WVGrVEEAGkx/file"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/dwqkxuo8n3bf"
-        },
-        {
-          "name": "DLC - FileKeeper",
-          "url": "https://filekeeper.net/k1eybdenp91k"
-        }
-      ],
-      "sizeBytes": 91268055040
-    },
-    {
       "titleId": "PPSA20800",
       "title": "Metaphor ReFantazio",
       "version": "v01.013",
@@ -24324,5 +24364,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-18T02:42:18.307Z"
+  "_generated": "2026-09-19T02:41:59.074Z"
 }
