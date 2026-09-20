@@ -3,12 +3,165 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA01474",
+      "title": "Ratchet & Clank Rift Apart Deluxe Edition",
+      "version": "v01.005.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ratchet_and_Clank_Rift_Apart.avif",
+      "description": "Builds: Fpkg\nTags: PPSA01474, v01.005.003, EUR, 4.xx BackPork\nSize: 77GB\nCredits: Files: DUPLEX; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/gXeGOo1NJGAa/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/HNrZCSKbfz"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/rsz11moa0qci"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/E9Qz9XKKb3OL/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/NlCmLg5sOe"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/t0z00hv27z8j"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/xnni4n40qc2x"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://datavaults.co/e5549fv3yxdc"
+        }
+      ],
+      "sizeBytes": 82678120448
+    },
+    {
+      "titleId": "PPSA01285",
+      "title": "Returnal",
+      "version": "v03.005",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Returnal.avif",
+      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA01285, v03.005, EUR, Standard (7.xx) + 4.xx BackPork\nSize: 144GB\nCredits: Files: SiESPTA; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "Standard 7.xx - AkiraBox",
+          "url": "https://akirabox.com/jar3XLnQ832d/file"
+        },
+        {
+          "name": "Standard 7.xx - VikingFile",
+          "url": "https://vikingfile.com/f/f07dbiQQWT"
+        },
+        {
+          "name": "Standard 7.xx - DataNodes",
+          "url": "https://datanodes.to/ywsurrfeqhj2"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/rk9zKDZRQG0l/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/kvMjgdBGfI"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/gyx1g34t36hl"
+        },
+        {
+          "name": "Fpkg Backport - AkiraBox",
+          "url": "https://akirabox.com/wgWGq7o2Q34o/file"
+        },
+        {
+          "name": "Fpkg Backport - VikingFile",
+          "url": "https://vikingfile.com/f/2of0T0KaMY"
+        },
+        {
+          "name": "Fpkg Backport - DataNodes",
+          "url": "https://datanodes.to/bf14qjve6g9p"
+        },
+        {
+          "name": "Fpkg Backport - FileKeeper",
+          "url": "https://filekeeper.net/jmxq02yatx3x"
+        },
+        {
+          "name": "Fpkg Backport - DataVault",
+          "url": "https://datavaults.co/0zjep07pfoyg"
+        }
+      ],
+      "sizeBytes": 154618822656
+    },
+    {
+      "titleId": "PPSA17905",
+      "title": "Horizon Forbidden West Complete Edition",
+      "version": "v01.030",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/HFWCE.webp",
+      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA17905, v01.030, USA to EUR Langs, DLCs Merged, Standard (7.xx) + 4.xx BackPork\nSize: 191GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: b0mba1992\nHow to play: Burning Shores EUR DLC Included. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "Standard 7.xx - AkiraBox",
+          "url": "https://akirabox.com/N2p3DeqAAzMa/file"
+        },
+        {
+          "name": "Standard 7.xx - VikingFile",
+          "url": "https://vikingfile.com/f/uKGR51vsVe"
+        },
+        {
+          "name": "Standard 7.xx - DataNodes",
+          "url": "https://datanodes.to/awrebs8srq94"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/Xkrzok7QkzBO/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/ytlAdbExPm"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/w815mry9bvvk"
+        },
+        {
+          "name": "Fpkg Backport - AkiraBox",
+          "url": "https://akirabox.com/vgKGxXwAVG8Q/file"
+        },
+        {
+          "name": "Fpkg Backport - VikingFile",
+          "url": "https://vikingfile.com/f/YHUv0dCQaO"
+        },
+        {
+          "name": "Fpkg Backport - DataNodes",
+          "url": "https://datanodes.to/y6zezorr37lj"
+        },
+        {
+          "name": "Fpkg Backport - FileKeeper",
+          "url": "https://filekeeper.net/cwv4pwpwb37z"
+        },
+        {
+          "name": "Fpkg Backport - DataVault",
+          "url": "https://datavaults.co/e6k13g2064j3"
+        }
+      ],
+      "sizeBytes": 205084688384
+    },
+    {
       "titleId": "PPSA02530",
       "title": "PRAGMATA Deluxe Edition",
       "version": "v01.200",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/PRAGMATA_DE.jpg",
-      "description": "Builds: Standard 5.xx, 4.xx BackPort, DLC, Fpkg Backport\nTags: PPSA02530, v01.200, USA, Standard (5.xx) + 4.xx BackPort\nSize: 85GB\nCredits: Files: SiESPTA & DUPLEX; Backport: BestPig & rocknard & ManwonHp; DLC: SiESPTA & DUPLEX",
+      "description": "Builds: Standard 5.xx, 4.xx BackPort, DLC, Fpkg Backport\nTags: PPSA02530, v01.200, USA, Standard (5.xx) + 4.xx BackPort\nSize: 85GB\nCredits: Files: SiESPTA & DUPLEX; Backport: BestPig & rocknard & ManwonHp; DLC: SiESPTA & DUPLEX\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "Standard 5.xx - AkiraBox",
@@ -374,7 +527,7 @@
       "version": "v01.019.076",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Assassins_Creed_Shadows.avif",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA20397, v01.019.076, EUR, 4.xx BackPort\nSize: 294GB\nCredits: Files: DUPLEX & VanBuuren; Backport: DecKerr97; DLC: DUPLEX & VanBuuren\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA20397, v01.019.076, EUR, 4.xx BackPort\nSize: 294GB\nCredits: Files: DUPLEX & VanBuuren; Backport: DecKerr97; DLC: DUPLEX & VanBuuren\nHow to play: Audio 3D must be OFF or will crash on initial Settings. FPKG atm is only working up to 11.40, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -18922,41 +19075,6 @@
       "sizeBytes": 82678120448
     },
     {
-      "titleId": "PPSA17905",
-      "title": "Horizon Forbidden West Complete Edition",
-      "version": "v01.030",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/HFWCE.webp",
-      "description": "Builds: 7.xx BackPort, 4.xx BackPort\nTags: PPSA17905, v01.030, USA to EUR Languages, 7.xx BackPork + 4.xx BackPork\nSize: 191GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: b0mba1992",
-      "downloadLinks": [
-        {
-          "name": "7.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/N2p3DeqAAzMa/file"
-        },
-        {
-          "name": "7.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/uKGR51vsVe"
-        },
-        {
-          "name": "7.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/awrebs8srq94"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/Xkrzok7QkzBO/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/ytlAdbExPm"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/w815mry9bvvk"
-        }
-      ],
-      "sizeBytes": 205084688384
-    },
-    {
       "titleId": "PPSA07230",
       "title": "Assassins Creed Mirage",
       "version": "v01.012",
@@ -19048,29 +19166,6 @@
         }
       ],
       "sizeBytes": 17179869184
-    },
-    {
-      "titleId": "PPSA01474",
-      "title": "Ratchet & Clank Rift Apart",
-      "version": "v01.005.003",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ratchet_and_Clank_Rift_Apart.avif",
-      "description": "Tags: PPSA01474, v01.005.003, EUR, 4.xx BackPork\nSize: 77GB\nCredits: Files: DUPLEX & SiESPta; Backport: BestPig",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/gXeGOo1NJGAa/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/HNrZCSKbfz"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/rsz11moa0qci"
-        }
-      ],
-      "sizeBytes": 82678120448
     },
     {
       "titleId": "PPSA03647",
@@ -22418,41 +22513,6 @@
       "sizeBytes": 54760833024
     },
     {
-      "titleId": "PPSA01285",
-      "title": "Returnal",
-      "version": "v03.005",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Returnal.avif",
-      "description": "Builds: Standard 7.xx, 4.xx BackPort\nTags: PPSA01285, v03.005, EUR, Standard (7.xx) + 4.xx BackPork\nSize: 144GB\nCredits: Files: SiESPTA; Backport: BestPig\nHow to play: exFAT have some audio crackling, the only way is FFPKG.",
-      "downloadLinks": [
-        {
-          "name": "Standard 7.xx - AkiraBox",
-          "url": "https://akirabox.com/jar3XLnQ832d/file"
-        },
-        {
-          "name": "Standard 7.xx - VikingFile",
-          "url": "https://vikingfile.com/f/f07dbiQQWT"
-        },
-        {
-          "name": "Standard 7.xx - DataNodes",
-          "url": "https://datanodes.to/ywsurrfeqhj2"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/rk9zKDZRQG0l/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/kvMjgdBGfI"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/gyx1g34t36hl"
-        }
-      ],
-      "sizeBytes": 154618822656
-    },
-    {
       "titleId": "PPSA16214",
       "title": "Indika",
       "version": "v01.003",
@@ -24364,5 +24424,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-19T02:41:59.074Z"
+  "_generated": "2026-09-20T02:53:28.796Z"
 }
