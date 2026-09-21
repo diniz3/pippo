@@ -3,12 +3,197 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA01716",
+      "title": "Need for Speed Unbound",
+      "version": "v01.031",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Need_for_Speed_Unbound.png",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA01716, v01.031, USA, 4.xx BackPort\nSize: 31GB\nCredits: Files: dunaevnick; Backport: DecKerr97",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/RMKGJKvDwm1o/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/nYq0z46lcU"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/7jafumzn4d8c"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/xnb4ly01fbyv"
+        },
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/balpha20/f126a7bf2ec7266b7d96/PPSA01716.exfat"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/2awry436vf50"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/150159yz24cc"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/APVmab9Jq3Xo/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/89suBBgK5i"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/cljk2miv2ylt"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/6z0trzonyfqh"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://datavaults.co/l4xnvzd5s0df"
+        }
+      ],
+      "sizeBytes": 33285996544
+    },
+    {
+      "titleId": "PPSA27360",
+      "title": "EA SPORTS FC 26",
+      "version": "v01.000.018",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/FC26.jpg",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA27360, v01.000.018, USA, 4.xx BackPort\nSize: 182GB\nCredits: Files: DUPLEX; Backport: ManwonHp\nHow to play: Must be installed the DLC Unlock for play, mandatory. FPKG atm is only working up to 11.60, use exFAT if you are above. Only FPKG: Some langs like Spanish, Polish etc need to be unlocked by press Square button and yes on FC 26 Audio Settings.. By pressing Yes, will simulate the package download and then will be unlocked.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/2bJG80xL7GOB/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/ifyLSiAAxJ"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/qljofixnbel3"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/riz4kiwdtivg"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/11lghmotlzha"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/ly1itpmh7thz"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/2asuv3n45p1y"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/oeqfvu1iick3"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/jJD3VDbLaGa5/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/ROf5b1sUvs"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/jsfygqs4fmcl"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/0u9g64flr1e3"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha20/01bd22667a7640ed6d2f/PPSA27360-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 195421011968
+    },
+    {
+      "titleId": "PPSA10595",
+      "title": "TEKKEN 8",
+      "version": "v03.000.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TEKKEN_8.png",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA10595, v03.000.001, USA to EUR Langs, 4.xx BackPort\nSize: 180GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/jar3Xlrbg32d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/wRYx6HQlVi"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/40sllt1z0sx7"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/emwomycdmzbb"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/78faw4pdlwbm"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/u8kktgjd1sry"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/njil33lz1cmy"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/k2zkcia9ycws"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/0PdzyXygM3eA/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/RAQw9M1v4q"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/u6pf9relc6ca"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/25o6fgh0rwrs"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://datavaults.co/ua1jj7uif0zs"
+        }
+      ],
+      "sizeBytes": 193273528320
+    },
+    {
       "titleId": "PPSA01474",
       "title": "Ratchet & Clank Rift Apart Deluxe Edition",
       "version": "v01.005.003",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ratchet_and_Clank_Rift_Apart.avif",
-      "description": "Builds: Fpkg\nTags: PPSA01474, v01.005.003, EUR, 4.xx BackPork\nSize: 77GB\nCredits: Files: DUPLEX; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA01474, v01.005.003, EUR, 4.xx BackPork\nSize: 77GB\nCredits: Files: DUPLEX; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -51,7 +236,7 @@
       "version": "v03.005",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Returnal.avif",
-      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA01285, v03.005, EUR, Standard (7.xx) + 4.xx BackPork\nSize: 144GB\nCredits: Files: SiESPTA; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA01285, v03.005, EUR, Standard (7.xx) + 4.xx BackPork\nSize: 144GB\nCredits: Files: SiESPTA; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "Standard 7.xx - AkiraBox",
@@ -106,7 +291,7 @@
       "version": "v01.030",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/HFWCE.webp",
-      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA17905, v01.030, USA to EUR Langs, DLCs Merged, Standard (7.xx) + 4.xx BackPork\nSize: 191GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: b0mba1992\nHow to play: Burning Shores EUR DLC Included. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA17905, v01.030, USA to EUR Langs, DLCs Merged, Standard (7.xx) + 4.xx BackPork\nSize: 191GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: b0mba1992\nHow to play: Burning Shores EUR DLC Included. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "Standard 7.xx - AkiraBox",
@@ -161,7 +346,7 @@
       "version": "v01.200",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/PRAGMATA_DE.jpg",
-      "description": "Builds: Standard 5.xx, 4.xx BackPort, DLC, Fpkg Backport\nTags: PPSA02530, v01.200, USA, Standard (5.xx) + 4.xx BackPort\nSize: 85GB\nCredits: Files: SiESPTA & DUPLEX; Backport: BestPig & rocknard & ManwonHp; DLC: SiESPTA & DUPLEX\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Standard 5.xx, 4.xx BackPort, DLC, Fpkg Backport\nTags: PPSA02530, v01.200, USA, Standard (5.xx) + 4.xx BackPort\nSize: 85GB\nCredits: Files: SiESPTA & DUPLEX; Backport: BestPig & rocknard & ManwonHp; DLC: SiESPTA & DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "Standard 5.xx - AkiraBox",
@@ -240,7 +425,7 @@
       "version": "v01.512",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ghost_of_Yotei_Deluxe_Edition.png",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA26344, v01.512, USA, 4.xx BackPort\nSize: 188GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Loading Splash Screen Fix is already included. Pro Features Fix included. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA26344, v01.512, USA, 4.xx BackPort\nSize: 188GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Loading Splash Screen Fix is already included. Pro Features Fix included. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -303,7 +488,7 @@
       "version": "v01.018",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/ASTRO_BOT.avif",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA21564, v01.018, USA, 4.xx BackPort\nSize: 152GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: romhunter & Pippo\nHow to play: Progress will be no lost from v01.007 (No need anymore Garlic Saves Manager) + DLCs by romhunter edited to make it work also on FPKG, enjoy. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA21564, v01.018, USA, 4.xx BackPort\nSize: 152GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: romhunter & Pippo\nHow to play: Progress will be no lost from v01.007 (No need anymore Garlic Saves Manager) + DLCs by romhunter edited to make it work also on FPKG, enjoy. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -362,7 +547,7 @@
       "version": "v01.021",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Black_Myth_Wukong_Deluxe_Edition.png",
-      "description": "Builds: Fpkg\nTags: PPSA23226, v01.021, EUR, DLCs Merged, 4.xx BackPort\nSize: 168GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA23226, v01.021, EUR, DLCs Merged, 4.xx BackPort\nSize: 168GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -413,7 +598,7 @@
       "version": "v01.200.007",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Alan_Wake_2_Deluxe_Edition.avif",
-      "description": "Builds: Fpkg Backport\nTags: PPSA02572, v01.200.007, EUR, DLCs Merged, 4.xx BackPork\nSize: 137GB\nCredits: Files: SiESPTA; Backport: BestPig; DLC: Pkykzhack \nHow to play: Only exFAT: Ignore Trophy problem popup at the beginning, saves work fine and can be loaded. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Fpkg Backport\nTags: PPSA02572, v01.200.007, EUR, DLCs Merged, 4.xx BackPork\nSize: 137GB\nCredits: Files: SiESPTA; Backport: BestPig; DLC: Pkykzhack \nHow to play: Only exFAT: Ignore Trophy problem popup at the beginning, saves work fine and can be loaded. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -464,7 +649,7 @@
       "version": "v01.008",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mafia_The_Old_Country_Deluxe_Edition.png",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA14251, v01.008, USA, 4.xx BackPort\nSize: 70GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA14251, v01.008, USA, 4.xx BackPort\nSize: 70GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -527,7 +712,7 @@
       "version": "v01.019.076",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Assassins_Creed_Shadows.avif",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA20397, v01.019.076, EUR, 4.xx BackPort\nSize: 294GB\nCredits: Files: DUPLEX & VanBuuren; Backport: DecKerr97; DLC: DUPLEX & VanBuuren\nHow to play: Audio 3D must be OFF or will crash on initial Settings. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA20397, v01.019.076, EUR, 4.xx BackPort\nSize: 294GB\nCredits: Files: DUPLEX & VanBuuren; Backport: DecKerr97; DLC: DUPLEX & VanBuuren\nHow to play: Audio 3D must be OFF or will crash on initial Settings. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -590,7 +775,7 @@
       "version": "v01.004.003",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Spider Man_2_Deluxe_Edition.avif",
-      "description": "Builds: Fpkg\nTags: PPSA03016, v01.004.003, USA to EUR Langs, DLCs Merged, 4.xx BackPork\nSize: 254GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA03016, v01.004.003, USA to EUR Langs, DLCs Merged, 4.xx BackPork\nSize: 254GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -641,7 +826,7 @@
       "version": "v01.006",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/WWE_2K26.avif",
-      "description": "Builds: Fpkg\nTags: PPSA34299, v01.006, USA, DLCs Merged, 4.xx BackPort\nSize: 286GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: Ringside Pass DLCs require Internet Connection instead all other DLCs are unlocked, included Pre-Order. Commentary now is working with v01.006+. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA34299, v01.006, USA, DLCs Merged, 4.xx BackPort\nSize: 286GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: Ringside Pass DLCs require Internet Connection instead all other DLCs are unlocked, included Pre-Order. Commentary now is working with v01.006+. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -692,7 +877,7 @@
       "version": "v01.010.001",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mortal_Kombat_1.jpg",
-      "description": "Builds: Standard 9.xx, 4.xx BackPort, DLC, Fpkg Backport\nTags: PPSA07570, v01.010.001, USA, DLC Merged, Standard (9.xx) + 4.xx BackPork\nSize: 306GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pkykzhack\nHow to play: Khaos Reign DLC now is Merged. FPKG atm is only working up to 11.40, use exFAT (Standard & BackPort) if you are above.",
+      "description": "Builds: Standard 9.xx, 4.xx BackPort, DLC, Fpkg Backport\nTags: PPSA07570, v01.010.001, USA, DLC Merged, Standard (9.xx) + 4.xx BackPork\nSize: 306GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pkykzhack\nHow to play: Khaos Reign DLC now is Merged. FPKG atm is only working up to 11.60, use exFAT (Standard & BackPort) if you are above.",
       "downloadLinks": [
         {
           "name": "Standard 9.xx - AkiraBox",
@@ -759,7 +944,7 @@
       "version": "v01.000.028",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Street_Fighter_6_1_3_FE.jpg",
-      "description": "Builds: Fpkg Backport\nTags: PPSA02633, v01.000.028, EUR, DLCs Merged, 4.xx BackPort\nSize: 200GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DecKerr97\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Fpkg Backport\nTags: PPSA02633, v01.000.028, EUR, DLCs Merged, 4.xx BackPort\nSize: 200GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -9530,45 +9715,6 @@
       "sizeBytes": 67645734912
     },
     {
-      "titleId": "PPSA10595",
-      "title": "TEKKEN 8",
-      "version": "v03.000.001",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TEKKEN_8.png",
-      "description": "Builds: DLC\nTags: PPSA10595, v03.000.001, USA to EUR Langs, 4.xx BackPort\nSize: 180GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/jar3Xlrbg32d/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/wRYx6HQlVi"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/40sllt1z0sx7"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/emwomycdmzbb"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/78faw4pdlwbm"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/u8kktgjd1sry"
-        },
-        {
-          "name": "DLC - FileKeeper",
-          "url": "https://filekeeper.net/njil33lz1cmy"
-        }
-      ],
-      "sizeBytes": 193273528320
-    },
-    {
       "titleId": "PPSA18528",
       "title": "Mighty Morphin Power Rangers Ritas Rewind",
       "version": "v01.009",
@@ -14852,45 +14998,6 @@
         }
       ],
       "sizeBytes": 16106127360
-    },
-    {
-      "titleId": "PPSA27360",
-      "title": "EA SPORTS FC 26",
-      "version": "v01.000.018",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/FC26.jpg",
-      "description": "Builds: DLC\nTags: PPSA27360, v01.000.018, USA, 4.xx BackPort\nSize: 182GB\nCredits: Files: DUPLEX; Backport: ManwonHp\nHow to play: Must be installed the DLC Unlock for play, mandatory.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/2bJG80xL7GOB/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/ifyLSiAAxJ"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/qljofixnbel3"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/riz4kiwdtivg"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/11lghmotlzha"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/ly1itpmh7thz"
-        },
-        {
-          "name": "DLC - FileKeeper",
-          "url": "https://filekeeper.net/2asuv3n45p1y"
-        }
-      ],
-      "sizeBytes": 195421011968
     },
     {
       "titleId": "PPSA22380",
@@ -24214,21 +24321,6 @@
       "sizeBytes": 142807662592
     },
     {
-      "titleId": "PPSA01716",
-      "title": "Need for Speed Unbound",
-      "version": "v01.029",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Need_for_Speed_Unbound.png",
-      "description": "Tags: PPSA01716, v01.029, USA, 4.xx BackPort\nSize: 31GB\nCredits: Files: High-Speed007; Backport: BADERLINK",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/wgWGq9bqQG4o/file"
-        }
-      ],
-      "sizeBytes": 33285996544
-    },
-    {
       "titleId": "PPSA20049",
       "title": "EA Sports FC 25",
       "version": "v01.007",
@@ -24424,5 +24516,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-20T02:53:28.796Z"
+  "_generated": "2026-09-21T02:50:39.358Z"
 }
