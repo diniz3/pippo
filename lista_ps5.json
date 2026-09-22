@@ -3,12 +3,126 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA13427",
+      "title": "Horizon Zero Dawn Remastered",
+      "version": "v01.008.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Horizon_Zero_Dawn_Remastered.avif",
+      "description": "Builds: Standard 9.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA13427, v01.008.001, EUR, DLCs Merged, Standard (9.xx) + 4.xx BackPort\nSize: 135GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: SiESPTA\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "Standard 9.xx - AkiraBox",
+          "url": "https://akirabox.com/EL73g05laz9B/file"
+        },
+        {
+          "name": "Standard 9.xx - VikingFile",
+          "url": "https://vikingfile.com/f/fBP5zG84yn"
+        },
+        {
+          "name": "Standard 9.xx - DataNodes",
+          "url": "https://datanodes.to/psn5rm932ulw"
+        },
+        {
+          "name": "Standard 9.xx - FileKeeper",
+          "url": "https://filekeeper.net/3qb01oj2acgh"
+        },
+        {
+          "name": "Standard 9.xx - DataVault",
+          "url": "https://datavaults.co/3oz80on0b0kv"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/l76mZNdeZman/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/UhZqdLExAs"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/9sgazl75tiqn"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/rgurrjkdfemf"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/1yynzgsa4msq"
+        },
+        {
+          "name": "Fpkg Backport - AkiraBox",
+          "url": "https://akirabox.com/Y2xm0oEn9GRO/file"
+        },
+        {
+          "name": "Fpkg Backport - VikingFile",
+          "url": "https://vikingfile.com/f/X8XugsVJHB"
+        },
+        {
+          "name": "Fpkg Backport - DataNodes",
+          "url": "https://datanodes.to/gj6p5a1ojqoe"
+        },
+        {
+          "name": "Fpkg Backport - FileKeeper",
+          "url": "https://filekeeper.net/btlwn9xb2z0b"
+        },
+        {
+          "name": "Fpkg Backport - DataVault",
+          "url": "https://datavaults.co/a05vv0h13hoo"
+        }
+      ],
+      "sizeBytes": 144955146240
+    },
+    {
+      "titleId": "PPSA07862",
+      "title": "Monster Hunter Wilds Premium Edition",
+      "version": "v01.041.040",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Monster_Hunter_Wilds_Premium_Edition.png",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA07862, v01.041.040, USA, Progress Fix, 4.xx BackPort\nSize: 60GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. Chapter 1 is now fixed and is possible proceed. Special thx to the drakmor tool, FPKG make possible this fix.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/hadlhdwa21jp"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/k2m51esno9x5"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/dclvqd8et10e"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/l76mZrZA9man/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/gSo8mNkSFo"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/tgvndrtn576t"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/dsewya56cjv5"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://datavaults.co/gjuatiiu4u9a"
+        }
+      ],
+      "sizeBytes": 64424509440
+    },
+    {
       "titleId": "PPSA01716",
       "title": "Need for Speed Unbound",
       "version": "v01.031",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Need_for_Speed_Unbound.png",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA01716, v01.031, USA, 4.xx BackPort\nSize: 31GB\nCredits: Files: dunaevnick; Backport: DecKerr97",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA01716, v01.031, USA, 4.xx BackPort\nSize: 31GB\nCredits: Files: dunaevnick; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -27,8 +141,8 @@
           "url": "https://filekeeper.net/xnb4ly01fbyv"
         },
         {
-          "name": "Filed",
-          "url": "https://fileditchfiles.st/balpha20/f126a7bf2ec7266b7d96/PPSA01716.exfat"
+          "name": "DataVault",
+          "url": "https://datavaults.co/7p0hrbu2gmu2"
         },
         {
           "name": "DLC - DataNodes",
@@ -7900,45 +8014,6 @@
         }
       ],
       "sizeBytes": 82678120448
-    },
-    {
-      "titleId": "PPSA07862",
-      "title": "Monster Hunter Wilds Premium Edition",
-      "version": "v01.041.040",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Monster_Hunter_Wilds_Premium_Edition.png",
-      "description": "Builds: DLC\nTags: PPSA07862, v01.041.040, USA, 4.xx BackPort\nSize: 113GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/Z9dzBPW5Mmk1/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/U1wfLaCY8f"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/k2qespcpb3ig"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/52nh75t6v81x"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/ac4idbj0wivm"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/hadlhdwa21jp"
-        },
-        {
-          "name": "DLC - FileKeeper",
-          "url": "https://filekeeper.net/k2m51esno9x5"
-        }
-      ],
-      "sizeBytes": 121332826112
     },
     {
       "titleId": "PPSA14002",
@@ -17393,57 +17468,6 @@
       "sizeBytes": 13958643712
     },
     {
-      "titleId": "PPSA13427",
-      "title": "Horizon Zero Dawn Remastered",
-      "version": "v01.008.001",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Horizon_Zero_Dawn_Remastered.avif",
-      "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA13427, v01.008.001, EUR, DLCs Merged, Standard (9.xx) + 4.xx BackPort\nSize: 135GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: SiESPTA",
-      "downloadLinks": [
-        {
-          "name": "Standard 9.xx - AkiraBox",
-          "url": "https://akirabox.com/EL73g05laz9B/file"
-        },
-        {
-          "name": "Standard 9.xx - VikingFile",
-          "url": "https://vikingfile.com/f/fBP5zG84yn"
-        },
-        {
-          "name": "Standard 9.xx - DataNodes",
-          "url": "https://datanodes.to/psn5rm932ulw"
-        },
-        {
-          "name": "Standard 9.xx - FileKeeper",
-          "url": "https://filekeeper.net/3qb01oj2acgh"
-        },
-        {
-          "name": "Standard 9.xx - DataVault",
-          "url": "https://datavaults.co/3oz80on0b0kv"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/l76mZNdeZman/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/UhZqdLExAs"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/9sgazl75tiqn"
-        },
-        {
-          "name": "4.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/rgurrjkdfemf"
-        },
-        {
-          "name": "4.xx BackPort - DataVault",
-          "url": "https://datavaults.co/1yynzgsa4msq"
-        }
-      ],
-      "sizeBytes": 144955146240
-    },
-    {
       "titleId": "PPSA06215",
       "title": "Outward Definitive Edition",
       "version": "v01.007",
@@ -24516,5 +24540,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-21T02:50:39.358Z"
+  "_generated": "2026-09-22T02:51:11.112Z"
 }
