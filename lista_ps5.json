@@ -3,6 +3,128 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA28420",
+      "title": "NBA 2K26",
+      "version": "v01.017",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/NBA_2K26.jpg",
+      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA28420, v01.017, EUR, Standard (7.xx) + 4.xx BackPort\nSize: 377GB\nCredits: Files: SiESPTA; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "Standard 7.xx - AkiraBox",
+          "url": "https://akirabox.com/l76mZNM19man/file"
+        },
+        {
+          "name": "Standard 7.xx - VikingFile",
+          "url": "https://vikingfile.com/f/bFZXjXLiAB"
+        },
+        {
+          "name": "Standard 7.xx - DataNodes",
+          "url": "https://datanodes.to/2mkw273syp6o"
+        },
+        {
+          "name": "Standard 7.xx - FileKeeper",
+          "url": "https://filekeeper.net/ov0k2m0tx71p"
+        },
+        {
+          "name": "Standard 7.xx - DataVault",
+          "url": "https://datavaults.co/9pqdlrv8dso3"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/b5OzdV1AymB8/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/St2TyW3tuD"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/1yom709esew4"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/0of783zxs2ie"
+        },
+        {
+          "name": "4.xx BackPort - DataVault",
+          "url": "https://datavaults.co/1m2f8bpdcc4z"
+        },
+        {
+          "name": "Fpkg Backport - AkiraBox",
+          "url": "https://akirabox.com/jJD3VD5PlGa5/file"
+        },
+        {
+          "name": "Fpkg Backport - VikingFile",
+          "url": "https://vikingfile.com/f/961KYR725f"
+        },
+        {
+          "name": "Fpkg Backport - DataNodes",
+          "url": "https://datanodes.to/0e8aszeusv10"
+        },
+        {
+          "name": "Fpkg Backport - FileKeeper",
+          "url": "https://filekeeper.net/nktwte4ndcrl"
+        },
+        {
+          "name": "Fpkg Backport - DataVault",
+          "url": "https://datavaults.co/6p54h280zahe"
+        }
+      ],
+      "sizeBytes": 404800667648
+    },
+    {
+      "titleId": "PPSA08330",
+      "title": "God Of War Ragnarok",
+      "version": "v06.006",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/God_Of_War_Ragnarok.jpg",
+      "description": "Builds: Fpkg\nTags: PPSA08330, v06.006, EUR, DLCs Merged, 4.xx BackPort\nSize: 180GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/M2BGwPN1pmj4/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/owryBfbCmL"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/5cv2djaijxh9"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/p9cfjlpr3jkj"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/mdnu6kyy1iar"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/vgKGxXy08G8Q/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/UzK0HMfzxb"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/bse4efx2kb2m"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/dwdb92z0k58w"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://datavaults.co/arwccd9en6p9"
+        }
+      ],
+      "sizeBytes": 193273528320
+    },
+    {
       "titleId": "PPSA13427",
       "title": "Horizon Zero Dawn Remastered",
       "version": "v01.008.001",
@@ -303,7 +425,7 @@
     },
     {
       "titleId": "PPSA01474",
-      "title": "Ratchet & Clank Rift Apart Deluxe Edition",
+      "title": "Ratchet & Clank Rift Apart",
       "version": "v01.005.003",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ratchet_and_Clank_Rift_Apart.avif",
@@ -2561,37 +2683,6 @@
         }
       ],
       "sizeBytes": 32212254720
-    },
-    {
-      "titleId": "PPSA08330",
-      "title": "God Of War Ragnarok",
-      "version": "v06.006",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/God_Of_War_Ragnarok.jpg",
-      "description": "Tags: PPSA08330, v06.006, EUR, DLCs Merged, 4.xx BackPort\nSize: 180GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/M2BGwPN1pmj4/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/owryBfbCmL"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/5cv2djaijxh9"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/p9cfjlpr3jkj"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/mdnu6kyy1iar"
-        }
-      ],
-      "sizeBytes": 193273528320
     },
     {
       "titleId": "PPSA06955",
@@ -6580,57 +6671,6 @@
         }
       ],
       "sizeBytes": 1017118720
-    },
-    {
-      "titleId": "PPSA28420",
-      "title": "NBA 2K26",
-      "version": "v01.017",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/NBA_2K26.jpg",
-      "description": "Builds: 7.xx BackPort, 4.xx BackPort\nTags: PPSA28420, v01.017, EUR, 7.xx BackPort + 4.xx BackPort\nSize: 377GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "7.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/l76mZNM19man/file"
-        },
-        {
-          "name": "7.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/bFZXjXLiAB"
-        },
-        {
-          "name": "7.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/2mkw273syp6o"
-        },
-        {
-          "name": "7.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/ov0k2m0tx71p"
-        },
-        {
-          "name": "7.xx BackPort - DataVault",
-          "url": "https://datavaults.co/9pqdlrv8dso3"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/b5OzdV1AymB8/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/St2TyW3tuD"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/1yom709esew4"
-        },
-        {
-          "name": "4.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/0of783zxs2ie"
-        },
-        {
-          "name": "4.xx BackPort - DataVault",
-          "url": "https://datavaults.co/1m2f8bpdcc4z"
-        }
-      ],
-      "sizeBytes": 404800667648
     },
     {
       "titleId": "PPSA17952",
@@ -24540,5 +24580,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-22T02:51:11.112Z"
+  "_generated": "2026-09-23T02:51:36.616Z"
 }
