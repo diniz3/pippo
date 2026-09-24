@@ -3,6 +3,147 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24662",
+      "title": "F1 25",
+      "version": "v01.018",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/F1_25.avif",
+      "description": "Builds: Fpkg\nTags: PPSA24662, v01.018, USA, 4.xx BackPort\nSize: 75GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: Using HEN can cause crash. FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/QN9mEqjoom6d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/4LAPTl7DtM"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/g237n7wu4in5"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/ug25lfcag2xo"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/160fyetpz3wy"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/dZxG5oQwP3Vj/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/fjy2epRz6X"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/vtoottg335ho"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/xns3zabxiowh"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://datavaults.co/z1f4anuzbu73"
+        }
+      ],
+      "sizeBytes": 80530636800
+    },
+    {
+      "titleId": "PPSA01631",
+      "title": "Marvels Avengers Definitive Edition",
+      "version": "v01.055",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Avengers_Definitive_Edition.avif",
+      "description": "Builds: Fpkg\nTags: PPSA01631, v01.055, USA to EUR Langs, DLCs Merged, 2.xx and beyond\nSize: 360GB\nCredits: Files: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/QN9mEZXbQ36d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/TnXQdS27G0"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/1bk7atdgti0y"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/rlms2ucqes3d"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/u419tbmidcyb"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/RMKGJK5gLm1o/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/0rleeR491F"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/mghpaqqmtudh"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/tf8jh7ffmceh"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://datavaults.co/84w6xpobri4i"
+        }
+      ],
+      "sizeBytes": 386547056640
+    },
+    {
+      "titleId": "PPSA31246",
+      "title": "Resident Evil Requiem Deluxe Edition",
+      "version": "v01.200",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Resident_Evil_Requiem_Deluxe_Edition.avif",
+      "description": "Builds: Fpkg\nTags: PPSA31246, v01.200, EUR, DLCs Merged, 4.xx BackPork\nSize: 123GB\nCredits: Files: DUPLEX; Backport: BestPig; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/b5OzdpX14zB8/file"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/8309wmzhalqs"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/EL73g7Bg939B/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/Ac3J00OVNH"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/zzurgb230iai"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/v71xa9avy0jp"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha21/8170b36d08658a12b664/PPSA31246-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 132070244352
+    },
+    {
       "titleId": "PPSA28420",
       "title": "NBA 2K26",
       "version": "v01.017",
@@ -10078,37 +10219,6 @@
       "sizeBytes": 13958643712
     },
     {
-      "titleId": "PPSA24662",
-      "title": "F1 25",
-      "version": "v01.018",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/F1_25.avif",
-      "description": "Tags: PPSA24662, v01.018, USA, 4.xx BackPort\nSize: 75GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: etaHEN cause crash, use only kstuff lite 1.09+ with ShadowMountPlus (not Alpha).",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/QN9mEqjoom6d/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/4LAPTl7DtM"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/g237n7wu4in5"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/ug25lfcag2xo"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/160fyetpz3wy"
-        }
-      ],
-      "sizeBytes": 80530636800
-    },
-    {
       "titleId": "PPSA04057",
       "title": "Ghostbusters Spirits Unleashed Ecto Edition",
       "version": "v01.028",
@@ -13428,37 +13538,6 @@
         }
       ],
       "sizeBytes": 16106127360
-    },
-    {
-      "titleId": "PPSA01631",
-      "title": "Marvels Avengers Definitive Edition",
-      "version": "v01.055",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Avengers_Definitive_Edition.avif",
-      "description": "Tags: PPSA01631, v01.055, USA to EUR Langs, DLCs Merged, 2.xx and beyond\nSize: 360GB\nCredits: Files: High-Speed007",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/QN9mEZXbQ36d/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/TnXQdS27G0"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/1bk7atdgti0y"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/rlms2ucqes3d"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/u419tbmidcyb"
-        }
-      ],
-      "sizeBytes": 386547056640
     },
     {
       "titleId": "PPSA17949",
@@ -21904,29 +21983,6 @@
       "sizeBytes": 22548578304
     },
     {
-      "titleId": "PPSA31246",
-      "title": "Resident Evil Requiem Deluxe Edition",
-      "version": "v01.200",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Resident_Evil_Requiem_Deluxe_Edition.avif",
-      "description": "Tags: PPSA31246, v01.200, EUR, DLCs Merged, 4.xx BackPork\nSize: 123GB\nCredits: Files: DUPLEX & SiESPta; Backport: BestPig; DLC: High-Speed007",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/b5OzdpX14zB8/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/7qRSSsOyAM"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/8309wmzhalqs"
-        }
-      ],
-      "sizeBytes": 132070244352
-    },
-    {
       "titleId": "PPSA15537",
       "title": "Skull Island Rise of Kong",
       "version": "v01.200",
@@ -24580,5 +24636,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-23T02:51:36.616Z"
+  "_generated": "2026-09-24T02:41:31.185Z"
 }
