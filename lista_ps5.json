@@ -3,6 +3,285 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA16951",
+      "title": "Tales of Xillia Remastered",
+      "version": "v01.000.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Tales_of_Xillia_Remastered.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA16951, v01.000.003, ASIA to EUR Langs, 4.xx BackPort\nSize: 18GB\nCredits: Files: Yue Lingfeng; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/vgKGxXPV6G8Q/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/P3Wu2jvcPw"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/sl5zkaftc4v3"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/1n22yvuh6zaf"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://fileditchfiles.st/alpha31/ada485f91141399e4add/PPSA16951.7z"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/APVmabXll3Xo/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/1VdbNhV7qM"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/6ppe0r9l42hz"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/p1ouwnnrray7"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha31/b6ef71013da14ef60ede/PPSA16951-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 19327352832
+    },
+    {
+      "titleId": "PPSA24662",
+      "title": "No Sleep For Kaname Date From AI THE SOMNIUM FILES",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/No_Sleep_For_Kaname_Date_From_AI_THE_SOMNIUM_FILES.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA24662, v01.002, JPN, 4.xx BackPort\nSize: 10GB\nCredits: Files: Yue Lingfeng & Lai Qi Xiao; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/rk9zKW1wyz0l/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/4bsjoMRrxp"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/cdstxasfxx3z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/9molr4f65p9q"
+        },
+        {
+          "name": "Dump - DataVault",
+          "url": "https://datavaults.co/w6wp9dwciny2"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/9QWmpAr7L3EB/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/MQOHVfDwMx"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/xk905zjezp5g"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/9jnmq8g8wh8o"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://datavaults.co/xf2bqbiefu3e"
+        }
+      ],
+      "sizeBytes": 10737418240
+    },
+    {
+      "titleId": "PPSA28180",
+      "title": "Days Gone Remastered",
+      "version": "v01.036.178",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Days_Gone_Remastered.png",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA28180, v01.036.178, Region Bypass, 4.xx BackPork\nSize: 67GB\nCredits: Files: High-Speed007; Backport: BestPig & DecKerr97; DLC: Pippo (Lapy05575948 Tool)\nHow to play: For make Region Bypass work i sacrifice French Audio Only, texts are fine. FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/EL73gALy8G9B/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/HIVyMBL73Z"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/e7o726nbsxee"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/c7cw8uk5gzm3"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/664zadjecjd5"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/0Pdzy9Eb0zeA/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/MsiMw1cFvw"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/joa3qc8bx6s2"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/Z9dzBPNvlmk1/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/m0TMRsK0N6"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/ka0nbzll1xtn"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/3iz7b666up81"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha31/53c471847a248d215824/PPSA28180-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 71940702208
+    },
+    {
+      "titleId": "PPSA04539",
+      "title": "Rise of The Ronin",
+      "version": "v01.009",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Rise_of_The_Ronin.jpg",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA04539, v01.009, USA to EUR Langs, 4.xx BackPort\nSize: 219GB\nCredits: Files: DUPLEX; Backport: zhwenx; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/1iokku1v0uw6"
+        },
+        {
+          "name": "DLC - FileKeeper",
+          "url": "https://filekeeper.net/yk23cfqb5xpp"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/kzdhyhwtwvw3"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/wgWGqMrvQG4o/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/Wckt7XWIgf"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/joa3qc8bx6s2"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/y7qe7q40i8bu"
+        },
+        {
+          "name": "Dump - DataVault",
+          "url": "https://datavaults.co/b35ce6miwv1g"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/2WVGrdKJk3kx/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/3tWSzTcG4C"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/26jy7a6hs3do"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/dcsr0r9f4e2x"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha31/0ed9d0a71549bc5d175e/PPSA04539-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 235149459456
+    },
+    {
+      "titleId": "PPSA19534",
+      "title": "Battlefield 6",
+      "version": "v01.000.016",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Battlefield_6.avif",
+      "description": "Builds: Fpkg\nTags: PPSA19534, v01.000.016, USA, 4.xx BackPort\nSize: 234GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: ShadowMountPlus beta16 is recommended for exFAT, FPKG fixed for make it work with ShadowMountPlus 1.7beta1+, thx to DecKerr97 & drakmor for suggestion. FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/QN9mEqndRm6d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/AFUVMQqtEI"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/mf45p8f19zrl"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/p31ctom5t2sj"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/pqb8s69chpgt"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/E9Qz9XQjW3OL/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/MR3CSuWMqK"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/cmu4milcljen"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/vf6cl9mr05lh"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha31/67e80052b7e31b6bf2cf/PPSA19534-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 251255586816
+    },
+    {
       "titleId": "PPSA24662",
       "title": "F1 25",
       "version": "v01.018",
@@ -7054,37 +7333,6 @@
         }
       ],
       "sizeBytes": 274877906944
-    },
-    {
-      "titleId": "PPSA19534",
-      "title": "Battlefield 6",
-      "version": "v01.000.016",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Battlefield_6.avif",
-      "description": "Tags: PPSA19534, v01.000.016, USA, 4.xx BackPort\nSize: 234GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: kstuff lite 1.10+ by EchoStretch with ShadowMountPlus beta16 is recommended.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/QN9mEqndRm6d/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/AFUVMQqtEI"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/mf45p8f19zrl"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/p31ctom5t2sj"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/pqb8s69chpgt"
-        }
-      ],
-      "sizeBytes": 251255586816
     },
     {
       "titleId": "PPSA26785",
@@ -14814,45 +15062,6 @@
       "sizeBytes": 652835028992
     },
     {
-      "titleId": "PPSA04539",
-      "title": "Rise of The Ronin",
-      "version": "v01.009",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Rise_of_The_Ronin.jpg",
-      "description": "Builds: DLC, Dump\nTags: PPSA04539, v01.009, USA to EUR Languages, 4.xx BackPort\nSize: 219GB\nCredits: Files: DUPLEX; Backport: zhwenx; DLC: DUPLEX",
-      "downloadLinks": [
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/1iokku1v0uw6"
-        },
-        {
-          "name": "DLC - FileKeeper",
-          "url": "https://filekeeper.net/yk23cfqb5xpp"
-        },
-        {
-          "name": "Dump - AkiraBox",
-          "url": "https://akirabox.com/wgWGqMrvQG4o/file"
-        },
-        {
-          "name": "Dump - VikingFile",
-          "url": "https://vikingfile.com/f/Wckt7XWIgf"
-        },
-        {
-          "name": "Dump - DataNodes",
-          "url": "https://datanodes.to/joa3qc8bx6s2"
-        },
-        {
-          "name": "Dump - FileKeeper",
-          "url": "https://filekeeper.net/y7qe7q40i8bu"
-        },
-        {
-          "name": "Dump - DataVault",
-          "url": "https://datavaults.co/b35ce6miwv1g"
-        }
-      ],
-      "sizeBytes": 235149459456
-    },
-    {
       "titleId": "PPSA06389",
       "title": "System Shock",
       "version": "v01.000",
@@ -22346,41 +22555,6 @@
       "sizeBytes": 68719476736
     },
     {
-      "titleId": "PPSA28180",
-      "title": "Days Gone Remastered",
-      "version": "v01.036.178",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Days_Gone_Remastered.png",
-      "description": "Builds: Dump\nTags: PPSA28180, v01.036.178, Region Bypass, 4.xx BackPork\nSize: 67GB\nCredits: Files: High-Speed007; Backport: BestPig",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/EL73gALy8G9B/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/HIVyMBL73Z"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/e7o726nbsxee"
-        },
-        {
-          "name": "Dump - AkiraBox",
-          "url": "https://akirabox.com/0Pdzy9Eb0zeA/file"
-        },
-        {
-          "name": "Dump - VikingFile",
-          "url": "https://vikingfile.com/f/MsiMw1cFvw"
-        },
-        {
-          "name": "Dump - DataNodes",
-          "url": "https://datanodes.to/joa3qc8bx6s2"
-        }
-      ],
-      "sizeBytes": 71940702208
-    },
-    {
       "titleId": "PPSA01492",
       "title": "Tiny Tina's Wonderlands",
       "version": "v01.012",
@@ -24636,5 +24810,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-24T02:41:31.185Z"
+  "_generated": "2026-09-25T02:58:26.909Z"
 }
