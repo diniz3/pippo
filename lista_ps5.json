@@ -3,6 +3,100 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA10665",
+      "title": "Final Fantasy XVI Complete Edition",
+      "version": "v01.003.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Final_Fantasy_XVI_CE.avif",
+      "description": "Builds: Fpkg\nTags: PPSA10665, v01.003.004, EUR, DLCs Merged, 4.xx BackPort\nSize: 296GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0PdzyX6PL3eA/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/AHoMQl0h4T"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/nkawlbpure5d"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/w86bpc2cnqp9"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/0j5wv87woird"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/qPez44ENqzOY/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/qpncXF6VkR"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/tam0hvf8hnri"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/12ufwu1h8if1"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha22/1974fdf5eaac7c1bfcec"
+        }
+      ],
+      "sizeBytes": 317827579904
+    },
+    {
+      "titleId": "PPSA22327",
+      "title": "Forza Horizon 5",
+      "version": "v01.685.672",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Forza_Horizon_5.png",
+      "description": "Builds: Fpkg\nTags: PPSA22327, v01.685.672, USA, DLCs Merged, 4.xx BackPork\nSize: 266GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: High-Speed007\nHow to play: • Ignore if you already have account with fake sign in - Download offact by ps5-payload-dev and active the account (better if is a new one) then download np-fake-signin by earthonion, send the .elf to your PS5 and before restart the console on your connection add this DNS 127.0.0.1 or turn off the connection. FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/k0embV698mVb/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/k8MBSpDmFN"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/o3x2bk3sppht"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/vgKGxXP69G8Q/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/iwCm9tMQ#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/6RAaiqKz"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/WPe5BAFI#FileKeeper"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha31/b6260cef9c222b6d21c9/PPSA22327-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 285615325184
+    },
+    {
       "titleId": "PPSA16951",
       "title": "Tales of Xillia Remastered",
       "version": "v01.000.003",
@@ -2599,37 +2693,6 @@
         }
       ],
       "sizeBytes": 59055800320
-    },
-    {
-      "titleId": "PPSA10665",
-      "title": "Final Fantasy XVI Complete Edition",
-      "version": "v01.003.004",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Final_Fantasy_XVI_CE.avif",
-      "description": "Tags: PPSA10665, v01.003.004, EUR, DLCs Merged, 4.xx BackPort\nSize: 296GB\nCredits: Files: DUPLEX & SiESPta; DLC: DUPLEX & SiESPta",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/0PdzyX6PL3eA/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/AHoMQl0h4T"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/nkawlbpure5d"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/w86bpc2cnqp9"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/0j5wv87woird"
-        }
-      ],
-      "sizeBytes": 317827579904
     },
     {
       "titleId": "PPSA02343",
@@ -21071,29 +21134,6 @@
       "sizeBytes": 13958643712
     },
     {
-      "titleId": "PPSA22327",
-      "title": "Forza Horizon 5",
-      "version": "v01.685.672",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Forza_Horizon_5.png",
-      "description": "Tags: PPSA22327, v01.685.672, USA, DLCs Merged, 4.xx BackPork\nSize: 266GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: High-Speed007\nHow to play: • Ignore if you already have account with fake sign in - Download offact by ps5-payload-dev and active the account (better if is a new one) then download np-fake-signin by earthonion, send the .elf to your PS5 and before restart the console on your connection add this DNS 127.0.0.1 or turn off the connection. Enjoy.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/k0embV698mVb/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/k8MBSpDmFN"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/o3x2bk3sppht"
-        }
-      ],
-      "sizeBytes": 285615325184
-    },
-    {
       "titleId": "PPSA19728",
       "title": "Star Wars Dark Forces Remaster",
       "version": "v02.000",
@@ -24810,5 +24850,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-25T02:58:26.909Z"
+  "_generated": "2026-09-26T03:01:47.166Z"
 }
