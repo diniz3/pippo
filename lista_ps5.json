@@ -3,6 +3,104 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA13195",
+      "title": "Stellar Blade Complete Edition",
+      "version": "v01.014.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Stellar_Blade_CE.avif",
+      "description": "Builds: Standard 9.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA13195, v01.014.001, JPN, DLCs Merged, Standard (9.xx) + 4.xx BackPork\nSize: 90GB\nCredits: Files: SiESPta; Backport: BestPig; DLC: Pippo & DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "Standard 9.xx - AkiraBox",
+          "url": "https://akirabox.com/qPez4ABrxGOY/file"
+        },
+        {
+          "name": "Standard 9.xx - VikingFile",
+          "url": "https://vikingfile.com/f/4ch8hOJQQt"
+        },
+        {
+          "name": "Standard 9.xx - DataNodes",
+          "url": "https://datanodes.to/gazdhz79vj3f"
+        },
+        {
+          "name": "4.xx BackPort - AkiraBox",
+          "url": "https://akirabox.com/gXeGOoarkGAa/file"
+        },
+        {
+          "name": "4.xx BackPort - VikingFile",
+          "url": "https://vikingfile.com/f/nYVxoizay8"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/ga29nprhm75p"
+        },
+        {
+          "name": "Fpkg Backport - AkiraBox",
+          "url": "https://akirabox.com/k0embb7onmVb/file"
+        },
+        {
+          "name": "Fpkg Backport - VikingFile",
+          "url": "https://vikingfile.com/f/EhD94VFHTX"
+        },
+        {
+          "name": "Fpkg Backport - DataNodes",
+          "url": "https://datanodes.to/r3vdvd68re4l"
+        },
+        {
+          "name": "Fpkg Backport - FileKeeper",
+          "url": "https://filekeeper.net/lazg9vuvclkn"
+        },
+        {
+          "name": "Fpkg Backport - Filed",
+          "url": "https://fileditchfiles.st/balpha22/37ae2c20913f42534063/PPSA13195-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 96636764160
+    },
+    {
+      "titleId": "PPSA15186",
+      "title": "Vampire The Masquerade Bloodlines 2",
+      "version": "v01.013",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Vampire_The_Masquerade_Bloodlines_2.png",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA15186, v01.013, USA, 4.xx BackPort\nSize: 19GB\nCredits: Files: High-Speed007; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/wbm1hxi7vc5h"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/wm2esqucc4jj"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/5iduh7emwtkp"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/Z9dzBPMAOmk1/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/GgwnFqxw8Z"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/5ccbw0swu41s"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/5hhcm2ymr1jd"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha22/9ecbc2954deb14169baa/PPSA15186-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 20401094656
+    },
+    {
       "titleId": "PPSA10665",
       "title": "Final Fantasy XVI Complete Edition",
       "version": "v01.003.004",
@@ -102,7 +200,7 @@
       "version": "v01.000.003",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Tales_of_Xillia_Remastered.avif",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA16951, v01.000.003, ASIA to EUR Langs, 4.xx BackPort\nSize: 18GB\nCredits: Files: Yue Lingfeng; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA16951, v01.000.003, ASIA to EUR Langs, 4.xx BackPort\nSize: 18GB\nCredits: Files: Yue Lingfeng; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
       "downloadLinks": [
         {
           "name": "Dump - AkiraBox",
@@ -153,7 +251,7 @@
       "version": "v01.002",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/No_Sleep_For_Kaname_Date_From_AI_THE_SOMNIUM_FILES.avif",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA24662, v01.002, JPN, 4.xx BackPort\nSize: 10GB\nCredits: Files: Yue Lingfeng & Lai Qi Xiao; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA24662, v01.002, JPN, 4.xx BackPort\nSize: 10GB\nCredits: Files: Yue Lingfeng & Lai Qi Xiao; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
       "downloadLinks": [
         {
           "name": "Dump - AkiraBox",
@@ -204,7 +302,7 @@
       "version": "v01.036.178",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Days_Gone_Remastered.png",
-      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA28180, v01.036.178, Region Bypass, 4.xx BackPork\nSize: 67GB\nCredits: Files: High-Speed007; Backport: BestPig & DecKerr97; DLC: Pippo (Lapy05575948 Tool)\nHow to play: For make Region Bypass work i sacrifice French Audio Only, texts are fine. FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA28180, v01.036.178, Region Bypass, 4.xx BackPork\nSize: 67GB\nCredits: Files: High-Speed007; Backport: BestPig & DecKerr97; DLC: Pippo (Lapy05575948 Tool)\nHow to play: For make Region Bypass work i sacrifice French Audio Only, texts are fine. FPKG atm is only working up to 11.60, use exFAT/Dump if you are above.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -17157,68 +17255,6 @@
       "sizeBytes": 2147483648
     },
     {
-      "titleId": "PPSA29866",
-      "title": "Tomba 2 The Evil Swine Return Special Edition",
-      "version": "v01.300.100",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Tomba_2_The_Evil_Swine_Return_Special_Edition.jpg",
-      "description": "Builds: 7.xx BackPort\nTags: PPSA29866, v01.300.100, EUR, 7.xx BackPort\nSize: 5GB\nCredits: Files: Boredslappy & SiESPTA; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "7.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/0PdzyQNZrzeA/file"
-        },
-        {
-          "name": "7.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/v7iwYJNRxN"
-        },
-        {
-          "name": "7.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/u5532wng6ha0"
-        },
-        {
-          "name": "7.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/635nu4a7wf4x"
-        },
-        {
-          "name": "7.xx BackPort - DataVault",
-          "url": "https://datavaults.co/4st8z6m577f3"
-        }
-      ],
-      "sizeBytes": 5368709120
-    },
-    {
-      "titleId": "PPSA21382",
-      "title": "Tomba Special Edition",
-      "version": "v01.003",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Tomba_Special_Edition.jpg",
-      "description": "Builds: 7.xx BackPort\nTags: PPSA21382, v01.003, EUR, 7.xx BackPort\nSize: 4GB\nCredits: Files: Boredslappy & SiESPTA; Backport: DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "7.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/qPez4A8o5GOY/file"
-        },
-        {
-          "name": "7.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/h0rDyahEMo"
-        },
-        {
-          "name": "7.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/5b0pviwi15vg"
-        },
-        {
-          "name": "7.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/wpqffcylxsfy"
-        },
-        {
-          "name": "7.xx BackPort - DataVault",
-          "url": "https://datavaults.co/xaxowvz3eods"
-        }
-      ],
-      "sizeBytes": 4294967296
-    },
-    {
       "titleId": "PPSA30797",
       "title": "KAKU Ancient Seal",
       "version": "v01.005",
@@ -19630,41 +19666,6 @@
         }
       ],
       "sizeBytes": 122406567936
-    },
-    {
-      "titleId": "PPSA13195",
-      "title": "Stellar Blade",
-      "version": "v01.014.001",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Stellar_Blade.webp",
-      "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA13195, v01.014.001, JPN, DLCs Merged, Standard (9.xx) + 4.xx BackPork\nSize: 90GB\nCredits: Files: SiESPta; Backport: BestPig; DLC: Pippo",
-      "downloadLinks": [
-        {
-          "name": "Standard 9.xx - AkiraBox",
-          "url": "https://akirabox.com/qPez4ABrxGOY/file"
-        },
-        {
-          "name": "Standard 9.xx - VikingFile",
-          "url": "https://vikingfile.com/f/4ch8hOJQQt"
-        },
-        {
-          "name": "Standard 9.xx - DataNodes",
-          "url": "https://datanodes.to/gazdhz79vj3f"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/gXeGOoarkGAa/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/nYVxoizay8"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/ga29nprhm75p"
-        }
-      ],
-      "sizeBytes": 96636764160
     },
     {
       "titleId": "PPSA21783",
@@ -24499,33 +24500,6 @@
       "sizeBytes": 51539607552
     },
     {
-      "titleId": "PPSA15186",
-      "title": "Vampire The Masquerade Bloodlines 2",
-      "version": "v01.003",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Vampire_The_Masquerade_Bloodlines_2.png",
-      "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA15186, v01.003, EUR, Standard (9.xx) + 4.xx BackPork\nSize: 19GB\nCredits: Files: High-Speed007; Backport: BestPig",
-      "downloadLinks": [
-        {
-          "name": "Standard 9.xx - AkiraBox",
-          "url": "https://akirabox.com/gXeGOrBBdzAa/file"
-        },
-        {
-          "name": "Standard 9.xx - VikingFile",
-          "url": "https://vikingfile.com/f/awGLg1rsPW"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/0rpmvL8dZzRg/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/D7Irrjq4YG"
-        }
-      ],
-      "sizeBytes": 20401094656
-    },
-    {
       "titleId": "PPSA04906",
       "title": "Treasures of The Aegean",
       "version": "v01.002",
@@ -24850,5 +24824,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-26T03:01:47.166Z"
+  "_generated": "2026-09-27T03:06:50.170Z"
 }
