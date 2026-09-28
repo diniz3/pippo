@@ -3,6 +3,194 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA15508",
+      "title": "The Last of Us Part II Remastered Deluxe Edition",
+      "version": "v02.001.010",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Last_of_Us_Part_II_DE.avif",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA15508, v02.001.010, EUR, 4.xx BackPork\nSize: 155GB\nCredits: Files: SiESPTA; Backport: BestPig & DecKerr97; DLC: Pippo & Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/N2p3DQDApzMa/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/zeJfTPL1z1"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/xrbojl7w8j6c"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/0maaex3jq7im"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/podqcm8r17o6"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/l5YzMZQLYGyO/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/hcitO9u4Rb"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/xoobmf7ar1zm"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/bm1e9p8jerka"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha31/8a7fc4e3f17f9dfe06c4/PPSA15508-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 166429982720
+    },
+    {
+      "titleId": "PPSA03396",
+      "title": "The Last of Us Part I Deluxe Edition",
+      "version": "v02.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Last_of_Us_Part_I.webp",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA03396, v02.000, USA to EUR Langs, 4.xx BackPork\nSize: 127GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pippo & Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/qw1zeYQKZzXy/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/EzNVkgQv5w"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/v85gnfz1jxl6"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/or2ysoj2bkeu"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/kpzc3rw47tly"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/0PdzyXPZ03eA/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/wMNOYsi3ia"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/hhttbfyx2jhi"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/t6mjxfxwbxv6"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha22/48496eb0db86560fe9b3/PPSA03396-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 136365211648
+    },
+    {
+      "titleId": "PPSA07783",
+      "title": "Star Wars Jedi Survivor Deluxe Edition",
+      "version": "v01.013",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Star_Wars_Jedi_Survivor_DE.avif",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA07783, v01.013, USA to EUR Langs, 4.xx BackPork\nSize: 311GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pippo & DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/APVma0BEVGXo/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/dYI4xk2MLa"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/75wyd0arxmwt"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/l7sz8fqhqavi"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/idfbhik7jdt1"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/2bJG8bB503OB/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/tmmn-TnE#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/tmmn-TnE#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/tmmn-TnE#FileKeeper"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha22/821ff44ea3b7a0455f2b/PPSA07783-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 333933707264
+    },
+    {
+      "titleId": "PPSA15972",
+      "title": "DYNASTY WARRIORS ORIGINS",
+      "version": "v01.008",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/DYNASTY_WARRIORS_ORIGINS.avif",
+      "description": "Builds: Fpkg\nTags: PPSA15972, v01.008, JPN, 4.xx BackPort\nSize: 78GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/3lw1fbgwcfb7"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/obj3j7QO1zDx/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/Oa1dj0eWIS"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/052mnphf5ufd"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/w6hj7hjk2q52"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha22/c88a8f469a9ba37d0768/PPSA15972-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 83751862272
+    },
+    {
       "titleId": "PPSA13195",
       "title": "Stellar Blade Complete Edition",
       "version": "v01.014.001",
@@ -63,7 +251,7 @@
       "version": "v01.013",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Vampire_The_Masquerade_Bloodlines_2.png",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA15186, v01.013, USA, 4.xx BackPort\nSize: 19GB\nCredits: Files: High-Speed007; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA15186, v01.013, USA, 4.xx BackPort\nSize: 19GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "DataNodes",
@@ -19564,29 +19752,6 @@
       "sizeBytes": 77309411328
     },
     {
-      "titleId": "PPSA07783",
-      "title": "Star Wars Jedi Survivor",
-      "version": "v01.013",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Star_Wars_Jedi_Survivor.webp",
-      "description": "Tags: PPSA07783, v01.013, USA to EUR Languages, 4.xx BackPork\nSize: 311GB\nCredits: Files: High-Speed007; Backport: BestPig",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/APVma0BEVGXo/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/dYI4xk2MLa"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/75wyd0arxmwt"
-        }
-      ],
-      "sizeBytes": 333933707264
-    },
-    {
       "titleId": "PPSA24701",
       "title": "Digimon Story Time Stranger",
       "version": "v01.011",
@@ -21975,29 +22140,6 @@
       "sizeBytes": 32212254720
     },
     {
-      "titleId": "PPSA15508",
-      "title": "The Last of Us Part II Remastered",
-      "version": "v02.001.010",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Last_of_Us_Part_II.avif",
-      "description": "Tags: PPSA15508, v02.001.010, EUR, 4.xx BackPork\nSize: 155GB\nCredits: Files: SiESPTA; Backport: BestPig & DecKerr97",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/N2p3DQDApzMa/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/zeJfTPL1z1"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/xrbojl7w8j6c"
-        }
-      ],
-      "sizeBytes": 166429982720
-    },
-    {
       "titleId": "PPSA18697",
       "title": "The Bearer & The Last Flame",
       "version": "v01.000.026",
@@ -22073,29 +22215,6 @@
         }
       ],
       "sizeBytes": 144955146240
-    },
-    {
-      "titleId": "PPSA03396",
-      "title": "The Last of Us Part I",
-      "version": "v02.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Last_of_Us_Part_I.webp",
-      "description": "Tags: PPSA03396, v02.000, Pro Features, USA to EUR Languages, 4.xx BackPork\nSize: 127GB\nCredits: Files: High-Speed007; Backport: BestPig",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/qw1zeYQKZzXy/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/EzNVkgQv5w"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/v85gnfz1jxl6"
-        }
-      ],
-      "sizeBytes": 136365211648
     },
     {
       "titleId": "PPSA30528",
@@ -24824,5 +24943,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-27T03:06:50.170Z"
+  "_generated": "2026-09-28T03:03:50.851Z"
 }
