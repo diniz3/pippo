@@ -3,6 +3,151 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA02015",
+      "title": "Death Stranding 2 On The Beach",
+      "version": "v01.013",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/DS2.avif",
+      "description": "Builds: Fpkg\nTags: PPSA02015, v01.013, USA, 4.xx BackPork\nSize: 159GB\nCredits: Files: High-Speed007; Backport: Kira & BestPig\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/Y2xm01MbL3RO/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/Ovd1CHFukK"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/9vbfh0u96jo0"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/jjk30q1ramvj"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/fs9zi2ywpkbv"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/l5YzMZdBRGyO/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/IVlOXVDv83"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/ahe5i0wjzicc"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/dcgv31ccuwt3"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha23/e22b2f1da1ebb5fd3157/PPSA02015-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 170724950016
+    },
+    {
+      "titleId": "PPSA01969",
+      "title": "Death Stranding Directors Cut",
+      "version": "v01.005",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Death_Stranding_Directors_Cut.jpg",
+      "description": "Builds: Fpkg\nTags: PPSA01969, v01.005, USA, DLCs Merged, 4.xx BackPort\nSize: 116GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/0PdzyQ1wkzeA/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/URo7hSm60w"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/zbnxlvoun3d4"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/49g7uhd6htp5"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/b54xggn1o4cg"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/APVmaba9q3Xo/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/TnHIZimrWw"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/sa1ybd4xvpct"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/mbomlo38wjax"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha23/742a3a4e78b42d42182a/PPSA01969-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 124554051584
+    },
+    {
+      "titleId": "PPSA01341",
+      "title": "Demons Souls Deluxe Edition",
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Demons_Souls_DE.avif",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA01341, v01.007, EUR, 4.xx BackPort\nSize: 96GB\nCredits: Files: Pandatwig; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/m7rgipncok9u"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/o09rdxmemhuu"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/rnh5flkeej3w"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/0JgG75y6N3oY/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/S7DwYKvCYX"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/jxqtjm5lbzb9"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/ljlsy70l9hek"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha23/c22ae26aa69c23bb252f/PPSA01341-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 103079215104
+    },
+    {
       "titleId": "PPSA15508",
       "title": "The Last of Us Part II Remastered Deluxe Edition",
       "version": "v02.001.010",
@@ -11290,37 +11435,6 @@
       "sizeBytes": 122406567936
     },
     {
-      "titleId": "PPSA01969",
-      "title": "Death Stranding Directors Cut",
-      "version": "v01.005",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Death_Stranding_Directors_Cut.jpg",
-      "description": "Tags: PPSA01969, v01.005, USA, DLCs Merged, 4.xx BackPort\nSize: 116GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pkykzhack",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/0PdzyQ1wkzeA/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/URo7hSm60w"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/zbnxlvoun3d4"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/49g7uhd6htp5"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/b54xggn1o4cg"
-        }
-      ],
-      "sizeBytes": 124554051584
-    },
-    {
       "titleId": "PPSA03098",
       "title": "Dead Island 2 Ultimate Edition",
       "version": "v01.000.011",
@@ -17040,37 +17154,6 @@
         }
       ],
       "sizeBytes": 9663676416
-    },
-    {
-      "titleId": "PPSA02015",
-      "title": "Death Stranding 2 On The Beach",
-      "version": "v01.013",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/DS2.avif",
-      "description": "Tags: PPSA02015, v01.013, USA, DLCs Merged, 4.xx BackPork\nSize: 159GB\nCredits: Files: High-Speed007; Backport: Kira & BestPig",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/Y2xm01MbL3RO/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/Ovd1CHFukK"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/9vbfh0u96jo0"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/jjk30q1ramvj"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/fs9zi2ywpkbv"
-        }
-      ],
-      "sizeBytes": 170724950016
     },
     {
       "titleId": "PPSA03416",
@@ -23371,41 +23454,6 @@
       "sizeBytes": 46170898432
     },
     {
-      "titleId": "PPSA01342",
-      "title": "Demon's Souls",
-      "version": "v01.005",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Demons_Souls.png",
-      "description": "Builds: Standard 9.xx, 4.xx BackPort, DLC\nTags: PPSA01342, v01.005, USA, Pro Features, USA to EUR Languages, Standard (9.xx) + 4.xx BackPork\nSize: 87GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pkykzhack",
-      "downloadLinks": [
-        {
-          "name": "Standard 9.xx - AkiraBox",
-          "url": "https://akirabox.com/obj3jOYn5zDx/file"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/k0embV879mVb/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/4exUyXElcY"
-        },
-        {
-          "name": "4.xx BackPort - BuzzHeavier",
-          "url": "https://buzzheavier.com/u6oo7n6pziql"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/M2BGwWrlPGj4/file"
-        },
-        {
-          "name": "DLC - VikingFile",
-          "url": "https://vikingfile.com/f/HnfqlFukCg"
-        }
-      ],
-      "sizeBytes": 93415538688
-    },
-    {
       "titleId": "PPSA01556",
       "title": "Resident Evil Village Gold Edition",
       "version": "v01.210",
@@ -24943,5 +24991,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-28T03:03:50.851Z"
+  "_generated": "2026-09-29T03:43:29.032Z"
 }
