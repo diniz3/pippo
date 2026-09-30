@@ -3,6 +3,143 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA18605",
+      "title": "Ready or Not Deluxe Edition",
+      "version": "v01.001.008",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ready_or_Not_DE.avif",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA18605, v01.001.008, USA, 4.xx BackPort\nSize: 72GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/tmia88x27k44"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/uxcexake4kck"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/on754ovledy0"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/E9Qz9X7R23OL/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/GEUPhkwape"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/5nwjcp28tu5q"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/wkkjmxg9ytc0"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha32/839676943c220e9370c0/PPSA18605-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 77309411328
+    },
+    {
+      "titleId": "PPSA11386",
+      "title": "007 First Light Deluxe Edition",
+      "version": "v01.018",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/007_First_Light_DE.jpg",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA11386, v01.018, EUR, 4.xx BackPort\nSize: 81GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/69czbsmdqyg7"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/1lmxofuurtsq"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/zsn3hv8snbtb"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/2WVGrdePB3kx/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/NSVJ7pp9me"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/dz8sizpspx8d"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/xcsxt3l31iui"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha32/74fdbe90560222fc3953/PPSA11386-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 86973087744
+    },
+    {
+      "titleId": "PPSA19534",
+      "title": "Battlefield 6",
+      "version": "v01.000.016",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Battlefield_6.avif",
+      "description": "Builds: Fpkg\nTags: PPSA19534, v01.000.016, USA, 4.xx BackPort\nSize: 234GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: ShadowMountPlus beta16 is recommended for exFAT, FPKG fixed for make it work with ShadowMountPlus 1.7beta1+, thx to DecKerr97 & drakmor for suggestion. FPKG atm is only working up to 11.60, use exFAT if you are above. This Content is now Multi-Langs based on Console Language.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/QN9mEqndRm6d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/AFUVMQqtEI"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/mf45p8f19zrl"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/p31ctom5t2sj"
+        },
+        {
+          "name": "DataVault",
+          "url": "https://datavaults.co/pqb8s69chpgt"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/M2BGwP1Pkmj4/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/evQe10LpMS"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.co/46gk82jk72vx"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/w7meken18h52"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha23/16edbfc994370fbfa890/PPSA19534%5BMulti-Langs%5D-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 251255586816
+    },
+    {
       "titleId": "PPSA02015",
       "title": "Death Stranding 2 On The Beach",
       "version": "v01.013",
@@ -754,57 +891,6 @@
         }
       ],
       "sizeBytes": 235149459456
-    },
-    {
-      "titleId": "PPSA19534",
-      "title": "Battlefield 6",
-      "version": "v01.000.016",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Battlefield_6.avif",
-      "description": "Builds: Fpkg\nTags: PPSA19534, v01.000.016, USA, 4.xx BackPort\nSize: 234GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: ShadowMountPlus beta16 is recommended for exFAT, FPKG fixed for make it work with ShadowMountPlus 1.7beta1+, thx to DecKerr97 & drakmor for suggestion. FPKG atm is only working up to 11.60, use exFAT if you are above.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/QN9mEqndRm6d/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/AFUVMQqtEI"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/mf45p8f19zrl"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/p31ctom5t2sj"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/pqb8s69chpgt"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/E9Qz9XQjW3OL/file"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/MR3CSuWMqK"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/cmu4milcljen"
-        },
-        {
-          "name": "Fpkg - FileKeeper",
-          "url": "https://filekeeper.net/vf6cl9mr05lh"
-        },
-        {
-          "name": "Fpkg - Filed",
-          "url": "https://fileditchfiles.st/alpha31/67e80052b7e31b6bf2cf/PPSA19534-Compressed.7z"
-        }
-      ],
-      "sizeBytes": 251255586816
     },
     {
       "titleId": "PPSA24662",
@@ -24991,5 +25077,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-29T03:43:29.032Z"
+  "_generated": "2026-09-30T03:31:24.853Z"
 }
