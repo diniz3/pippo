@@ -3,12 +3,164 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03671",
+      "title": "Marvels Wolverine",
+      "version": "v01.001.005",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Wolverine.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA03671, v01.001.005, USA, 4.xx BackPort\nSize: 183GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/i7k5srbbha2d/PPSA03671.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/00kuc65e55aa"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/E9Qz9XelW3OL/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/qBIICH547P"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/n25kduu9uekp"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/enlx2jgat4rz"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha24/76190aaba13bbd78cafb/PPSA03671-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 196494753792
+    },
+    {
+      "titleId": "PPSA15595",
+      "title": "Marvels Tokon Fighting Souls",
+      "version": "v01.002.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MARVEL_Tokon_Fighting_Souls.avif",
+      "description": "Builds: Fpkg\nTags: PPSA15595, v01.002.003, JPN, 4.xx BackPort\nSize: 97GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/vgo19xx6cl26"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/dZxG5oMOY3Vj/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/S3jYyAFZTs"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/r7oick6p8vgs"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/wvpgurf0r87l"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha32/e575911cabbb6a0767fe/PPSA15595-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 104152956928
+    },
+    {
+      "titleId": "PPSA28183",
+      "title": "Assassins Creed Black Flag Resynced Deluxe Edition",
+      "version": "v01.006.038",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/AC_Black_Flag_Resynced_DE.avif",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA28183, v01.006.038, EUR, 4.xx BackPort\nSize: 122GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/dnnh431y0iy7"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/tdpllwpymz2k"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/rkmns8tjuc4h"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/0PdzyXK5d3eA/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/CDhIcZQV44"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/vflgkjmasb6k"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/fr1t7qz9uq34"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha24/dbbdaa37c6d04847c65d/PPSA28183-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 130996502528
+    },
+    {
+      "titleId": "PPSA28997",
+      "title": "God of War Sons of Sparta",
+      "version": "v01.008.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/God_of_War_Sons_of_Sparta.avif",
+      "description": "Builds: Fpkg\nTags: PPSA28997, v01.008.001, USA, 4.xx BackPort\nSize: 24GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/79ff87061a2r"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/M2BGwPMPPmj4/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/9N2oVutCz5"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/230ck2qgl9tu"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/uvv89sm0974z"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha32/14c071712746d8cf0211/PPSA28997-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 25769803776
+    },
+    {
       "titleId": "PPSA18605",
       "title": "Ready or Not Deluxe Edition",
       "version": "v01.001.008",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ready_or_Not_DE.avif",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA18605, v01.001.008, USA, 4.xx BackPort\nSize: 72GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA18605, v01.001.008, USA, 4.xx BackPort\nSize: 72GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "DataNodes",
@@ -51,7 +203,7 @@
       "version": "v01.018",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/007_First_Light_DE.jpg",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA11386, v01.018, EUR, 4.xx BackPort\nSize: 81GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA11386, v01.018, EUR, 4.xx BackPort\nSize: 81GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "DataNodes",
@@ -25077,5 +25229,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-09-30T03:31:24.853Z"
+  "_generated": "2026-10-01T03:36:23.383Z"
 }
