@@ -3,6 +3,147 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA11386",
+      "title": "007 First Light Deluxe Edition",
+      "version": "v01.018",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/007_First_Light_DE.jpg",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA11386, v01.018, EUR, 4.xx BackPort\nSize: 81GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. Base FPKG is 13.xx, separated BackPort PKG for 4.xx with Pro Fix included.",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/6n4fm3zbakno"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/p3kbr0tiirlg"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/1lmxofuurtsq"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/zsn3hv8snbtb"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/qw1zeb060GXy/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/3oNajZWxOL"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/5xqmkgrkf9vx"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/2sh9em356kon"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha33/9ac7f4849935373d5a68/PPSA11386-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 86973087744
+    },
+    {
+      "titleId": "PPSA03671",
+      "title": "Marvels Wolverine",
+      "version": "v01.001.005",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Wolverine.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA03671, v01.001.005, USA, 4.xx BackPort\nSize: 183GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG is 13.xx, separated BackPort PKG for 4.xx with Pro Fix included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/19k4qhtjwozf"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/k29x25ov0nts"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/QN9mEq1Axm6d/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/yQtwqOjSNt"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/cusxhplrz5na"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/txsy5bq000q8"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha33/af9469aafc18f63096b3/PPSA03671-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 196494753792
+    },
+    {
+      "titleId": "PPSA16833",
+      "title": "LEGO Batman Legacy of The Dark Knight Deluxe Edition",
+      "version": "v01.010",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/LEGO_Batman_Legacy_of_The_Dark_Knight_DE.avif",
+      "description": "Builds: Standard 5.xx, 4.xx BackPort, DLC, Fpkg\nTags: PPSA16833, v01.010, USA, Standard (5.xx) + 4.xx BackPort\nSize: 110GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. BP 4 Ver only on 4.xx FW. Base FPKG is 12.xx, separated BackPort PKG for 4.xx Only and 5.xx included.",
+      "downloadLinks": [
+        {
+          "name": "Standard 5.xx - FileKeeper",
+          "url": "https://filekeeper.net/j6lq57mjorlo"
+        },
+        {
+          "name": "Standard 5.xx - DataNodes",
+          "url": "https://datanodes.to/rwawlea1kwxx"
+        },
+        {
+          "name": "4.xx BackPort - FileKeeper",
+          "url": "https://filekeeper.net/xn0vgdl960rj"
+        },
+        {
+          "name": "4.xx BackPort - DataNodes",
+          "url": "https://datanodes.to/rmbx07va0qhp"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/xewgfwa5sihw"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/dff5nj77eg68"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/XkrzoKOjZzBO/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/lP4bHlS1cx"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/d0ww91yq21y6"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/02ydxylnva9d"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha33/42a029bc7913b92647f5/PPSA16833-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 118111600640
+    },
+    {
       "titleId": "PPSA34015",
       "title": "EA SPORTS FC 27",
       "version": "v01.00.004",
@@ -48,45 +189,6 @@
         }
       ],
       "sizeBytes": 187904819200
-    },
-    {
-      "titleId": "PPSA03671",
-      "title": "Marvels Wolverine",
-      "version": "v01.001.005",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Wolverine.avif",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA03671, v01.001.005, USA, 4.xx BackPort\nSize: 183GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
-      "downloadLinks": [
-        {
-          "name": "Dump - DataNodes",
-          "url": "https://datanodes.to/i7k5srbbha2d/PPSA03671.7z"
-        },
-        {
-          "name": "Dump - FileKeeper",
-          "url": "https://filekeeper.net/00kuc65e55aa"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/E9Qz9XelW3OL/file"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/qBIICH547P"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/n25kduu9uekp"
-        },
-        {
-          "name": "Fpkg - FileKeeper",
-          "url": "https://filekeeper.net/enlx2jgat4rz"
-        },
-        {
-          "name": "Fpkg - Filed",
-          "url": "https://fileditchfiles.st/balpha24/76190aaba13bbd78cafb/PPSA03671-Compressed.7z"
-        }
-      ],
-      "sizeBytes": 196494753792
     },
     {
       "titleId": "PPSA15595",
@@ -243,49 +345,6 @@
         }
       ],
       "sizeBytes": 77309411328
-    },
-    {
-      "titleId": "PPSA11386",
-      "title": "007 First Light Deluxe Edition",
-      "version": "v01.018",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/007_First_Light_DE.jpg",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA11386, v01.018, EUR, 4.xx BackPort\nSize: 81GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
-      "downloadLinks": [
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/69czbsmdqyg7"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/1lmxofuurtsq"
-        },
-        {
-          "name": "DLC - DataVault",
-          "url": "https://datavaults.co/zsn3hv8snbtb"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/2WVGrdePB3kx/file"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/NSVJ7pp9me"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/dz8sizpspx8d"
-        },
-        {
-          "name": "Fpkg - FileKeeper",
-          "url": "https://filekeeper.net/xcsxt3l31iui"
-        },
-        {
-          "name": "Fpkg - Filed",
-          "url": "https://fileditchfiles.st/alpha32/74fdbe90560222fc3953/PPSA11386-Compressed.7z"
-        }
-      ],
-      "sizeBytes": 86973087744
     },
     {
       "titleId": "PPSA19534",
@@ -1058,7 +1117,7 @@
         },
         {
           "name": "Dump - DataNodes",
-          "url": "https://datanodes.to/joa3qc8bx6s2"
+          "url": "https://datanodes.to/kbtvbx5y59zv"
         },
         {
           "name": "Dump - FileKeeper",
@@ -2064,7 +2123,7 @@
       "version": "v01.200.007",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Alan_Wake_2_Deluxe_Edition.avif",
-      "description": "Builds: Fpkg Backport\nTags: PPSA02572, v01.200.007, EUR, DLCs Merged, 4.xx BackPork\nSize: 137GB\nCredits: Files: SiESPTA; Backport: BestPig; DLC: Pkykzhack \nHow to play: Only exFAT: Ignore Trophy problem popup at the beginning, saves work fine and can be loaded. FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Fpkg Backport\nTags: PPSA02572, v01.200.007, EUR, DLCs Merged, 4.xx BackPork\nSize: 137GB\nCredits: Files: SiESPTA; Backport: BestPig; DLC: Pkykzhack\nHow to play: Only exFAT: Ignore Trophy problem popup at the beginning, saves work fine and can be loaded. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -18157,7 +18216,7 @@
       "version": "v01.017",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Saints_Row_GE.avif",
-      "description": "Tags: PPSA02813, v01.017, EUR, DLCs Merged, 4.xx and beyond\nSize: 75GB\nCredits: Files: DUPLEX; DLC: DUPLEX",
+      "description": "Tags: PPSA02813, v01.017, EUR, DLCs Merged, 4.xx and beyond\nSize: 75GB\nCredits: Files: DUPLEX; DLC: DUPLEX\nHow to play: Loading infinite when starting a new game is now fixed.",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -23331,7 +23390,7 @@
       "version": "v01.001",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/VARLET.avif",
-      "description": "Tags: PPSA28628, v01.001, ASIA, 4.xx BackPork\nSize: 9GB\nCredits: Files: SiESPTA",
+      "description": "Tags: PPSA28628, v01.001, ASIA, 4.xx BackPork\nSize: 9GB\nCredits: Files: SiESPTA; Backport: BestPig",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -23416,7 +23475,7 @@
       "version": "v01.004",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Overpass_2.avif",
-      "description": "Builds: DLC\nTags: PPSA09850, v01.004, USA, 4.xx\nSize: 51GB\nCredits: Files: High-Speed007; DLC: Pkykzhack",
+      "description": "Builds: DLC\nTags: PPSA09850, v01.004, USA, 4.xx BackPort\nSize: 51GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -24911,7 +24970,7 @@
       "version": "v01.005",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Until_Dawn.png",
-      "description": "Tags: PPSA15421, v01.005, EUR, 4.xx BackPort\nSize: 102GB\nCredits: Files: High-Speed007; Backport: Kira ",
+      "description": "Tags: PPSA15421, v01.005, EUR, 4.xx BackPort\nSize: 102GB\nCredits: Files: High-Speed007; Backport: Kira",
       "downloadLinks": [
         {
           "name": "AkiraBox",
@@ -25276,5 +25335,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-10-02T03:36:50.502Z"
+  "_generated": "2026-10-03T03:20:33.802Z"
 }
