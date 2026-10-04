@@ -3,6 +3,347 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA99902",
+      "title": "Sonic Unleashed Recompiled Unofficial Port",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Sonic_Unleashed_Recompiled.jpg",
+      "description": "Builds: Fpkg\nTags: PPSA99902, v01.003, USA, 4.xx and beyond\nSize: 9GB\nCredits: Files: Nazky\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "Filed",
+          "url": "https://fileditchfiles.st/balpha25/6637c8b2011f804eca4e/PPSA99902.exfat"
+        },
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/E9Qz9XMVV3OL/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/sqLIygCp1d"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/nzj0e3sva5ij"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://filekeeper.net/fienhpjyhtfi"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/l76mZrkB9man/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/YsYPasYURp"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/o8v4cqlfw26t"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/443f44uyqc16"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha25/4efb2cfc51561796f67a/PPSA99902-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 9663676416
+    },
+    {
+      "titleId": "PPSA15595",
+      "title": "Marvels Tokon Fighting Souls Definitive Edition",
+      "version": "v01.002.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MARVEL_Tokon_Fighting_Souls.avif",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA15595, v01.002.003, JPN, 4.xx BackPort\nSize: 97GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: romhunter\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/vgo19xx6cl26"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/6n39m4jensus"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/yu82wu8ep4sj"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/dZxG5oMOY3Vj/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/S3jYyAFZTs"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/r7oick6p8vgs"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/wvpgurf0r87l"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha32/e575911cabbb6a0767fe/PPSA15595-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 104152956928
+    },
+    {
+      "titleId": "PPSA28997",
+      "title": "God of War Sons of Sparta Deluxe Edition",
+      "version": "v01.008.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/God_of_War_Sons_of_Sparta.avif",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA28997, v01.008.001, USA, 4.xx BackPort\nSize: 24GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: romhunter\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadLinks": [
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/79ff87061a2r"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/ukh6o5amkrvo"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/vqh9u0daob1k"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/M2BGwPMPPmj4/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/9N2oVutCz5"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/230ck2qgl9tu"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/uvv89sm0974z"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha32/14c071712746d8cf0211/PPSA28997-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 25769803776
+    },
+    {
+      "titleId": "PPSA35169",
+      "title": "Trails in The Sky 2nd Chapter Deluxe Edition",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Trails_in_The_Sky_2nd_Chapter_DE.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA35169, v01.003, USA, 4.xx BackPort\nSize: 39GB\nCredits: Files: DecKerr97 & Too Eightiesmod; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 12.xx, separated BackPort for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/th9nc8bpyosw"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/7nlaqvxtvl8h"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/m4bmrhiw6v5z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/c99uqj4hbiv4"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/XkrzoKDkWzBO/file"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://fileditchfiles.st/balpha25/47413d3e420b032c7cdb/PPSA35169.7z"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/bopLANwlAI"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/2WVGrdwV03kx/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/egbIZ8OhBz"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/pdlwjjewrjeg"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/90052prlejb5"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha25/c140344eda3e69215fa3/PPSA35169-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 41875931136
+    },
+    {
+      "titleId": "PPSA36543",
+      "title": "Poppy Playtime Chapter 4",
+      "version": "v01.000.300",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Poppy4.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA36543, v01.000.300, USA, 4.xx BackPort\nSize: 12GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 7.xx, separated BackPort for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/5vqhvxjrakzb"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/wz1ptnwipt5j"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/gXeGOAwaA3Aa/file"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://fileditchfiles.st/balpha25/47f8c8cfe7361e9a491f/PPSA25063.7z"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/W1MP1dRI4L"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/0rpmvpBYgzRg/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/ioWcEGvGTO"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/zxc1tkxlhvjq"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/rstahodjwj3s"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/balpha25/6959d6b4ad59831c181b/PPSA25063-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 12884901888
+    },
+    {
+      "titleId": "PPSA29413",
+      "title": "Wobbly Life",
+      "version": "v01.160",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Wobbly_Life.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA29413, v01.160, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/c5p7ghe1dvvv"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/83fpz49kzzgk"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/jar3XlPq232d/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/vipOYVfc8Z"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/XkrzoKDqdzBO/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/ACRHvkDbqp"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/mz6s9xyyz6l7"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/6grpbnolmyqh"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA36543",
+      "title": "Poppy Playtime Chapter 5",
+      "version": "v02.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Poppy_Playtime_Chapter_5.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA36543, v02.000, USA, 4.xx BackPort + 5.xx BackPort\nSize: 8GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort for 4.xx Only and 5.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/lmfqfwx8g8kt"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/db2dslxzhuo3"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/wgWGq7EJ634o/file"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://fileditchfiles.st/alpha33/d4af2cf04157e71dac50/PPSA36543.7z"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/t2GSUjwlwO"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/b5OzdV9BpmB8/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/cU3CKJ4ggg"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/kv74ia96r78e"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/f1v5t6k7aciw"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha33/4bb53a8f6c981d378c27/PPSA36543-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 8589934592
+    },
+    {
       "titleId": "PPSA11386",
       "title": "007 First Light Deluxe Edition",
       "version": "v01.018",
@@ -149,7 +490,7 @@
       "version": "v01.00.004",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/FC27.avif",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA34015, v01.00.004, USA, 4.xx BackPort\nSize: 175GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. DLCs (Unlocker) is mandatory in order to play.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA34015, v01.00.004, USA, 4.xx BackPort\nSize: 175GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. DLCs (Unlocker) is mandatory in order to play with exFAT, FPKG doesnt need instead.",
       "downloadLinks": [
         {
           "name": "FileKeeper",
@@ -189,41 +530,6 @@
         }
       ],
       "sizeBytes": 187904819200
-    },
-    {
-      "titleId": "PPSA15595",
-      "title": "Marvels Tokon Fighting Souls",
-      "version": "v01.002.003",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MARVEL_Tokon_Fighting_Souls.avif",
-      "description": "Builds: Fpkg\nTags: PPSA15595, v01.002.003, JPN, 4.xx BackPort\nSize: 97GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
-      "downloadLinks": [
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/vgo19xx6cl26"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/dZxG5oMOY3Vj/file"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/S3jYyAFZTs"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/r7oick6p8vgs"
-        },
-        {
-          "name": "Fpkg - FileKeeper",
-          "url": "https://filekeeper.net/wvpgurf0r87l"
-        },
-        {
-          "name": "Fpkg - Filed",
-          "url": "https://fileditchfiles.st/alpha32/e575911cabbb6a0767fe/PPSA15595-Compressed.7z"
-        }
-      ],
-      "sizeBytes": 104152956928
     },
     {
       "titleId": "PPSA28183",
@@ -267,41 +573,6 @@
         }
       ],
       "sizeBytes": 130996502528
-    },
-    {
-      "titleId": "PPSA28997",
-      "title": "God of War Sons of Sparta",
-      "version": "v01.008.001",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/God_of_War_Sons_of_Sparta.avif",
-      "description": "Builds: Fpkg\nTags: PPSA28997, v01.008.001, USA, 4.xx BackPort\nSize: 24GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
-      "downloadLinks": [
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/79ff87061a2r"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/M2BGwPMPPmj4/file"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/9N2oVutCz5"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/230ck2qgl9tu"
-        },
-        {
-          "name": "Fpkg - FileKeeper",
-          "url": "https://filekeeper.net/uvv89sm0974z"
-        },
-        {
-          "name": "Fpkg - Filed",
-          "url": "https://fileditchfiles.st/alpha32/14c071712746d8cf0211/PPSA28997-Compressed.7z"
-        }
-      ],
-      "sizeBytes": 25769803776
     },
     {
       "titleId": "PPSA18605",
@@ -25335,5 +25606,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-10-03T03:20:33.802Z"
+  "_generated": "2026-10-04T03:48:22.195Z"
 }
