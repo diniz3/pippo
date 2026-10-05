@@ -3,6 +3,328 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24003",
+      "title": "Dying Light The Beast",
+      "version": "v01.007.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dying_Light_The_Beast.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA24003, v01.007.001, EUR, 4.xx BackPort\nSize: 53GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/1pzbw7mppkig"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/h3bv06psomq5"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/BnkmWv9Q0GR0/file"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://fileditchfiles.st/alpha34/f3dd9725b8b2e31ca379/PPSA24003.7z"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/7WuLdf3NYF"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/2bJG8b5xD3OB/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/Ir9RsgnopR"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/yqgbmg5vp64h"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/9ush5lx9gi2j"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha34/80b1f3772dc431f5cc6d/PPSA24003-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 56908316672
+    },
+    {
+      "titleId": "PPSA06955",
+      "title": "Granblue Fantasy Relink Special Edition",
+      "version": "v02.000.006",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Granblue_Fantasy_Relink_SE.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA06955, v02.000.006, EUR, 4.xx BackPort\nSize: 111GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 8.xx, separated BackPort for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/5kfevwx2zu9h"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/as4ci996o84j"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/nd3rh8qdvxu1"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/d97zkkxpqj58"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/b5OzdVvdWmB8/file"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://fileditchfiles.st/alpha34/96a12724991663b4cf91/PPSA06955.7z"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/TjMDf60X3Y"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/0rpmvpl2DzRg/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/zItK2nfEym"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/y1d40n3id4t7"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/4nm0sqmfl0sn"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha34/063250656a4ec73d6887/PPSA06955-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 119185342464
+    },
+    {
+      "titleId": "PPSA16603",
+      "title": "Granblue Fantasy Versus Rising",
+      "version": "v02.610",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Granblue_Fantasy_Versus_Rising.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA16603, v02.610, EUR, 4.xx BackPort\nSize: 99GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 6.xx, separated BackPort for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/9w1arsywa3sn"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/lcrytdin217n"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/ex5z250OD3Kq/file"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://fileditchfiles.st/alpha34/bba1e456505248021641/PPSA16603.7z"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/j3Y1DSqy9A"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/XkrzoKP7kzBO/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/i9WUNDUTxL"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/79dfp8uf6m60"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/2bvs3c7iwiqt"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha34/d2a0363f5fe7fa31e6e8/PPSA16603-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 106300440576
+    },
+    {
+      "titleId": "PPSA03073",
+      "title": "eFootball 2027",
+      "version": "v06.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/eFootball.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA03073, v06.000, EUR, 3.xx and beyond\nSize: 119GB\nCredits: Files: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/k7r04xi23s0y"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/y72qgq7ksply"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/2WVGrdwkB3kx/file"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://fileditchfiles.st/alpha34/31403e92ecd8b90b30ed/PPSA03073.7z"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/CFWxygYlZD"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/gXeGOAwZJ3Aa/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/Nu47QBgW34"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/kqoq57ipxt2n"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/6vdi8at5agta"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha34/bb6a704128ed6a54fc79/PPSA03073-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 127775277056
+    },
+    {
+      "titleId": "PPSA14383",
+      "title": "Disney Pixar WALL-E",
+      "version": "v01.000.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Disney_Pixar_WALL-E.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA14383, v01.000.001, USA, 4.xx BackPort\nSize: 24GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 9.xx, separated BackPort for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/t92owarsf7bz"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/01ydi5klep8v"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/2WVGrdwa03kx/file"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://fileditchfiles.st/alpha34/3946af6fb77cf543a6c7/PPSA14383.7z"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/0oViO3KtSW"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/b5OzdV9aamB8/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/SeGYeqUnkm"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/cdtmid76ctaf"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/uezyajlq811c"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha34/5d3db6271dc816d13786/PPSA14383-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 25769803776
+    },
+    {
+      "titleId": "PPSA06142",
+      "title": "Super Mega Baseball 4 Ballpark Edition",
+      "version": "v01.008",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Super_Mega_Baseball_4_BPE.jpg",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA06142, v01.008, EUR, 4.xx BackPort\nSize: 18GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 6.xx, separated BackPort for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/0g5p2lu2k0s4"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://datavaults.co/wafva7z97y3v"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/xyei0c79qaum"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/sicmsgc9porw"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.com/gXeGOAwpK3Aa/file"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://fileditchfiles.st/alpha34/f0c960f6ed9101930ec4/PPSA06142.7z"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/kOxTk7PFs8"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/0JgG75kyj3oY/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/y14fG9v6If"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/phljzbygvgxe"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/x63kdbu83xmd"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://fileditchfiles.st/alpha34/dafaaf6ff18e0869f91a/PPSA06142-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 19327352832
+    },
+    {
       "titleId": "PPSA99902",
       "title": "Sonic Unleashed Recompiled Unofficial Port",
       "version": "v01.003",
@@ -4212,45 +4534,6 @@
         }
       ],
       "sizeBytes": 32212254720
-    },
-    {
-      "titleId": "PPSA06955",
-      "title": "Granblue Fantasy Relink Special Edition",
-      "version": "v01.003.002",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Granblue_Fantasy_Relink_SE.avif",
-      "description": "Builds: DLC\nTags: PPSA06955, v01.003.002, EUR, 4.xx BackPort\nSize: 90GB\nCredits: Files: DUPLEX & VanBuuren; Backport: Deckerr97; DLC: DUPLEX & VanBuuren",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/b5OzdVnOamB8/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/wsV4jS9pLA"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/wi0fqwxy4ghy"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/pxo4f7b1uk6p"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/4fjrayme8hw6"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/sc8t2gimxn6b"
-        },
-        {
-          "name": "DLC - DataVault",
-          "url": "https://datavaults.co/gm7ngqdmtjqo"
-        }
-      ],
-      "sizeBytes": 96636764160
     },
     {
       "titleId": "PPSA04489",
@@ -25606,5 +25889,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-10-04T03:48:22.195Z"
+  "_generated": "2026-10-05T03:33:01.382Z"
 }
