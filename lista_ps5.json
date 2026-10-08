@@ -3,6 +3,53 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA34015",
+      "title": "EA SPORTS FC 27",
+      "version": "v01.00.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/FC27.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA34015, v01.00.004, USA, 4.xx BackPort\nSize: 193GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Unlocker already included (dlc-emu). Only FPKG: Some langs like Spanish, Polish etc need to be unlocked by press R3 button and yes on FC 27 Audio Settings.. By pressing Yes, will simulate the package download and then will be unlocked. Base FPKG & Dump are 12.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/9uc6rs7S#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/9uc6rs7S#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/9uc6rs7S#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/9uc6rs7S#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/dPsYccSx#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/dPsYccSx#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/dPsYccSx#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/dPsYccSx#FileKeeper"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/dPsYccSx#FileDitch"
+        }
+      ],
+      "sizeBytes": 207232172032
+    },
+    {
       "titleId": "PPSA99902",
       "title": "Sonic Unleashed Recompiled Unofficial Port",
       "version": "v01.003",
@@ -503,7 +550,7 @@
       "version": "v01.007.001",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Dying_Light_The_Beast.webp",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA24003, v01.007.001, EUR, 4.xx BackPort\nSize: 53GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort for 4.xx+ included.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA24003, v01.007.001, EUR, 4.xx BackPort\nSize: 53GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort for 4.xx+ included. If no Audio set English as your Console Language.",
       "downloadLinks": [
         {
           "name": "Dump - DataNodes",
@@ -1210,53 +1257,6 @@
         }
       ],
       "sizeBytes": 118111600640
-    },
-    {
-      "titleId": "PPSA34015",
-      "title": "EA SPORTS FC 27",
-      "version": "v01.00.004",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/FC27.avif",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA34015, v01.00.004, USA, 4.xx BackPort\nSize: 175GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. DLCs (Unlocker) is mandatory in order to play with exFAT, FPKG doesnt need instead.",
-      "downloadLinks": [
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/glozdk10jccy"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/y0iz47bnc6zj"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/3ot4e1c7j7yj"
-        },
-        {
-          "name": "DLC - DataVault",
-          "url": "https://datavaults.co/wnmv5oywzi71"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/0Kezk750ezD1/file"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/8jPXJtnAJF"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/4fxn8ktz7dym"
-        },
-        {
-          "name": "Fpkg - FileKeeper",
-          "url": "https://filekeeper.net/nrbo4q7wj434"
-        },
-        {
-          "name": "Fpkg - Filed",
-          "url": "https://fileditchfiles.st/balpha24/a0c94e5ade82468a6a7d/PPSA34015-Compressed.7z"
-        }
-      ],
-      "sizeBytes": 187904819200
     },
     {
       "titleId": "PPSA28183",
@@ -26235,5 +26235,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-10-07T03:46:56.954Z"
+  "_generated": "2026-10-08T04:00:53.127Z"
 }
