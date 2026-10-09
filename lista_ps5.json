@@ -3,12 +3,259 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA28416",
+      "title": "STAR WARS Galactic Racer Deluxe Edition",
+      "version": "v01.003.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/STAR_WARS_Galactic_Racer_DE.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA28416, v01.003.001, USA, 4.xx BackPort\nSize: 68GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 13.xx, separated BackPort PKG for 4.xx Only & 5.xx+ included with fixes.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/n2nX4VAJ#DataVaults"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/n2nX4VAJ#DataNodes"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/CjUQMI8R#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/CjUQMI8R#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/CjUQMI8R#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/CjUQMI8R#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/Tm-uOr5X#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/Tm-uOr5X#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/Tm-uOr5X#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/Tm-uOr5X#FileDitch"
+        }
+      ],
+      "sizeBytes": 73014444032
+    },
+    {
+      "titleId": "PPSA18054",
+      "title": "Star Wars Zero Company Deluxe Edition",
+      "version": "v01.000.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Star_Wars_Zero_Company_DE.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA18054, v01.000.003, USA, 4.xx BackPort\nSize: 104GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort PKG for 4.xx Only & 5.xx+ included with fixes.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/wJIb7DOn#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/wJIb7DOn#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/xqokKMSA#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/xqokKMSA#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/xqokKMSA#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/xqokKMSA#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/9N329rkg#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/9N329rkg#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/9N329rkg#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/9N329rkg#FileDitch"
+        }
+      ],
+      "sizeBytes": 111669149696
+    },
+    {
+      "titleId": "PPSA26578",
+      "title": "MOUSE PI For Hire",
+      "version": "v02.002.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MOUSE_PI_For_Hire.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA26578, v02.002.002, USA, 4.xx BackPort\nSize: 18GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort PKG for 4.xx Only & 5.xx+ included with fixes.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/ZFob6KU0#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/ZFob6KU0#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/ZFob6KU0#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/ZFob6KU0#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/mDqn9Bh1#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/mDqn9Bh1#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/mDqn9Bh1#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/mDqn9Bh1#FileDitch"
+        }
+      ],
+      "sizeBytes": 19327352832
+    },
+    {
+      "titleId": "PPSA34502",
+      "title": "Call of Duty Black Ops 2",
+      "version": "v01.010",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Call_of_Duty_Black_Ops_2.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA34502, v01.010, USA, 4.xx BackPort\nSize: 31GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 12.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/MemdA63s#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/MemdA63s#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/FbZVB_aQ#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/FbZVB_aQ#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/FbZVB_aQ#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/FbZVB_aQ#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/q6ZP3tgQ#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/q6ZP3tgQ#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/q6ZP3tgQ#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/q6ZP3tgQ#FileDitch"
+        }
+      ],
+      "sizeBytes": 33285996544
+    },
+    {
+      "titleId": "PPSA34501",
+      "title": "Call of Duty Black Ops",
+      "version": "v01.008",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Call_of_Duty_Black_Ops.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA34501, v01.008, USA, 4.xx BackPort\nSize: 25GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 12.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/C7nu4ktf#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/C7nu4ktf#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/5lsoNhi5#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/5lsoNhi5#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/5lsoNhi5#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/5lsoNhi5#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/Fg5rQGVp#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/Fg5rQGVp#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/Fg5rQGVp#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/Fg5rQGVp#FileDitch"
+        }
+      ],
+      "sizeBytes": 26843545600
+    },
+    {
       "titleId": "PPSA34015",
       "title": "EA SPORTS FC 27",
-      "version": "v01.00.004",
+      "version": "v01.000.004",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/FC27.avif",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA34015, v01.00.004, USA, 4.xx BackPort\nSize: 193GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Unlocker already included (dlc-emu). Only FPKG: Some langs like Spanish, Polish etc need to be unlocked by press R3 button and yes on FC 27 Audio Settings.. By pressing Yes, will simulate the package download and then will be unlocked. Base FPKG & Dump are 12.xx, separated BackPort PKG for 4.xx+ included.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA34015, v01.000.004, USA, 4.xx BackPort\nSize: 193GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Unlocker already included (dlc-emu). Only FPKG: Some langs like Spanish, Polish etc need to be unlocked by press R3 button and yes on FC 27 Audio Settings.. By pressing Yes, will simulate the package download and then will be unlocked. Base FPKG & Dump are 12.xx, separated BackPort PKG for 4.xx+ included.",
       "downloadLinks": [
         {
           "name": "Dump - DataNodes",
@@ -26235,5 +26482,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-10-08T04:00:53.127Z"
+  "_generated": "2026-10-09T04:05:56.513Z"
 }
