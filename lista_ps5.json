@@ -3,6 +3,49 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA25286",
+      "title": "Crimson Desert Enhanced",
+      "version": "v01.000.568",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Crimson_Desert_Enhanced.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA25286, v01.000.568, USA, 4.xx BackPort\nSize: 190GB\nCredits: Files: Deckerr97 & L3G3ND44; Backport: Deckerr97 & L3G3ND44\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort PKG for 4.xx+ included. Might be have problems at launch with ShadowMountPlus 1.7beta4 and beta5, use 1.7beta3.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/75mnND4o#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/75mnND4o#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/75mnND4o#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/75mnND4o#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/Kn5G0gJ4#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/Kn5G0gJ4#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/Kn5G0gJ4#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/Kn5G0gJ4#FileKeeper"
+        }
+      ],
+      "sizeBytes": 204010946560
+    },
+    {
       "titleId": "PPSA20946",
       "title": "The Relic First Guardian",
       "version": "v01.000.027",
@@ -16864,61 +16907,6 @@
       "sizeBytes": 26843545600
     },
     {
-      "titleId": "PPSA25286",
-      "title": "Crimson Desert Deluxe Edition",
-      "version": "v01.000.151",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Crimson_Desert_Deluxe_Edition.avif",
-      "description": "Builds: Standard 5.xx, 4.xx BackPort, DLC\nTags: PPSA25286, v01.000.151, USA, Standard (5.xx) + 4.xx BackPort\nSize: 154GB\nCredits: Files: DUPLEX; Backport: BestPig & Zhwenx; DLC: DUPLEX\nHow to play: Press START/Options - Add-on right after starting a new game. You can equip them after the prologue.",
-      "downloadLinks": [
-        {
-          "name": "Standard 5.xx - AkiraBox",
-          "url": "https://akirabox.com/rk9zKDyEPG0l/file"
-        },
-        {
-          "name": "Standard 5.xx - VikingFile",
-          "url": "https://vikingfile.com/f/X3LWbmegNU"
-        },
-        {
-          "name": "Standard 5.xx - DataNodes",
-          "url": "https://datanodes.to/1pq9ujb786yx"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/dZxG5qM6ZGVj/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/SUCttg8blI"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/ggptl8gb69x6"
-        },
-        {
-          "name": "4.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/5ez7muq5c2in"
-        },
-        {
-          "name": "4.xx BackPort - DataVault",
-          "url": "https://datavaults.co/uq18a9aw92zr"
-        },
-        {
-          "name": "DLC - AkiraBox",
-          "url": "https://akirabox.com/0rpmvL9vLzRg/file"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/2v5jkll8grdh"
-        },
-        {
-          "name": "DLC - FileKeeper",
-          "url": "https://filekeeper.net/shptgcke5skh"
-        }
-      ],
-      "sizeBytes": 165356240896
-    },
-    {
       "titleId": "PPSA17231",
       "title": "SpellForce Conquest of Eo",
       "version": "v01.004.300",
@@ -26885,5 +26873,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-10-11T03:25:01.978Z"
+  "_generated": "2026-10-12T03:48:24.433Z"
 }
