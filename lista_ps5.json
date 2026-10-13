@@ -3,12 +3,716 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA01494",
+      "title": "Borderlands 4 Super Deluxe Edition",
+      "version": "v01.100.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Borderlands_4_UE.jpg",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA01494, v01.100.002, USA, 4.xx BackPort\nSize: 83GB\nCredits: Files: DecKerr97 & L3G3ND44; Backport: DecKerr97 & L3G3ND44; DLC: Pippo\nHow to play: Note: Audio English Only with all subtitles, miss Audio Langs .pak. FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 10.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/oFVQCMpr#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/oFVQCMpr#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/i3xAd7gs#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/i3xAd7gs#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/i3xAd7gs#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/i3xAd7gs#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/Nv3fll3K#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/Nv3fll3K#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/Nv3fll3K#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/Nv3fll3K#FileDitch"
+        }
+      ],
+      "sizeBytes": 89120571392
+    },
+    {
+      "titleId": "PPSA07631",
+      "title": "SAROS",
+      "version": "v01.005.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/SAROS.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA07631, v01.005.002, EUR, 4.xx BackPort\nSize: 166GB\nCredits: Files: DecKerr97 & L3G3ND44; Backport: DecKerr97 & L3G3ND44\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/jlVvxIcL#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/jlVvxIcL#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/jlVvxIcL#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/jlVvxIcL#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/6ODr3eDE#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/6ODr3eDE#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/6ODr3eDE#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/6ODr3eDE#FileDitch"
+        }
+      ],
+      "sizeBytes": 178241142784
+    },
+    {
+      "titleId": "PPSA38272",
+      "title": "Onimusha Dawn of Dreams",
+      "version": "v01.000.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Onimusha_Dawn_of_Dreams.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA38272, v01.000.002, USA, 4.xx BackPort\nSize: 28GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 12.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/u3EfiZjX#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/u3EfiZjX#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/u3EfiZjX#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/u3EfiZjX#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/D8oHJRZU#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/D8oHJRZU#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/D8oHJRZU#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/D8oHJRZU#FileKeeper"
+        }
+      ],
+      "sizeBytes": 30064771072
+    },
+    {
+      "titleId": "PPSA35154",
+      "title": "Hello Neighbor",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Hello_Neighbor.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA35154, v01.001, EUR, 4.xx BackPort\nSize: 5GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/-5ppzF1e#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/-5ppzF1e#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/-5ppzF1e#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/-5ppzF1e#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/gTCsQWTI#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/gTCsQWTI#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/gTCsQWTI#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/gTCsQWTI#FileKeeper"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
+      "titleId": "PPSA33016",
+      "title": "Rayman 30th Anniversary Edition",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Rayman_30th_Anniversary_Edition.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA33016, v01.002, EUR, 4.xx BackPort\nSize: 3GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/jXGLEQJm#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/jXGLEQJm#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/jXGLEQJm#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/jXGLEQJm#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/FrKh3WYk#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/FrKh3WYk#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/FrKh3WYk#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/FrKh3WYk#FileKeeper"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA27623",
+      "title": "ASTRONEER Ultimate Edition",
+      "version": "v01.015",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/ASTRONEER_UE.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA27623, v01.015, EUR, 4.xx BackPort\nSize: 3GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/6px8lcMQ#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/6px8lcMQ#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/x1-pVDBJ#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/x1-pVDBJ#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/x1-pVDBJ#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/x1-pVDBJ#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/X38hOi-R#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/X38hOi-R#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/X38hOi-R#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/X38hOi-R#FileKeeper"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA26012",
+      "title": "Abiotic Factor",
+      "version": "v01.004.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Abiotic_Factor.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA26012, v01.004.003, EUR, 4.xx BackPort\nSize: 2GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 10.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/NWJ5DHtI#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/NWJ5DHtI#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/NWJ5DHtI#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/NWJ5DHtI#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/o6vED6oh#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/o6vED6oh#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/o6vED6oh#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/o6vED6oh#FileKeeper"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
+      "titleId": "PPSA24040",
+      "title": "METAL GEAR SOLID MASTER COLLECTION Vol 2 BONUS CONTENT",
+      "version": "v01.200.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MGS_MASTER_COLLECTION_Vol2_BONUS_CONTENT.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA24040, v01.200.001, JPN, 4.xx BackPort\nSize: 254MB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 10.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/SBQ9d3bM#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/SBQ9d3bM#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/SBQ9d3bM#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/SBQ9d3bM#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/Ya3IBD31#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/Ya3IBD31#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/Ya3IBD31#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/Ya3IBD31#FileKeeper"
+        }
+      ],
+      "sizeBytes": 266338304
+    },
+    {
+      "titleId": "PPSA18216",
+      "title": "METAL GEAR SOLID Peace Walker Master Collection Version",
+      "version": "v01.301",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MGS_Peace_Walker_Master_Collection_Version.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA18216, v01.301, USA, 4.xx BackPort\nSize: 14GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/Ph6Wvwd1#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/Ph6Wvwd1#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/Ph6Wvwd1#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/Ph6Wvwd1#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/xNAlxWVX#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/xNAlxWVX#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/xNAlxWVX#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/xNAlxWVX#FileKeeper"
+        }
+      ],
+      "sizeBytes": 15032385536
+    },
+    {
+      "titleId": "PPSA18194",
+      "title": "METAL GEAR SOLID 4 Guns of the Patriots Master Collection Version",
+      "version": "v01.004.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MGS4_Guns_of_the_Patriots_Master_Collection_Version.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA18194, v01.004.003, USA, 4.xx BackPort\nSize: 49GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 10.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/2WJL9_MF#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/2WJL9_MF#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/2WJL9_MF#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/2WJL9_MF#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/0xDKlLDc#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/0xDKlLDc#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/0xDKlLDc#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/0xDKlLDc#FileKeeper"
+        }
+      ],
+      "sizeBytes": 52613349376
+    },
+    {
+      "titleId": "PPSA17456",
+      "title": "Firefighting Simulator Ignite",
+      "version": "v01.000.070",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Firefighting_Simulator_Ignite.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA17456, v01.000.070, EUR, 4.xx BackPort\nSize: 66GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 10.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/wsu3mrEC#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/wsu3mrEC#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/wsu3mrEC#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/wsu3mrEC#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/6vZb1CuK#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/6vZb1CuK#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/6vZb1CuK#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/6vZb1CuK#FileKeeper"
+        }
+      ],
+      "sizeBytes": 70866960384
+    },
+    {
+      "titleId": "PPSA14431",
+      "title": "Ratchet & Clank Size Matters",
+      "version": "v01.000.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ratchet_and_Clank_Size_Matters.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA14431, v01.000.002, USA, 4.xx BackPort\nSize: 3GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 9.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/9dZX80D1#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/9dZX80D1#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/9dZX80D1#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/9dZX80D1#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/bEYZth0c#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/bEYZth0c#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/bEYZth0c#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/bEYZth0c#FileKeeper"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA14382",
+      "title": "Disney Pixar Buzz Lightyear of Star Command",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Disney_Pixar_Buzz_Lightyear_of_Star_Command.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA14382, v01.000, EUR, 4.xx BackPort\nSize: 3GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 7.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/3tj9AN_O#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/3tj9AN_O#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/3tj9AN_O#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/3tj9AN_O#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/H-SlEQ-x#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/H-SlEQ-x#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/H-SlEQ-x#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/H-SlEQ-x#FileKeeper"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA14325",
+      "title": "Jak and Daxter The Lost Frontier",
+      "version": "v01.000.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Jak_and_Daxter_The_Lost_Frontier.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA14325, v01.000.002, USA, 4.xx BackPort\nSize: 4GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 8.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/-OoqaRqr#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/-OoqaRqr#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/-OoqaRqr#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/-OoqaRqr#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/OnH6pY5m#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/OnH6pY5m#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/OnH6pY5m#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/OnH6pY5m#FileKeeper"
+        }
+      ],
+      "sizeBytes": 4294967296
+    },
+    {
+      "titleId": "PPSA09695",
+      "title": "Daxter",
+      "version": "v01.000.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Daxter.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA09695, v01.000.003, USA, 4.xx BackPort\nSize: 4GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 9.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/HeNVsUVe#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/HeNVsUVe#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/HeNVsUVe#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/HeNVsUVe#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/4rPr6Rr9#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/4rPr6Rr9#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/4rPr6Rr9#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/4rPr6Rr9#FileKeeper"
+        }
+      ],
+      "sizeBytes": 4294967296
+    },
+    {
+      "titleId": "PPSA03706",
+      "title": "My Friend Peppa Pig",
+      "version": "v01.000.002",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/My_Friend_Peppa_Pig.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA03706, v01.000.002, EUR, 3.xx and beyond\nSize: 2GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/dFrqFzjL#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/dFrqFzjL#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/dFrqFzjL#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/dFrqFzjL#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/ZhTIl__B#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/ZhTIl__B#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/ZhTIl__B#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/ZhTIl__B#FileKeeper"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
       "titleId": "PPSA25286",
       "title": "Crimson Desert Enhanced",
       "version": "v01.000.568",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Crimson_Desert_Enhanced.avif",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA25286, v01.000.568, USA, 4.xx BackPort\nSize: 190GB\nCredits: Files: Deckerr97 & L3G3ND44; Backport: Deckerr97 & L3G3ND44\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort PKG for 4.xx+ included. Might be have problems at launch with ShadowMountPlus 1.7beta4 and beta5, use 1.7beta3.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA25286, v01.000.568, USA, 4.xx BackPort\nSize: 190GB\nCredits: Files: DecKerr97 & L3G3ND44; Backport: DecKerr97 & L3G3ND44\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort PKG for 4.xx+ included. Might be have problems at launch with ShadowMountPlus 1.7beta4 and beta5, use 1.7beta3.",
       "downloadLinks": [
         {
           "name": "Dump - DataNodes",
@@ -17779,45 +18483,6 @@
       "sizeBytes": 33285996544
     },
     {
-      "titleId": "PPSA07631",
-      "title": "SAROS",
-      "version": "v01.000",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/SAROS.avif",
-      "description": "Builds: Standard 5.xx, 4.xx BackPort\nTags: PPSA07631, v01.000, EUR, Standard (5.xx) + 4.xx BackPort\nSize: 151GB\nCredits: Files: DUPLEX; Backport: BestPig & Zhwenx\nHow to play: English Audio Only. Audio issue fixed by ManwonHp.",
-      "downloadLinks": [
-        {
-          "name": "Standard 5.xx - AkiraBox",
-          "url": "https://akirabox.com/N2p3DQybxzMa/file"
-        },
-        {
-          "name": "Standard 5.xx - DataNodes",
-          "url": "https://datanodes.to/7hdc71l9khno"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.com/2bJG80xg0GOB/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/gsGCnpH5QC"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/84zkpa5gu6un"
-        },
-        {
-          "name": "4.xx BackPort - FileKeeper",
-          "url": "https://filekeeper.net/v9lpvffwx4er"
-        },
-        {
-          "name": "4.xx BackPort - DataVault",
-          "url": "https://datavaults.co/cxk9y71qyso0"
-        }
-      ],
-      "sizeBytes": 162135015424
-    },
-    {
       "titleId": "PPSA05991",
       "title": "Cygni All Guns Blazing",
       "version": "v01.002",
@@ -26873,5 +27538,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-10-12T03:48:24.433Z"
+  "_generated": "2026-10-13T05:00:00.162Z"
 }
