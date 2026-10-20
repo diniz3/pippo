@@ -3,6 +3,57 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA26344",
+      "title": "Ghost of Yotei Complete Edition",
+      "version": "v02.002",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Ghost_of_Yotei_CE.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA26344, v02.002, USA, 4.xx BackPort\nSize: 204GB\nCredits: Files: prey33 for Additional Langs & DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 4.xx, BackPort already included. About FPKG: BackPort already included on Base.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/wgU42btT#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/wgU42btT#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/1XO_gxwr#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/1XO_gxwr#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/1XO_gxwr#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/1XO_gxwr#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/NhDz6mfT#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/NhDz6mfT#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/NhDz6mfT#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/NhDz6mfT#FileKeeper"
+        }
+      ],
+      "sizeBytes": 219043332096
+    },
+    {
       "titleId": "PPSA36591",
       "title": "STEINSGATE REBOOT",
       "version": "v01.002",
@@ -6246,7 +6297,7 @@
       "version": "v03.005",
       "category": "game",
       "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Returnal.avif",
-      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA01285, v03.005, EUR, Standard (7.xx) + 4.xx BackPork\nSize: 144GB\nCredits: Files: SiESPTA; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA01285, v03.005, EUR, Standard (7.xx) + 4.xx BackPork\nSize: 144GB\nCredits: Files: SiESPTA; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. If not launch set 1 Year back on Console Settings.",
       "downloadLinks": [
         {
           "name": "Standard 7.xx - AkiraBox",
@@ -6428,69 +6479,6 @@
         }
       ],
       "sizeBytes": 91268055040
-    },
-    {
-      "titleId": "PPSA26344",
-      "title": "Ghost of Yotei Deluxe Edition",
-      "version": "v01.512",
-      "category": "game",
-      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Ghost_of_Yotei_Deluxe_Edition.png",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA26344, v01.512, USA, 4.xx BackPort\nSize: 188GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Loading Splash Screen Fix is already included. Pro Features Fix included. FPKG atm is only working up to 11.60, use exFAT if you are above.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/dkD3Ywxv9GLQ/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/rbMzpauz0C"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/vwf1tzmn7bsr"
-        },
-        {
-          "name": "FileKeeper",
-          "url": "https://filekeeper.net/uazmc720gt1o"
-        },
-        {
-          "name": "DataVault",
-          "url": "https://datavaults.co/h7hzl4yqjvnp"
-        },
-        {
-          "name": "DLC - VikingFile",
-          "url": "https://vikingfile.com/f/EazyG0VS2X"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/etgkojb4u8r0"
-        },
-        {
-          "name": "DLC - DataVault",
-          "url": "https://datavaults.co/hm7d2xooa1dt"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/BnkmWv2VrGR0/file"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/XOAWo7gde1"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/oevld7n1hwst"
-        },
-        {
-          "name": "Fpkg - FileKeeper",
-          "url": "https://filekeeper.net/fly8wj43nv37"
-        },
-        {
-          "name": "Fpkg - DataVault",
-          "url": "https://datavaults.co/45th7979bo20"
-        }
-      ],
-      "sizeBytes": 201863462912
     },
     {
       "titleId": "PPSA23226",
@@ -29351,5 +29339,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-10-19T02:49:31.638Z"
+  "_generated": "2026-10-20T02:59:32.955Z"
 }
