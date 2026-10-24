@@ -3,12 +3,63 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24913",
+      "title": "Ace Combat 8 Wings of Theve Deluxe Edition",
+      "version": "v01.001.001",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Ace_Combat_8_Wings_of_Theve_DE.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA24913, v01.001.001, JPN, 4.xx BackPort + 5.xx BackPort\nSize: 232GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPorts Folder included. About FPKG: 5.xx BackPort already included on Base, separated 4.xx BackPort & Original Files PKG included.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/pMZubagv#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/pMZubagv#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/ETOEEHlq#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/ETOEEHlq#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/ETOEEHlq#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/ETOEEHlq#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/MspceXMi#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/MspceXMi#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/MspceXMi#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/MspceXMi#FileKeeper"
+        }
+      ],
+      "sizeBytes": 249108103168
+    },
+    {
       "titleId": "PPSA24662",
       "title": "F1 25 Season 2026 Edition",
       "version": "v01.026",
       "category": "game",
       "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/F1_25_26.avif",
-      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA24662, v01.026, USA, 4.xx BackPort\nSize: 93GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: Using HEN can cause crash. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA24662, v01.026, USA, 4.xx BackPort\nSize: 93GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo & DecKerr97\nHow to play: Using HEN can cause crash. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadLinks": [
         {
           "name": "DLC - DataNodes",
@@ -59,7 +110,7 @@
       "version": "v01.002",
       "category": "game",
       "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Samson.avif",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA38474, v01.002, ASIA, 4.xx BackPort\nSize: 24GB\nCredits: Files: DecKerr97; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 13.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA38474, v01.002, ASIA, 4.xx BackPort\nSize: 24GB\nCredits: Files: Scene; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 13.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadLinks": [
         {
           "name": "Dump - DataNodes",
@@ -145,7 +196,7 @@
       "version": "v01.009.002",
       "category": "game",
       "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Planet_Zoo_UE.avif",
-      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA18026, v01.009.002, EUR, 4.xx BackPort\nSize: 38GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA18026, v01.009.002, EUR, 4.xx BackPort\nSize: 38GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadLinks": [
         {
           "name": "DLC - DataNodes",
@@ -29813,5 +29864,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-10-23T02:56:31.908Z"
+  "_generated": "2026-10-24T02:53:28.802Z"
 }
