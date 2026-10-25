@@ -3,6 +3,194 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA25636",
+      "title": "Echoes of the End Enhanced Edition",
+      "version": "v01.012",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Echoes_of_the_End.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA25636, v01.012, EUR, 4.xx BackPort\nSize: 37GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/1uTZm9IG#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/1uTZm9IG#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/1uTZm9IG#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/1uTZm9IG#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/h6vCX7nF#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/h6vCX7nF#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/h6vCX7nF#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/h6vCX7nF#FileKeeper"
+        }
+      ],
+      "sizeBytes": 39728447488
+    },
+    {
+      "titleId": "PPSA31291",
+      "title": "TEKKEN 3",
+      "version": "v01.000.001",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/TEKKEN_3.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA31291, v01.000.001, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/Ex3NJnEV#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/Ex3NJnEV#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/Ex3NJnEV#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/Ex3NJnEV#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/gX9kk-FJ#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/gX9kk-FJ#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/gX9kk-FJ#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/gX9kk-FJ#FileKeeper"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA99903",
+      "title": "Sonic the Hedgehog 2006 (Unofficial Port)",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Sonic_the_Hedgehog_2006.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA99903, v01.000, USA, 4.xx and beyond\nSize: 5GB\nCredits: Files: Nazky\nHow to play: Use ShadowMountPlus 1.7beta4+. FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://link-vault.org/c/pteMEMRM#AkiraBox"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://link-vault.org/c/pteMEMRM#VikingFile"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://link-vault.org/c/pteMEMRM#DataNodes"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "https://link-vault.org/c/pteMEMRM#FileKeeper"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/Qx6UKRd5#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/Qx6UKRd5#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/Qx6UKRd5#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/Qx6UKRd5#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/nHGmxael#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/nHGmxael#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/nHGmxael#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/nHGmxael#FileKeeper"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
+      "titleId": "PPSA29642",
+      "title": "South of Midnight",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/South_of_Midnight.jpg",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA29642, v01.001, USA, 4.xx BackPort\nSize: 59GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/tRKwxA-J#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/tRKwxA-J#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/tRKwxA-J#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/tRKwxA-J#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/oSWWf0PL#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/oSWWf0PL#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/oSWWf0PL#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/oSWWf0PL#FileKeeper"
+        }
+      ],
+      "sizeBytes": 63350767616
+    },
+    {
       "titleId": "PPSA24913",
       "title": "Ace Combat 8 Wings of Theve Deluxe Edition",
       "version": "v01.001.001",
@@ -29864,5 +30052,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-10-24T02:53:28.802Z"
+  "_generated": "2026-10-25T02:46:01.464Z"
 }
