@@ -3,6 +3,178 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA35999",
+      "title": "KINGDOM HEARTS 3 + Re Mind",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/KINGDOM_HEARTS_3_ReMind.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA35999, v01.001, USA, 4.xx BackPort\nSize: 55GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/uA233eqY#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/uA233eqY#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/uA233eqY#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/uA233eqY#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/NH_P7yb4#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/NH_P7yb4#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/NH_P7yb4#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/NH_P7yb4#FileKeeper"
+        }
+      ],
+      "sizeBytes": 59055800320
+    },
+    {
+      "titleId": "PPSA35909",
+      "title": "KINGDOM HEARTS HD 2.8 FINAL CHAPTER PROLOGUE",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/KINGDOM_HEARTS_HD_2.8_FINAL_CHAPTER_PROLOGUE.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA35909, v01.001, USA, 4.xx BackPort\nSize: 35GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/Gj0_i_5V#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/Gj0_i_5V#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/Gj0_i_5V#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/Gj0_i_5V#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/8wBXcp20#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/8wBXcp20#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/8wBXcp20#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/8wBXcp20#FileKeeper"
+        }
+      ],
+      "sizeBytes": 37580963840
+    },
+    {
+      "titleId": "PPSA35901",
+      "title": "KINGDOM HEARTS HD 1.5+2.5 ReMIX",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/KINGDOM_HEARTS_HD_1.5_2.5_ReMIX.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA35901, v01.001, USA, 4.xx BackPort\nSize: 74GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/RjbrOLhk#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/RjbrOLhk#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/RjbrOLhk#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/RjbrOLhk#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/EpfN5nW9#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/EpfN5nW9#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/EpfN5nW9#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/EpfN5nW9#FileKeeper"
+        }
+      ],
+      "sizeBytes": 79456894976
+    },
+    {
+      "titleId": "PPSA12544",
+      "title": "Hollow Knight Silksong",
+      "version": "v01.000.010",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Hollow_Knight_Silksong.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA12544, v01.000.010, USA, 4.xx BackPort\nSize: 8GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/DZG-IYnJ#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/DZG-IYnJ#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/DZG-IYnJ#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/DZG-IYnJ#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/1FndSrjQ#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/1FndSrjQ#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/1FndSrjQ#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/1FndSrjQ#FileKeeper"
+        }
+      ],
+      "sizeBytes": 8589934592
+    },
+    {
       "titleId": "PPSA25636",
       "title": "Echoes of the End Enhanced Edition",
       "version": "v01.012",
@@ -30052,5 +30224,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-10-25T02:46:01.464Z"
+  "_generated": "2026-10-26T02:43:45.591Z"
 }
