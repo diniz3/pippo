@@ -3,6 +3,186 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA34619",
+      "title": "Sudden Strike 5 Deluxe Edition",
+      "version": "v01.090",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Sudden_Strike_5_DE.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA34619, v01.090, EUR, 4.xx BackPort\nSize: 24GB\nCredits: Files: Karner; Backport: DecKerr97 GUI; DLC: Karner\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/c6Jbu1Yg#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/c6Jbu1Yg#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/8fwuq-GM#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/8fwuq-GM#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/8fwuq-GM#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/8fwuq-GM#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/cDltuLhb#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/cDltuLhb#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/cDltuLhb#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/cDltuLhb#FileKeeper"
+        }
+      ],
+      "sizeBytes": 25769803776
+    },
+    {
+      "titleId": "PPSA27581",
+      "title": "Hellblade Senuas Sacrifice",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Hellblade_Senuas_Sacrifice.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA27581, v01.003, USA, 4.xx BackPort\nSize: 20GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/Ua2ClK5u#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/Ua2ClK5u#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/Ua2ClK5u#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/Ua2ClK5u#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/1-vmbRhQ#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/1-vmbRhQ#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/1-vmbRhQ#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/1-vmbRhQ#FileKeeper"
+        }
+      ],
+      "sizeBytes": 21474836480
+    },
+    {
+      "titleId": "PPSA25991",
+      "title": "Senuas Saga Hellblade 2",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Senuas_Saga_Hellblade_2.avif.jpg",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA25991, v01.002, EUR, 4.xx BackPort\nSize: 73GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/GpBstd2T#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/GpBstd2T#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/GpBstd2T#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/GpBstd2T#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/9MLrSi6U#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/9MLrSi6U#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/9MLrSi6U#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/9MLrSi6U#FileKeeper"
+        }
+      ],
+      "sizeBytes": 78383153152
+    },
+    {
+      "titleId": "PPSA20142",
+      "title": "Survival Fountain of Youth",
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Survival_Fountain_of_Youth.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA20142, v01.007, EUR, 4.xx BackPort\nSize: 23GB\nCredits: Files: Karner; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 9.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/aXmsYB-b#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/aXmsYB-b#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/aXmsYB-b#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/aXmsYB-b#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/RKBONh-d#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/RKBONh-d#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/RKBONh-d#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/RKBONh-d#FileKeeper"
+        }
+      ],
+      "sizeBytes": 24696061952
+    },
+    {
       "titleId": "PPSA26392",
       "title": "The Legend of Heroes Trails beyond the Horizon",
       "version": "v01.006",
@@ -30815,5 +30995,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-10-29T03:55:09.564Z"
+  "_generated": "2026-10-30T03:56:37.622Z"
 }
