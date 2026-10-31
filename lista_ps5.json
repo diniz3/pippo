@@ -3,6 +3,186 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA32793",
+      "title": "Valor Mortis Deluxe Edition",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Valor_Mortis.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA32793, v01.000, EUR, 4.xx BackPort + 5.xx BackPort\nSize: 42GB\nCredits: Files: Biogames; Backport: DecKerr97 GUI; DLC: Pippo & Biogames\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPorts Folder included. About FPKG: 5.xx BackPort already included on Base, 4.xx BackPort Only, Pro Fix & separated Original Files PKG included.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/TAHtQrkX#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/TAHtQrkX#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/pAY5dhJT#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/pAY5dhJT#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/pAY5dhJT#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/pAY5dhJT#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/emMnacB5#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/emMnacB5#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/emMnacB5#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/emMnacB5#FileKeeper"
+        }
+      ],
+      "sizeBytes": 45097156608
+    },
+    {
+      "titleId": "PPSA26362",
+      "title": "TERRIFIER The ArtCade Game",
+      "version": "v01.000.005",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/TERRIFIER_The_ArtCade_Game.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA26362, v01.000.005, EUR, 4.xx BackPort\nSize: 1GB\nCredits: Files: Biogames; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/H38DR-b4#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/H38DR-b4#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/H38DR-b4#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/H38DR-b4#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/DHqWF3Gg#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/DHqWF3Gg#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/DHqWF3Gg#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/DHqWF3Gg#FileKeeper"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA25972",
+      "title": "CarX Street",
+      "version": "v01.000.029",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/CarX_Street.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA25972, v01.000.029, EUR, 4.xx BackPort\nSize: 37GB\nCredits: Files: High-Speed007; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/a90AzG54#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/a90AzG54#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/a90AzG54#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/a90AzG54#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/Phy3daOX#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/Phy3daOX#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/Phy3daOX#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/Phy3daOX#FileKeeper"
+        }
+      ],
+      "sizeBytes": 39728447488
+    },
+    {
+      "titleId": "PPSA25286",
+      "title": "Crimson Desert Enhanced",
+      "version": "v01.000.568",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Crimson_Desert_Enhanced.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA25286, v01.000.568, USA, 4.xx BackPort\nSize: 190GB\nCredits: Files: DecKerr97 & L3G3ND44; Backport: DecKerr97 & L3G3ND44 & Dmitry\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPorts Folder included. About FPKG: BackPort already included on Base (Fixed for 4.xx), separated Original Files PKG included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/75mnND4o#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/75mnND4o#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/75mnND4o#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/75mnND4o#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/1RhV1n0w#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/1RhV1n0w#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/1RhV1n0w#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/1RhV1n0w#FileKeeper"
+        }
+      ],
+      "sizeBytes": 204010946560
+    },
+    {
       "titleId": "PPSA34619",
       "title": "Sudden Strike 5 Deluxe Edition",
       "version": "v01.090",
@@ -4937,49 +5117,6 @@
         }
       ],
       "sizeBytes": 2147483648
-    },
-    {
-      "titleId": "PPSA25286",
-      "title": "Crimson Desert Enhanced",
-      "version": "v01.000.568",
-      "category": "game",
-      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Crimson_Desert_Enhanced.avif",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA25286, v01.000.568, USA, 4.xx BackPort\nSize: 190GB\nCredits: Files: DecKerr97 & L3G3ND44; Backport: DecKerr97 & L3G3ND44\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort PKG for 4.xx+ included. Might be have problems at launch with ShadowMountPlus 1.7beta4 and beta5, use 1.7beta3.",
-      "downloadLinks": [
-        {
-          "name": "Dump - DataNodes",
-          "url": "https://link-vault.org/c/75mnND4o#DataNodes"
-        },
-        {
-          "name": "Dump - FileKeeper",
-          "url": "https://link-vault.org/c/75mnND4o#FileKeeper"
-        },
-        {
-          "name": "Dump - AkiraBox",
-          "url": "https://link-vault.org/c/75mnND4o#AkiraBox"
-        },
-        {
-          "name": "Dump - VikingFile",
-          "url": "https://link-vault.org/c/75mnND4o#VikingFile"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://link-vault.org/c/Kn5G0gJ4#AkiraBox"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://link-vault.org/c/Kn5G0gJ4#VikingFile"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://link-vault.org/c/Kn5G0gJ4#DataNodes"
-        },
-        {
-          "name": "Fpkg - FileKeeper",
-          "url": "https://link-vault.org/c/Kn5G0gJ4#FileKeeper"
-        }
-      ],
-      "sizeBytes": 204010946560
     },
     {
       "titleId": "PPSA20946",
@@ -30995,5 +31132,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-10-30T03:56:37.622Z"
+  "_generated": "2026-10-31T03:40:56.387Z"
 }
