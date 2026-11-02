@@ -3,6 +3,194 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA30363",
+      "title": "Shadow Tactics Blades of the Shogun",
+      "version": "v01.000.004",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Shadow_Tactics_Blades_of_the_Shogun.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA30363, v01.000.004, EUR, 4.xx BackPort\nSize: 8GB\nCredits: Files: b0mba1992; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/wNc09pmW#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/wNc09pmW#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/wNc09pmW#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/wNc09pmW#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/GUynGM9Y#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/GUynGM9Y#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/GUynGM9Y#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/GUynGM9Y#FileKeeper"
+        }
+      ],
+      "sizeBytes": 8589934592
+    },
+    {
+      "titleId": "PPSA28038",
+      "title": "Halo Campaign Evolved Premium Edition",
+      "version": "v17.661.002",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Halo_Campaign_Evolved_PE.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA28038, v17.661.002, USA, 4.xx BackPort\nSize: 127GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: Pippo & DUPLEX\nHow to play: Note: Account must be activated, if play Split Screen then the 2nd need to be activated or cant join (offact -> np-fake-signin). FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort + Coop Fix already included on Base, Pro Fix & Original Files PKG included.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/nI1ITNY2#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/nI1ITNY2#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/bUGLi7fz#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/bUGLi7fz#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/bUGLi7fz#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/bUGLi7fz#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/mjxjEL_4#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/mjxjEL_4#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/mjxjEL_4#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/mjxjEL_4#FileKeeper"
+        }
+      ],
+      "sizeBytes": 136365211648
+    },
+    {
+      "titleId": "PPSA23559",
+      "title": "Anno 117 Pax Romana Gold Edition",
+      "version": "v02.100",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Anno_117_Pax_Romana_GE.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA23559, v02.100, EUR, 4.xx BackPort\nSize: 130GB\nCredits: Files: Karner; Backport: DecKerr97 GUI; DLC: Karner\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/FwVOwygH#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/FwVOwygH#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/6vd88f2i#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/6vd88f2i#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/6vd88f2i#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/6vd88f2i#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/jWpSSJUL#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/jWpSSJUL#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/jWpSSJUL#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/jWpSSJUL#FileKeeper"
+        }
+      ],
+      "sizeBytes": 139586437120
+    },
+    {
+      "titleId": "PPSA23126",
+      "title": "Palworld",
+      "version": "v01.102.999",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Palworld.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA23126, v01.102.999, USA, 4.xx BackPort\nSize: 37GB\nCredits: Files: b0mba1992; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 9.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/0tFcH7I5#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/0tFcH7I5#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/0tFcH7I5#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/0tFcH7I5#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/WCI8-b8P#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/WCI8-b8P#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/WCI8-b8P#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/WCI8-b8P#FileKeeper"
+        }
+      ],
+      "sizeBytes": 39728447488
+    },
+    {
       "titleId": "PPSA29340",
       "title": "Halloween The Game",
       "version": "v01.011",
@@ -31304,5 +31492,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-11-01T03:48:42.810Z"
+  "_generated": "2026-11-02T03:53:42.501Z"
 }
