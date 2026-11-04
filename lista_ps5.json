@@ -3,6 +3,202 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA36082",
+      "title": "Hades 2",
+      "version": "v01.006",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Hades_2.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA36082, v01.006, EUR, 4.xx BackPort\nSize: 9GB\nCredits: Files: DUPLEX; Backport: PSVIETHOA\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/7fNNq0dJ#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/7fNNq0dJ#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/7fNNq0dJ#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/7fNNq0dJ#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/lNcXDrfJ#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/lNcXDrfJ#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/lNcXDrfJ#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/lNcXDrfJ#FileKeeper"
+        }
+      ],
+      "sizeBytes": 9663676416
+    },
+    {
+      "titleId": "PPSA28511",
+      "title": "Out of Sight Complete Edition",
+      "version": "v01.006",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Out_of_Sight_CE.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA28511, v01.006, EUR, 4.xx BackPort\nSize: 9GB\nCredits: Files: Scene; Backport: DecKerr97 GUI; DLC: Pippo & Scene\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/82IPPZ5L#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/82IPPZ5L#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/SLzN53MJ#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/SLzN53MJ#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/SLzN53MJ#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/SLzN53MJ#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/n66INTJs#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/n66INTJs#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/n66INTJs#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/n66INTJs#FileKeeper"
+        }
+      ],
+      "sizeBytes": 9663676416
+    },
+    {
+      "titleId": "PPSA22207",
+      "title": "INAZUMA ELEVEN Victory Road Deluxe Edition",
+      "version": "v07.012",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/INAZUMA_ELEVEN_Victory_Road_DE.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA22207, v07.012, JPN, 4.xx BackPort\nSize: 114GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/fPNPZvfz#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/fPNPZvfz#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/MSKP3rIV#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/MSKP3rIV#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/MSKP3rIV#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/MSKP3rIV#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/BxcJpHZi#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/BxcJpHZi#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/BxcJpHZi#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/BxcJpHZi#FileKeeper"
+        }
+      ],
+      "sizeBytes": 122406567936
+    },
+    {
+      "titleId": "PPSA07247",
+      "title": "Warhammer 40000 Boltgun Forges of Corruption Edition",
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Warhammer_40000_Boltgun.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA07247, v01.007, EUR, 4.xx BackPort\nSize: 13GB\nCredits: Files: zXRomlx2; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 8.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/oTyJVyVU#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/oTyJVyVU#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/DJrtCg-5#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/DJrtCg-5#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/DJrtCg-5#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/DJrtCg-5#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/xdMeeQ-W#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/xdMeeQ-W#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/xdMeeQ-W#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/xdMeeQ-W#FileKeeper"
+        }
+      ],
+      "sizeBytes": 13958643712
+    },
+    {
       "titleId": "PPSA31544",
       "title": "FINAL FANTASY RESONANCE Deluxe Edition",
       "version": "v01.000.001",
@@ -31672,5 +31868,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-11-03T04:55:52.554Z"
+  "_generated": "2026-11-04T04:26:05.964Z"
 }
