@@ -3,6 +3,178 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA35023",
+      "title": "YinYang Street",
+      "version": "v01.000.002",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/YinYang_Street.jpg",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA35023, v01.000.002, USA, 4.xx BackPort\nSize: 4GB\nCredits: Files: Zhengpai Yanba; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/uYubiinh#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/uYubiinh#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/uYubiinh#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/uYubiinh#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/d12Rs5Ou#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/d12Rs5Ou#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/d12Rs5Ou#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/d12Rs5Ou#FileKeeper"
+        }
+      ],
+      "sizeBytes": 4294967296
+    },
+    {
+      "titleId": "PPSA28979",
+      "title": "Oxide Room 208",
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/Oxide_Room_208.png",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA28979, v01.007, EUR, 4.xx BackPort + 5.xx BackPort\nSize: 18GB\nCredits: Files: ChestCakes; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPorts Folder included. About FPKG: 5.xx BackPort already included on Base, 4.xx BackPort Only & Original Files PKG included.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/f92ZRgjH#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/f92ZRgjH#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/f92ZRgjH#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/f92ZRgjH#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/R8NHu3BW#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/R8NHu3BW#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/R8NHu3BW#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/R8NHu3BW#FileKeeper"
+        }
+      ],
+      "sizeBytes": 19327352832
+    },
+    {
+      "titleId": "PPSA27102",
+      "title": "The Sinking Forest",
+      "version": "v01.000.008",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/The_Sinking_Forest.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA27102, v01.000.008, USA, 4.xx BackPort\nSize: 12GB\nCredits: Files: ChestCakes; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/ZxAKj1G3#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/ZxAKj1G3#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/ZxAKj1G3#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/ZxAKj1G3#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/VwDO0dkz#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/VwDO0dkz#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/VwDO0dkz#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/VwDO0dkz#FileKeeper"
+        }
+      ],
+      "sizeBytes": 12884901888
+    },
+    {
+      "titleId": "PPSA23172",
+      "title": "Keylocker",
+      "version": "v01.000.008",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/Keylocker.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA23172, v01.000.008, USA, 4.xx BackPort\nSize: 774MB\nCredits: Files: Salt; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/uKOih0KH#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/uKOih0KH#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/uKOih0KH#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/uKOih0KH#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/9vt06302#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/9vt06302#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/9vt06302#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/9vt06302#FileKeeper"
+        }
+      ],
+      "sizeBytes": 811597824
+    },
+    {
       "titleId": "PPSA24263",
       "title": "Call of Duty Modern Warfare 3",
       "version": "v01.004",
@@ -33124,5 +33296,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-11-11T04:10:23.999Z"
+  "_generated": "2026-11-12T05:21:48.541Z"
 }
