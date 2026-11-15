@@ -3,6 +3,194 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA31246",
+      "title": "RESIDENT EVIL requiem Deluxe Edition",
+      "version": "v01.310",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/Library_Saves_1/Resident_Evil_Requiem_Deluxe_Edition.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA31246, v01.310, EUR, 4.xx BackPort\nSize: 133GB\nCredits: Files: dunaevnick; Backport: DecKerr97 GUI; DLC: dunaevnick\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/mMvqAQmN#DataNodes"
+        },
+        {
+          "name": "DLC - AkiraBox",
+          "url": "https://link-vault.org/c/mMvqAQmN#AkiraBox"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/u3Mj_23C#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/u3Mj_23C#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/u3Mj_23C#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/u3Mj_23C#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/jVeaEW37#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/jVeaEW37#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/jVeaEW37#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/jVeaEW37#FileKeeper"
+        }
+      ],
+      "sizeBytes": 142807662592
+    },
+    {
+      "titleId": "PPSA28608",
+      "title": "Darwins Paradox",
+      "version": "v01.000.003",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/Darwins_Paradox.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA28608, v01.000.003, EUR, 4.xx BackPort\nSize: 17GB\nCredits: Files: Scene; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/79hawb6y#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/79hawb6y#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/79hawb6y#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/79hawb6y#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/N5V0xXNz#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/N5V0xXNz#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/N5V0xXNz#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/N5V0xXNz#FileKeeper"
+        }
+      ],
+      "sizeBytes": 18253611008
+    },
+    {
+      "titleId": "PPSA19411",
+      "title": "Tainted Grail Fall of Avalon Excalibur Edition",
+      "version": "v01.025",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/Tainted_Grail_Fall_of_Avalon_EE.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA19411, v01.025, EUR, 4.xx BackPort\nSize: 43GB\nCredits: Files: SHA3X2; Backport: SHA3X2; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 4.xx, BackPort already included. About FPKG: BackPort already included on Base.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/eu0JPfim#DataNodes"
+        },
+        {
+          "name": "DLC - AkiraBox",
+          "url": "https://link-vault.org/c/eu0JPfim#AkiraBox"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/Dx9QnU6k#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/Dx9QnU6k#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/Dx9QnU6k#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/Dx9QnU6k#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/tat0RO7A#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/tat0RO7A#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/tat0RO7A#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/tat0RO7A#FileKeeper"
+        }
+      ],
+      "sizeBytes": 46170898432
+    },
+    {
+      "titleId": "PPSA14322",
+      "title": "Patapon 3",
+      "version": "v01.000.003",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/Patapon_3.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA14322, v01.000.003, USA, 4.xx BackPort\nSize: 2GB\nCredits: Files: dunaevnick; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 9.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/zy1bnUJT#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/zy1bnUJT#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/zy1bnUJT#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/zy1bnUJT#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/iqnSd8yE#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/iqnSd8yE#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/iqnSd8yE#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/iqnSd8yE#FileKeeper"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
       "titleId": "PPSA35245",
       "title": "Godzilla Destroy All Monsters Melee Remastered",
       "version": "v01.000",
@@ -10460,45 +10648,6 @@
         }
       ],
       "sizeBytes": 386547056640
-    },
-    {
-      "titleId": "PPSA31246",
-      "title": "Resident Evil Requiem Deluxe Edition",
-      "version": "v01.200",
-      "category": "game",
-      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/Library_Saves_1/Resident_Evil_Requiem_Deluxe_Edition.avif",
-      "description": "Builds: Fpkg\nTags: PPSA31246, v01.200, EUR, DLCs Merged, 4.xx BackPork\nSize: 123GB\nCredits: Files: DUPLEX; Backport: BestPig; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/b5OzdpX14zB8/file"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/8309wmzhalqs"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/EL73g7Bg939B/file"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/Ac3J00OVNH"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/zzurgb230iai"
-        },
-        {
-          "name": "Fpkg - FileKeeper",
-          "url": "https://filekeeper.net/v71xa9avy0jp"
-        },
-        {
-          "name": "Fpkg - Filed",
-          "url": "https://fileditchfiles.st/balpha21/8170b36d08658a12b664/PPSA31246-Compressed.7z"
-        }
-      ],
-      "sizeBytes": 132070244352
     },
     {
       "titleId": "PPSA28420",
@@ -33640,5 +33789,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-11-14T04:31:43.046Z"
+  "_generated": "2026-11-15T04:20:02.044Z"
 }
