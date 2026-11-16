@@ -3,6 +3,186 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA26767",
+      "title": "Deadzone Rogue",
+      "version": "v01.001.022",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/Deadzone_Rogue.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA26767, v01.001.022, USA, 4.xx BackPort\nSize: 22GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/WR1QFtC5#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/WR1QFtC5#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/WR1QFtC5#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/WR1QFtC5#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/zE_4cgQj#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/zE_4cgQj#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/zE_4cgQj#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/zE_4cgQj#FileKeeper"
+        }
+      ],
+      "sizeBytes": 23622320128
+    },
+    {
+      "titleId": "PPSA08668",
+      "title": "FINAL FANTASY VII REBIRTH Deluxe Edition",
+      "version": "v01.080",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/FINAL_FANTASY_VII_REBIRTH_DE.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA08668, v01.080, EUR, 4.xx BackPort\nSize: 379GB\nCredits: Files: DUPLEX; Backport: ManwonHp & Plma; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 9.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/xFDAf7Vv#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/xFDAf7Vv#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/kwQ-H7mD#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/kwQ-H7mD#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/kwQ-H7mD#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/kwQ-H7mD#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/OhT7E5sd#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/OhT7E5sd#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/OhT7E5sd#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/OhT7E5sd#FileKeeper"
+        }
+      ],
+      "sizeBytes": 406948151296
+    },
+    {
+      "titleId": "PPSA07020",
+      "title": "Serious Sam Siberian Mayhem",
+      "version": "v01.000.002",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/Serious_Sam_Siberian_Mayhem.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA07020, v01.000.002, USA, 4.xx and beyond\nSize: 20GB\nCredits: Files: whyh9000; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/cVGmwnME#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/cVGmwnME#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/cVGmwnME#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/cVGmwnME#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/youKtpTR#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/youKtpTR#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/youKtpTR#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/youKtpTR#FileKeeper"
+        }
+      ],
+      "sizeBytes": 21474836480
+    },
+    {
+      "titleId": "PPSA06207",
+      "title": "What Remains of Edith Finch",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/What_Remains_of_Edith_Finch.avif",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA06207, v01.001, USA, 4.xx BackPort\nSize: 6GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/qDeClvZr#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/qDeClvZr#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/qDeClvZr#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/qDeClvZr#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/hUjR3oiY#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/hUjR3oiY#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/hUjR3oiY#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/hUjR3oiY#FileKeeper"
+        }
+      ],
+      "sizeBytes": 6442450944
+    },
+    {
       "titleId": "PPSA31246",
       "title": "RESIDENT EVIL requiem Deluxe Edition",
       "version": "v01.310",
@@ -33789,5 +33969,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-11-15T04:20:02.044Z"
+  "_generated": "2026-11-16T04:19:17.987Z"
 }
