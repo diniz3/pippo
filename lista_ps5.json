@@ -3,6 +3,100 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24326",
+      "title": "The Legend of Heroes Trails through Daybreak 2 Ultimate Edition",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/The_Legend_of_Heroes_Trails_through_Daybreak_2_UE.jpg",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA24326, v01.002, USA, DLCs Merged, 4.xx BackPort\nSize: 47GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 5.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/sAswQB_4#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/sAswQB_4#FileKeeper"
+        },
+        {
+          "name": "Dump - DataVault",
+          "url": "https://link-vault.org/c/sAswQB_4#DataVaults"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/sAswQB_4#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://link-vault.org/c/yRzkSTe4#DataVaults"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/yRzkSTe4#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/yRzkSTe4#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/yRzkSTe4#FileKeeper"
+        }
+      ],
+      "sizeBytes": 50465865728
+    },
+    {
+      "titleId": "PPSA35314",
+      "title": "MudRunner American Wilds Edition",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/MudRunner_AWE.jpg",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA35314, v01.000, USA, 4.xx BackPort\nSize: 2GB\nCredits: Files: Zhengpai Yanba; Backport: DecKerr97 GUI; DLC: Pippo & Zhengpai Yanba\nHow to play: Note: Own ZSTD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/sTeQjokA#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/sTeQjokA#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/h8MDTohe#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/h8MDTohe#FileKeeper"
+        },
+        {
+          "name": "Dump - DataVault",
+          "url": "https://link-vault.org/c/h8MDTohe#DataVaults"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/h8MDTohe#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataVault",
+          "url": "https://link-vault.org/c/TUybB52w#DataVaults"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/TUybB52w#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/TUybB52w#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/TUybB52w#FileKeeper"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
       "titleId": "PPSA28769",
       "title": "Cairn Deluxe Edition",
       "version": "v01.001.393",
@@ -34894,5 +34988,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-11-23T05:12:48.320Z"
+  "_generated": "2026-11-24T07:56:16.031Z"
 }
