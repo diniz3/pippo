@@ -3,11 +3,113 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA13896",
+      "title": "Shadow Gambit The Cursed Crew Complete Edition",
+      "version": "v01.002.004",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/Shadow_Gambit_The_Cursed_Crew_CE.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA13896, v01.002.004, ASIA, 4.xx BackPort\nSize: 27GB\nCredits: Files: Zhengpai Yanba; Backport: DecKerr97 GUI; DLC: Pippo & Zhengpai Yanba\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/ZRkWI5DX#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/ZRkWI5DX#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/2czeAJOJ#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/2czeAJOJ#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/2czeAJOJ#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/2czeAJOJ#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/7zy9jfgB#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/7zy9jfgB#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/7zy9jfgB#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/7zy9jfgB#FileKeeper"
+        }
+      ],
+      "sizeBytes": 28991029248
+    },
+    {
+      "titleId": "PPSA08069",
+      "title": "Sherlock Holmes The Awakened Deluxe Edition",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/Sherlock_Holmes_The_Awakened_DE.avif",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA08069, v01.002, EUR, 4.xx BackPort\nSize: 40GB\nCredits: Files: Zhengpai Yanba; Backport: DecKerr97 GUI; DLC: Pippo & Zhengpai Yanba\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 6.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/QDWuJWxQ#DataNodes"
+        },
+        {
+          "name": "DLC - DataVault",
+          "url": "https://link-vault.org/c/QDWuJWxQ#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/dsHi4q_c#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/dsHi4q_c#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/dsHi4q_c#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/dsHi4q_c#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/Vu6XDbbY#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/Vu6XDbbY#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/Vu6XDbbY#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/Vu6XDbbY#FileKeeper"
+        }
+      ],
+      "sizeBytes": 42949672960
+    },
+    {
       "titleId": "PPSA24326",
       "title": "The Legend of Heroes Trails through Daybreak 2 Ultimate Edition",
       "version": "v01.002",
       "category": "game",
-      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/The_Legend_of_Heroes_Trails_through_Daybreak_2_UE.jpg",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/The_Legend_of_Heroes_Trails_through_Daybreak_2_UE.avif",
       "description": "Builds: Dump, Fpkg\nTags: PPSA24326, v01.002, USA, DLCs Merged, 4.xx BackPort\nSize: 47GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 5.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadLinks": [
         {
@@ -50,7 +152,7 @@
       "title": "MudRunner American Wilds Edition",
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/MudRunner_AWE.jpg",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/November_2026/MudRunner_AWE.avif",
       "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA35314, v01.000, USA, 4.xx BackPort\nSize: 2GB\nCredits: Files: Zhengpai Yanba; Backport: DecKerr97 GUI; DLC: Pippo & Zhengpai Yanba\nHow to play: Note: Own ZSTD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadLinks": [
         {
@@ -34988,5 +35090,5 @@
       "sizeBytes": 3221225472
     }
   ],
-  "_generated": "2026-11-24T07:56:16.031Z"
+  "_generated": "2026-11-25T06:32:28.025Z"
 }
